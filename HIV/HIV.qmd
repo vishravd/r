@@ -1,0 +1,32 @@
+---
+title: "HIV analysis"
+author: "Vishwa Dharmasena"
+date: "15/12/2024"
+---
+
+```{r echo=FALSE}
+library(tidyverse)
+hiv_data <- read_csv("RELAY_WHS.csv", show_col_types = FALSE) |> 
+  select("DIM_TIME", "GEO_NAME_SHORT", "RATE_PER_1000_N") |> 
+  rename(
+    year = DIM_TIME,
+    country = GEO_NAME_SHORT,
+    rate_per_1000 = RATE_PER_1000_N
+  ) 
+
+south_africa <- hiv_data |> 
+  filter(country %in% c("South Africa", "Kenya", "Zimbabwe", "Eswatini", "Botswana", "Lesotho"))
+```
+
+```{r}
+south_africa |>
+  ggplot(aes(x = year, y = rate_per_1000, color = country)) +
+  geom_line() +
+  theme_minimal()
+
+
+```
+
+```{r}
+
+```

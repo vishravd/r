@@ -1,0 +1,28 @@
+---
+title: "conditional"
+format: html
+---
+
+```{r}
+library(tidyverse)
+n <- 10^5
+child1 <- tibble(value = sample(2,n,replace=TRUE))
+child2 <- tibble(value = sample(2,n,replace=TRUE))
+
+```
+
+```{r}
+n.b <- sum(child1==1)
+n.ab <- sum(child1==1 & child2==1)
+n.ab/n.b
+```
+
+```{r}
+n.b <- sum(child1==1 | child2==1)
+n.ab <-sum(child1==1 & child2==1)
+n.ab/n.b
+```
+
+```{r}
+sum(child1==1 & child2==1) / n
+```

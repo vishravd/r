@@ -1,0 +1,132 @@
+---
+title: "Analysis of 20,000 chess games from Lichess.com"
+format: html
+editor: visual
+---
+
+This is an analysis of over 20,000 online chess games played on Lichess.com. Data was downloaded from Kaggle.com. I will try to analyze whether white has an advantage, the median duration of games (time and no. of moves) and most popular openings played.
+
+```{r}
+library(tidyverse)
+games <- read_csv("games.csv")
+```
+
+```{r}
+winners_colour <- games |> 
+  count(winner) |> 
+  mutate(winner = factor(winner, levels = c("white", "black", "draw")))
+
+winners_colour |> 
+  ggplot(aes(x = winner, y = n)) +
+  geom_col()
+
+```
+
+White has a slight advantage.
+
+```{r}
+games <- games |> 
+  mutate(duration_minutes = (last_move_at - created_at) / (1000 * 60))
+
+zero_duration_count <- games |> 
+  filter(duration_minutes == 0) |> 
+  count() |> 
+  pull(n)
+
+total_games <- games |> 
+  count() |> 
+  pull(n)
+
+percentage_zero_games <- (zero_duration_count/total_games) * 100
+
+print(percentage_zero_games)
+```
+
+There were a high percentage of games showing a play duration of zero. This is clearly an error in data collection, and those games will be removed for the rest of the analysis.
+
+```{r}
+
+games_greater_than_0 <- games |> 
+  filter(duration_minutes != 0)
+
+games_greater_than_0 |> 
+  filter(duration_minutes != 0 & duration_minutes < 200) |> 
+  ggplot(aes(x = duration_minutes)) +
+  geom_histogram(binwidth = 1)
+
+
+
+```
+
+Most games are less than 50 minutes, but there is also a high number of games lasting for 166 minutes. This is probably because of a default system setting that records disconnected games as lasting for that long.
+
+```{r}
+games_greater_than_0 |> 
+  filter(duration_minutes < 50) |> 
+  ggplot(aes(x = duration_minutes)) +
+  geom_histogram(binwidth = 1)
+```
+
+Zooming in, most games are about 10 minutes long.
+
+```{r}
+games_greater_than_0 <- games_greater_than_0 |> 
+  mutate(move_count = str_count(moves, "\\S+"))
+
+games_greater_than_0 |> 
+  filter(move_count < 250) |> 
+  ggplot(aes(x = move_count)) +
+  geom_histogram(binwidth = 1)
+
+```
+
+As for the moves, most games last for about 50 moves, but there is a strange spike at the beginning.
+
+```{r}
+n_games_with_x_moves <- games_greater_than_0 |> 
+  count(move_count)
+
+victory_status_counts <- games_greater_than_0 |> 
+  filter(move_count == 2) |> 
+  count(victory_status)
+  
+print(victory_status_counts)
+
+```
+
+153 games end in two moves, all by resignation or running out of time.
+
+```{r}
+
+grouped_by_opening <- games_greater_than_0 |> 
+  group_by(opening_name) |> 
+  summarise(game_count = n()) |> 
+  arrange(desc(game_count))
+
+print(grouped_by_opening, width = Inf)
+```
+
+These are the most popular openings played.
+
+```{r}
+
+popular_openings <- games_greater_than_0 |> 
+  group_by(opening_name) |> 
+  filter(n() >= 100) |> 
+  ungroup()
+
+black_win_rate <- popular_openings |> 
+  filter(winner %in% c("black", "white")) |> 
+  group_by(opening_name, winner) |> 
+  summarise(game_count = n(), .groups = "drop") |> 
+  pivot_wider(names_from = winner, values_from = game_count, values_fill = 0) |> 
+  rename(black_win_count = black, white_win_count = white) |> 
+  arrange(desc(black_win_count + white_win_count))
+
+black_win_rate <- black_win_rate |> 
+  mutate(black_win_rate = black_win_count / (black_win_count + white_win_count) * 100) |> 
+  arrange(desc(black_win_rate))
+  
+
+
+```

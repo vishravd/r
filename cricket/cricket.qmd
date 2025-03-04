@@ -1,0 +1,42 @@
+---
+title: "Analysis of cricket matches"
+format: html
+editor: visual
+---
+
+```{r}
+library(tidyverse)
+library(janitor)
+odi_match_results <- read_csv("odi_match_results.csv") |> 
+  clean_names()
+```
+
+```{r}
+odi_match_results <- odi_match_results |>
+  mutate(match_date = str_replace(match_date, "(\\d{1,2})-(\\d{1,2}),", "\\2,")) |>
+  mutate(match_date = mdy(match_date))
+```
+
+```{r}
+sri_lanka <- odi_match_results |> 
+  filter(team_1 == "Sri Lanka" | team_2 == "Sri Lanka") |> 
+  mutate(winner_logic_vector = (winner == "Sri Lanka"))  |> 
+  mutate(year = year(match_date))
+
+sri_lanka_win_rate <- sri_lanka |> 
+  group_by(year) |> 
+  summarise(
+    matches = n(),
+    wins = sum(winner_logic_vector),
+    losses = matches - wins,
+    win_rate = (wins / matches) *100
+  )
+
+sri_lanka_win_rate |> 
+  ggplot(aes(x = year, y = win_rate)) +
+  geom_point() +
+  geom_line()
+```
+
+```{r}
+```

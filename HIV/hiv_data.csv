@@ -1,0 +1,6835 @@
+year,country,rate_per_1000
+2016,El Salvador,0.14
+2023,El Salvador,0.13
+1990,Albania,0.01
+1998,Albania,0.01
+2003,Albania,0.1
+2006,Albania,0.1
+2009,Albania,0.1
+2010,Albania,0.1
+2011,Albania,0.1
+2012,Albania,0.1
+1993,Argentina,0.17
+1997,Argentina,0.15
+2000,Argentina,0.14
+2006,Argentina,0.14
+2012,Argentina,0.14
+2015,Argentina,0.13
+2016,Argentina,0.13
+1991,Barbados,0.75
+1994,Barbados,0.77
+2000,Barbados,0.61
+2002,Barbados,0.56
+2007,Barbados,0.42
+2008,Barbados,0.38
+2011,Barbados,0.32
+2017,Barbados,0.22
+2019,Barbados,0.19
+1998,Brazil,0.25
+2005,Brazil,0.25
+2007,Brazil,0.25
+2009,Brazil,0.25
+2012,Brazil,0.25
+2018,Brazil,0.23
+2020,Brazil,0.23
+1990,Belize,0.28
+2008,Guinea,1
+2009,Guinea,0.94
+2012,Guinea,0.78
+2016,Guinea,0.72
+2018,Guinea,0.65
+2020,Guinea,0.5
+2021,Guinea,0.43
+2023,Guinea,0.33
+1992,Guyana,0.5
+1994,Guyana,0.64
+1998,Guyana,0.83
+2006,Iran (Islamic Republic of),0.1
+2011,Iran (Islamic Republic of),0.1
+2018,Iran (Islamic Republic of),0.1
+2021,Iran (Islamic Republic of),0.1
+2022,Iran (Islamic Republic of),0.1
+2023,Iran (Islamic Republic of),0.1
+1990,Iraq,NA
+1994,Iraq,NA
+1995,Iraq,NA
+2000,Iraq,NA
+2008,Iraq,NA
+2010,Kazakhstan,0.15
+2012,Kazakhstan,0.16
+2015,Kazakhstan,0.16
+2021,Kazakhstan,0.12
+2023,Kazakhstan,0.12
+1993,Jordan,0.01
+1995,Jordan,0.01
+1997,Jordan,0.01
+2004,Jordan,0.01
+2005,Jordan,0.01
+2007,Jordan,0.01
+2008,Jordan,0.01
+2018,Kyrgyzstan,0.12
+2022,Kyrgyzstan,0.11
+2023,Kyrgyzstan,0.11
+1991,Lao People's Democratic Republic,0.01
+1994,Lao People's Democratic Republic,0.1
+1996,Lao People's Democratic Republic,0.1
+2001,Lao People's Democratic Republic,0.14
+2004,Lao People's Democratic Republic,0.15
+2023,Republic of Moldova,0.3
+1994,Montenegro,0.01
+1996,Montenegro,0.01
+1997,Montenegro,0.1
+1999,Montenegro,0.1
+2011,Netherlands (Kingdom of the),0.1
+2014,Netherlands (Kingdom of the),0.1
+2015,Netherlands (Kingdom of the),0.1
+2018,Netherlands (Kingdom of the),0.1
+2016,Niue,NA
+2017,Niue,NA
+2019,Niue,NA
+2022,Niue,NA
+1993,Norway,NA
+1994,Norway,NA
+1999,Norway,NA
+2003,Norway,NA
+2006,Norway,NA
+2009,Norway,NA
+2010,Norway,NA
+2017,Peru,0.18
+2022,Peru,0.19
+1990,Philippines,0.01
+1994,Philippines,0.01
+2004,Philippines,0.1
+2014,Philippines,0.1
+2012,Russian Federation,NA
+2013,Russian Federation,NA
+2015,Russian Federation,NA
+1991,Rwanda,4.3
+1992,Rwanda,4.2
+1995,Rwanda,4.1
+2005,Rwanda,2
+2004,Seychelles,NA
+2012,Seychelles,NA
+2018,Seychelles,NA
+2020,Seychelles,NA
+1997,Sierra Leone,1.3
+2003,Sierra Leone,1.1
+2009,Sierra Leone,0.91
+2011,Sierra Leone,0.83
+2012,Zimbabwe,5.3
+2017,Sao Tome and Principe,NA
+2007,Viet Nam,0.2
+2008,Viet Nam,0.19
+2011,Viet Nam,0.16
+2015,Viet Nam,0.12
+2017,Viet Nam,0.1
+2018,Viet Nam,0.1
+1993,Slovenia,0.01
+1995,Slovenia,0.01
+1998,Slovenia,0.01
+2004,Slovenia,0.1
+1990,Eswatini,3.5
+1992,Eswatini,10
+1993,Eswatini,14
+2002,Eswatini,22
+2005,Eswatini,20
+2007,Eswatini,19
+2010,Eswatini,17
+2015,Eswatini,13
+2016,Eswatini,9.9
+2020,Eswatini,5.1
+2021,Eswatini,4.8
+2012,Tonga,NA
+2013,Tonga,NA
+2022,Tonga,NA
+1990,Trinidad and Tobago,NA
+1992,Trinidad and Tobago,NA
+1996,Trinidad and Tobago,NA
+1997,Trinidad and Tobago,NA
+1999,Trinidad and Tobago,NA
+2020,Mauritius,0.79
+1995,Mexico,0.12
+2005,Mexico,0.14
+2006,Mexico,0.15
+2010,Mexico,0.16
+2012,Mexico,0.16
+2020,Oman,0.1
+2023,Oman,0.1
+2001,Namibia,11
+2003,Namibia,9.7
+2006,Namibia,7.6
+2012,Namibia,5.5
+2022,Niger,0.1
+1990,Nigeria,1.3
+1997,Nigeria,1.7
+1998,Nigeria,1.6
+2001,Nigeria,1.4
+2005,Nigeria,1.2
+1999,Slovenia,0.01
+2003,Slovenia,0.1
+2006,Slovenia,0.1
+2010,Slovenia,0.1
+2014,Slovenia,0.1
+2019,Slovenia,0.1
+1997,Somalia,NA
+1991,Eswatini,6.4
+1995,Eswatini,21
+1997,Eswatini,23
+1998,Eswatini,23
+2001,Eswatini,22
+2008,Eswatini,19
+2009,Eswatini,18
+2013,Eswatini,17
+2014,Eswatini,16
+2016,Tonga,NA
+2017,Tonga,NA
+2020,Tonga,NA
+1993,Trinidad and Tobago,NA
+2001,Trinidad and Tobago,NA
+2019,Ukraine,0.18
+2020,Ukraine,0.17
+2021,Ukraine,0.16
+2022,Ukraine,NA
+2023,Ukraine,NA
+1991,North Macedonia,0.01
+1994,North Macedonia,0.01
+1996,North Macedonia,0.01
+2001,North Macedonia,0.01
+2006,North Macedonia,0.01
+2007,North Macedonia,0.1
+2004,Uzbekistan,NA
+2007,Uzbekistan,0.13
+2009,Uzbekistan,0.13
+2010,Uzbekistan,0.13
+2012,Austria,NA
+2020,Austria,NA
+2021,Austria,NA
+1992,Bahamas,1.7
+1998,Bahamas,1.3
+2000,Bahamas,1.1
+2009,Bahamas,0.46
+2010,Bahamas,0.44
+2011,Bahamas,0.43
+2014,Bahamas,0.32
+2023,Bhutan,0.1
+1993,Bolivia (Plurinational State of),0.36
+1997,Bolivia (Plurinational State of),0.21
+2003,Bolivia (Plurinational State of),0.21
+2011,Bolivia (Plurinational State of),0.21
+2012,Bolivia (Plurinational State of),0.2
+2018,Bolivia (Plurinational State of),0.18
+2017,Bulgaria,0.1
+1990,Myanmar,0.26
+1991,Myanmar,0.44
+1994,Myanmar,0.33
+1997,Myanmar,0.42
+1999,Myanmar,0.53
+2002,Myanmar,0.53
+2004,Myanmar,0.49
+2005,Myanmar,0.47
+2006,Myanmar,0.44
+2012,Myanmar,0.33
+2018,Central African Republic,NA
+2020,Central African Republic,NA
+2003,Honduras,0.26
+2004,Honduras,0.2
+2005,Honduras,0.15
+2007,Honduras,0.1
+2010,Honduras,0.1
+2009,Ireland,0.1
+2015,Ireland,0.1
+2018,Ireland,0.1
+2019,Ireland,0.1
+1991,Israel,0.1
+1992,Israel,0.1
+1996,Israel,0.1
+2012,Kenya,1.6
+2016,Kenya,0.88
+2021,Kenya,0.48
+1990,Democratic People's Republic of Korea,NA
+1993,Democratic People's Republic of Korea,NA
+1994,Democratic People's Republic of Korea,NA
+2001,Democratic People's Republic of Korea,NA
+2006,Latvia,0.17
+2010,Latvia,0.2
+2014,Latvia,0.23
+2016,Latvia,0.24
+2019,Latvia,0.22
+1992,Maldives,NA
+1993,Maldives,NA
+1994,Maldives,NA
+1996,Maldives,NA
+2002,Maldives,NA
+2011,Maldives,NA
+2016,Maldives,NA
+2017,Maldives,NA
+2019,Maldives,NA
+2022,Maldives,NA
+1995,Mali,1.4
+2016,Czechia,0.1
+2021,Czechia,0.1
+2023,Czechia,0.1
+1990,Benin,0.92
+2014,South Sudan,1.2
+2019,South Sudan,0.74
+1990,Thailand,2.9
+1991,Thailand,3.1
+1993,Thailand,2.3
+1997,Thailand,1.2
+2002,Thailand,0.65
+2006,Thailand,0.38
+2008,Thailand,0.3
+2012,Thailand,0.23
+1999,Morocco,0.1
+2000,Morocco,0.1
+2001,Morocco,0.1
+2004,Morocco,0.1
+2010,Morocco,0.1
+2011,Morocco,0.1
+2014,Morocco,0.1
+2018,Morocco,0.1
+2019,Morocco,0.1
+1994,New Zealand,0.1
+1996,New Zealand,0.1
+1998,New Zealand,0.1
+2000,Micronesia (Federated States of),NA
+2002,Micronesia (Federated States of),NA
+2006,Micronesia (Federated States of),NA
+2010,Micronesia (Federated States of),NA
+2015,Micronesia (Federated States of),NA
+2017,Micronesia (Federated States of),NA
+2019,Micronesia (Federated States of),NA
+2022,Micronesia (Federated States of),NA
+1995,Marshall Islands,NA
+2007,Marshall Islands,NA
+2011,Marshall Islands,NA
+2018,Philippines,0.14
+2020,Philippines,0.17
+1992,Poland,NA
+1993,Poland,NA
+1994,Poland,NA
+2003,Poland,NA
+2006,Poland,NA
+2007,Poland,NA
+2008,Poland,NA
+2012,United States of America,NA
+2023,Tunisia,0.1
+1992,Türkiye,NA
+1994,Türkiye,NA
+1995,Türkiye,NA
+1998,Türkiye,NA
+2000,Türkiye,NA
+2006,Türkiye,NA
+2012,Türkiye,NA
+1994,United Republic of Tanzania,5.3
+1997,United Republic of Tanzania,4.3
+2000,United Republic of Tanzania,3.5
+2007,United Republic of Tanzania,2.3
+2001,Zambia,8.4
+2002,Zambia,8
+2009,Zambia,5
+2011,Zambia,5.1
+2017,Zambia,4.6
+2021,Eastern Mediterranean,0.1
+1990,Western Pacific,0.1
+1993,Western Pacific,0.1
+1994,Western Pacific,0.1
+1995,Western Pacific,0.1
+1997,Western Pacific,0.1
+1998,Western Pacific,0.1
+2004,Western Pacific,0.1
+2005,Venezuela (Bolivarian Republic of),0.47
+2022,Venezuela (Bolivarian Republic of),0.23
+2020,South-East Asia,0.1
+2023,South-East Asia,0.1
+1991,Europe,0.1
+1995,Europe,0.1
+2005,Europe,0.13
+2009,Europe,0.16
+2011,Europe,0.17
+2017,Europe,0.18
+2019,Europe,0.18
+2010,Mali,0.56
+2000,Malta,0.1
+2007,Monaco,NA
+1997,Mozambique,7.8
+1991,Nepal,0.01
+1990,New Zealand,0.1
+1998,World,0.52
+2003,World,0.42
+2004,World,0.41
+2021,World,0.19
+2023,World,0.17
+2012,Antigua and Barbuda,NA
+2014,Antigua and Barbuda,NA
+2022,Antigua and Barbuda,NA
+1999,Andorra,NA
+2000,Andorra,NA
+2002,Andorra,NA
+2004,Andorra,NA
+2011,Andorra,NA
+2014,Andorra,NA
+2021,Andorra,NA
+2009,Austria,NA
+2013,Austria,NA
+2015,Austria,NA
+2016,Austria,NA
+2017,Austria,NA
+1993,Bahamas,1.7
+1994,Bahamas,1.6
+1995,Bahamas,1.5
+1996,Bahamas,1.4
+1997,Bahamas,1.4
+2011,Portugal,0.14
+2014,Portugal,0.12
+1993,Guinea-Bissau,1.4
+1994,Guinea-Bissau,1.8
+1998,Guinea-Bissau,4
+2017,Saint Lucia,NA
+1991,Saint Vincent and the Grenadines,NA
+1998,Saint Vincent and the Grenadines,NA
+2004,Saint Vincent and the Grenadines,NA
+2005,Saint Vincent and the Grenadines,NA
+2008,Saint Vincent and the Grenadines,NA
+2011,Saint Vincent and the Grenadines,NA
+1992,San Marino,NA
+1995,San Marino,NA
+2006,San Marino,NA
+2007,San Marino,NA
+2008,San Marino,NA
+2012,Slovakia,0.1
+2013,Slovakia,0.1
+2014,Slovakia,0.1
+2015,Slovakia,0.1
+2016,Slovakia,0.1
+2022,Slovakia,0.1
+2001,Viet Nam,0.26
+2003,Viet Nam,0.26
+2006,Viet Nam,0.22
+2020,Sudan,0.1
+2022,Sudan,0.11
+1993,Suriname,0.56
+2006,Suriname,0.79
+2016,Burundi,0.24
+2000,Sri Lanka,0.1
+2002,Sri Lanka,0.1
+2007,Sri Lanka,0.1
+2011,Sri Lanka,0.1
+2015,Sri Lanka,0.1
+2017,Sri Lanka,0.1
+2018,Sri Lanka,0.1
+2011,Congo,1.7
+2022,Congo,1.7
+1996,Democratic Republic of the Congo,1.3
+2001,Democratic Republic of the Congo,0.9
+2006,Democratic Republic of the Congo,0.66
+2010,Democratic Republic of the Congo,0.47
+2014,Democratic Republic of the Congo,0.32
+1994,Benin,1.4
+2001,Benin,0.97
+2002,Benin,0.9
+2003,Benin,0.85
+2004,Benin,0.8
+2006,Benin,0.72
+2008,Benin,0.56
+2009,Benin,0.53
+2010,Benin,0.53
+2014,Benin,0.34
+2016,Benin,0.23
+1991,Denmark,0.1
+1992,Denmark,0.1
+2022,Eritrea,0.1
+2023,Eritrea,0.1
+1990,Estonia,0.01
+1994,Estonia,0.01
+2002,Estonia,0.74
+2003,Estonia,0.64
+2016,Panama,0.36
+2023,Panama,0.35
+1992,Papua New Guinea,0.17
+1994,Papua New Guinea,0.27
+1997,Papua New Guinea,0.4
+2007,Papua New Guinea,0.41
+2018,Guinea-Bissau,0.84
+2023,Guinea-Bissau,0.53
+1995,Timor-Leste,0.1
+1996,Timor-Leste,0.1
+1997,Timor-Leste,0.1
+2000,Timor-Leste,0.11
+2002,Timor-Leste,0.11
+2008,Timor-Leste,0.11
+2012,Timor-Leste,0.11
+2015,Timor-Leste,0.11
+2019,Timor-Leste,0.1
+1990,Saudi Arabia,0.1
+1991,Saudi Arabia,0.1
+1995,Saudi Arabia,0.1
+1996,Saudi Arabia,0.1
+2001,Saudi Arabia,0.1
+2006,Saudi Arabia,0.01
+2010,Saudi Arabia,0.01
+2011,Saudi Arabia,0.01
+2013,Saudi Arabia,0.01
+2015,Saudi Arabia,0.01
+2020,Saudi Arabia,0.1
+2021,Latvia,0.19
+2023,Latvia,0.15
+1994,Liberia,2.2
+1996,Liberia,1.9
+1997,Liberia,1.9
+2000,Liberia,1.5
+2002,Liberia,1.3
+2012,Liberia,0.57
+2016,Liberia,0.41
+2009,Mali,0.61
+2013,Mali,0.49
+1996,Eswatini,22
+1999,Eswatini,23
+2000,Eswatini,23
+2017,Togo,0.54
+2019,Togo,0.4
+2022,Togo,0.29
+2023,Togo,0.26
+1990,Tonga,NA
+1992,Tonga,NA
+1994,Tonga,NA
+1995,Tonga,NA
+1999,Tonga,NA
+2003,Tonga,NA
+2007,Tonga,NA
+2008,Tonga,NA
+2009,Tonga,NA
+2015,Tonga,NA
+2002,Ukraine,0.5
+2010,Ukraine,0.34
+2011,Ukraine,0.34
+2012,Ukraine,0.3
+2013,Ukraine,0.27
+2015,Ukraine,0.25
+2017,Ukraine,0.21
+2018,Ukraine,0.19
+1990,North Macedonia,0.01
+1993,North Macedonia,0.01
+2023,Uruguay,0.24
+1990,Uzbekistan,NA
+1998,Uzbekistan,NA
+2003,Uzbekistan,NA
+2005,Uzbekistan,0.12
+2008,Uzbekistan,0.13
+2015,Uzbekistan,0.12
+2010,Americas,0.18
+2013,Americas,0.17
+2020,Americas,0.16
+2021,Americas,0.16
+2023,Americas,0.16
+1993,South-East Asia,0.45
+1994,South-East Asia,0.48
+1996,South-East Asia,0.49
+1999,South-East Asia,0.29
+2003,South-East Asia,0.19
+2007,Australia,0.1
+2015,Australia,0.1
+2018,Australia,0.1
+2021,Australia,0.1
+2005,Belgium,NA
+2006,Belgium,NA
+2010,Belgium,NA
+2015,Belgium,NA
+2002,Solomon Islands,NA
+2004,Solomon Islands,NA
+2006,Solomon Islands,NA
+2007,Solomon Islands,NA
+2008,Solomon Islands,NA
+2009,Solomon Islands,NA
+2010,Solomon Islands,NA
+2014,Solomon Islands,NA
+2016,Solomon Islands,NA
+2018,Solomon Islands,NA
+2019,Solomon Islands,NA
+1992,Brunei Darussalam,NA
+1997,Brunei Darussalam,NA
+2007,Brunei Darussalam,NA
+2008,Brunei Darussalam,NA
+2007,Canada,0.1
+2012,Canada,0.1
+2016,Canada,0.1
+2020,Canada,0.1
+2021,Canada,NA
+1991,Cabo Verde,0.44
+2005,Iran (Islamic Republic of),0.11
+2012,Iran (Islamic Republic of),0.1
+2013,Iran (Islamic Republic of),0.1
+1992,Iraq,NA
+1997,Iraq,NA
+1999,Iraq,NA
+2006,Iraq,NA
+2007,Iraq,NA
+2009,Iraq,NA
+2000,Kazakhstan,0.1
+2001,Kazakhstan,0.1
+2003,Kazakhstan,0.1
+2005,Kazakhstan,0.1
+2016,Kazakhstan,0.15
+1990,Jordan,0.01
+1994,Jordan,0.01
+1996,Jordan,0.01
+1991,Lebanon,0.01
+1994,Lebanon,0.1
+1995,Lebanon,0.1
+2006,Lebanon,0.1
+2008,Lebanon,0.1
+2009,Lebanon,0.1
+2010,Lebanon,0.1
+2016,Lebanon,0.1
+2019,Lebanon,0.1
+1990,Malawi,12
+1992,Malawi,13
+1993,Malawi,14
+2000,Malawi,9.4
+2011,Malawi,3.8
+2012,Malawi,3.4
+2015,Malawi,2.4
+2020,Malawi,0.95
+2021,Malawi,0.81
+1997,Mongolia,0.01
+1993,Austria,NA
+1994,Austria,NA
+1995,Austria,NA
+1996,Austria,NA
+2002,Austria,NA
+2006,Austria,NA
+2022,Brazil,0.24
+2023,Brazil,0.24
+1991,Belize,0.34
+1996,Belize,0.74
+1998,Belize,0.88
+2007,Belize,0.78
+2010,Belize,0.64
+2011,Belize,0.61
+2016,Belize,0.5
+1990,Solomon Islands,NA
+1996,Solomon Islands,NA
+2000,Solomon Islands,NA
+2002,Cameroon,NA
+2007,Cameroon,NA
+2008,Cameroon,NA
+2017,Cameroon,NA
+2018,Cameroon,NA
+2019,Cameroon,NA
+2020,Cameroon,NA
+2022,Cameroon,NA
+2023,Cameroon,NA
+1991,Canada,0.1
+1992,Canada,0.1
+1994,Canada,0.1
+1996,Canada,0.1
+1997,Canada,0.1
+1998,Canada,0.1
+2000,Canada,0.1
+2015,Chile,0.24
+2018,Chile,0.23
+2004,Sri Lanka,0.1
+2009,Sri Lanka,0.1
+2012,Sri Lanka,0.1
+2017,Comoros,0.1
+2019,Comoros,0.1
+1991,Congo,4.1
+1992,Congo,3.6
+1997,Congo,2.9
+2000,Congo,2.4
+2010,Congo,1.8
+1998,Czechia,0.01
+2000,Czechia,0.1
+2005,Czechia,0.1
+2011,Czechia,0.1
+2013,Czechia,0.1
+2014,Czechia,0.1
+2017,Czechia,0.1
+2019,Czechia,0.1
+2016,Ethiopia,0.17
+2022,Ethiopia,0.1
+1990,Eritrea,1.7
+1991,Eritrea,2.1
+1993,Eritrea,2
+1996,Eritrea,1.3
+1997,Eritrea,1.4
+2006,Eritrea,0.46
+2008,Eritrea,0.32
+1991,Guyana,0.38
+1993,Guyana,0.6
+2007,Guyana,0.74
+2008,Guyana,0.71
+2009,Guyana,0.69
+2012,Guyana,0.64
+2019,Guyana,0.75
+1998,Iraq,NA
+2001,Iraq,NA
+2002,Iraq,NA
+2003,Iraq,NA
+2004,Iraq,NA
+2014,Iraq,NA
+2017,Iraq,NA
+2004,Kazakhstan,0.1
+2009,Kazakhstan,0.14
+2011,Kazakhstan,0.16
+2013,Kazakhstan,0.17
+2019,Kazakhstan,0.12
+2022,Kazakhstan,0.12
+1991,Jordan,0.01
+2022,Lao People's Democratic Republic,0.18
+1996,Lebanon,0.1
+2000,Lebanon,0.1
+2003,Lebanon,0.1
+2004,Lebanon,0.1
+2011,Lebanon,0.1
+2012,Lebanon,0.1
+2018,Türkiye,NA
+2019,Türkiye,NA
+2021,Türkiye,NA
+1995,Turkmenistan,NA
+1996,Turkmenistan,NA
+2000,Turkmenistan,NA
+2003,Turkmenistan,NA
+2012,United Republic of Tanzania,2
+2023,United Republic of Tanzania,0.85
+1990,United States of America,NA
+1993,United States of America,NA
+1999,United States of America,NA
+2005,United States of America,NA
+2008,United States of America,NA
+2011,Zimbabwe,6
+2019,Zimbabwe,1.6
+2021,Zimbabwe,1.2
+2022,Zimbabwe,1.1
+2015,Switzerland,0.1
+2017,Switzerland,0.1
+2020,Switzerland,0.1
+1991,Syrian Arab Republic,0.01
+1992,Syrian Arab Republic,0.01
+2006,Syrian Arab Republic,0.01
+2013,Syrian Arab Republic,0.01
+2003,Tunisia,0.1
+2005,Tunisia,0.1
+2013,Nigeria,0.7
+2014,Nigeria,0.63
+1990,Panama,0.38
+1999,Panama,0.43
+2000,Panama,0.41
+2001,Panama,0.41
+2004,Panama,0.39
+2010,Panama,0.37
+1994,Andorra,NA
+1995,Andorra,NA
+1996,Andorra,NA
+2001,Andorra,NA
+2003,Andorra,NA
+2012,Andorra,NA
+2014,Austria,NA
+2018,Austria,NA
+2019,Austria,NA
+2022,Austria,NA
+2023,Austria,NA
+1990,Bahamas,1.6
+2003,Bahamas,0.82
+2004,Bhutan,0.13
+2005,Bhutan,0.13
+2008,Bhutan,0.14
+2011,Bhutan,0.13
+2015,Bhutan,0.11
+2020,Bhutan,0.1
+2014,Bulgaria,0.1
+2016,Bulgaria,0.1
+2021,Bulgaria,0.1
+2022,Bulgaria,0.1
+2023,Bulgaria,0.1
+1992,Myanmar,0.44
+1995,Myanmar,0.34
+1998,Myanmar,0.47
+2000,Myanmar,0.56
+2007,Myanmar,0.42
+2019,Guatemala,0.1
+2021,Guatemala,0.1
+2022,Guatemala,0.1
+1993,Guinea,0.96
+1995,Guinea,1.2
+2003,Guinea,1.2
+2013,Guinea,0.7
+2020,Indonesia,0.12
+1993,Iran (Islamic Republic of),0.01
+1994,Iran (Islamic Republic of),0.01
+1998,Iran (Islamic Republic of),0.1
+2007,Iran (Islamic Republic of),0.1
+2010,Iran (Islamic Republic of),0.1
+2014,Iran (Islamic Republic of),0.1
+2020,Iran (Islamic Republic of),0.1
+1991,Iraq,NA
+1993,Iraq,NA
+1995,Kazakhstan,NA
+1997,Kazakhstan,0.1
+2011,Tunisia,0.1
+2017,Tunisia,0.1
+2018,Tunisia,0.1
+2019,Tunisia,0.1
+2020,Tunisia,0.1
+2022,Tunisia,0.1
+1990,Türkiye,NA
+1993,Türkiye,NA
+1997,Türkiye,NA
+2017,United Kingdom of Great Britain and Northern Ireland,NA
+2018,United Kingdom of Great Britain and Northern Ireland,NA
+2019,United Kingdom of Great Britain and Northern Ireland,NA
+2023,United Kingdom of Great Britain and Northern Ireland,NA
+1992,United Republic of Tanzania,6
+1993,United Republic of Tanzania,5.7
+2002,Rwanda,2.7
+2003,Rwanda,2.3
+2004,Rwanda,2.1
+2009,Rwanda,1.2
+2010,Rwanda,1.1
+2002,Poland,NA
+2018,Russian Federation,NA
+2023,Russian Federation,NA
+1990,Rwanda,4.5
+1993,Rwanda,4.2
+1998,Rwanda,3.8
+2012,Philippines,0.1
+2017,Philippines,0.12
+2021,Philippines,0.19
+2022,Philippines,0.22
+2023,Philippines,0.24
+1999,Poland,NA
+2020,Micronesia (Federated States of),NA
+2021,Micronesia (Federated States of),NA
+2023,Micronesia (Federated States of),NA
+1993,Marshall Islands,NA
+1994,Marshall Islands,NA
+2010,Philippines,0.1
+2011,Philippines,0.1
+1999,Micronesia (Federated States of),NA
+2003,Micronesia (Federated States of),NA
+2005,Micronesia (Federated States of),NA
+2007,Micronesia (Federated States of),NA
+2008,Micronesia (Federated States of),NA
+2012,Micronesia (Federated States of),NA
+2013,Micronesia (Federated States of),NA
+2005,Netherlands (Kingdom of the),0.1
+2017,Norway,NA
+2018,Norway,NA
+2020,Norway,NA
+2021,Norway,NA
+1990,Micronesia (Federated States of),NA
+1993,Micronesia (Federated States of),NA
+2017,Nepal,0.1
+2018,Nepal,0.1
+2023,Nepal,0.1
+2003,Netherlands (Kingdom of the),0.1
+2004,Netherlands (Kingdom of the),0.1
+2010,Mongolia,0.1
+2012,Mongolia,0.1
+2015,Mongolia,0.1
+2010,Nepal,0.1
+2012,Nepal,0.1
+2021,Lebanon,0.1
+2022,Lebanon,0.1
+1990,Lesotho,5.2
+1991,Lesotho,8.3
+2000,Lesotho,17
+2002,Lesotho,16
+2006,Lesotho,16
+2008,Democratic People's Republic of Korea,NA
+2016,Democratic People's Republic of Korea,NA
+2021,Democratic People's Republic of Korea,NA
+2022,Kenya,0.4
+2000,Democratic People's Republic of Korea,NA
+2005,Democratic People's Republic of Korea,NA
+2006,Democratic People's Republic of Korea,NA
+2007,Democratic People's Republic of Korea,NA
+1993,Israel,0.1
+1994,Israel,0.1
+1997,Israel,0.1
+1999,Israel,0.1
+2018,Kenya,0.64
+2020,Kenya,0.57
+2011,Honduras,0.1
+2011,Ireland,0.1
+2013,Ireland,0.1
+1990,Israel,0.1
+2021,Haiti,0.52
+1990,Honduras,0.65
+1991,Honduras,0.72
+1996,Honduras,0.77
+2000,Honduras,0.5
+2008,Honduras,0.1
+2010,Haiti,0.87
+2013,Haiti,0.78
+2016,Haiti,0.77
+2019,Haiti,0.62
+2021,Gambia,0.64
+1992,Germany,NA
+1996,Germany,NA
+1997,Germany,NA
+2002,Germany,NA
+2004,Germany,NA
+2008,Yemen,0.1
+2014,Yemen,0.1
+2016,Yemen,0.1
+2018,Samoa,NA
+2021,Samoa,NA
+1990,Yemen,0.01
+1994,Yemen,0.01
+2001,Yemen,0.1
+1991,United Kingdom of Great Britain and Northern Ireland,NA
+1994,United Kingdom of Great Britain and Northern Ireland,NA
+1999,United Kingdom of Great Britain and Northern Ireland,NA
+2003,United Kingdom of Great Britain and Northern Ireland,NA
+2005,United Kingdom of Great Britain and Northern Ireland,NA
+2007,United Kingdom of Great Britain and Northern Ireland,NA
+2009,United Kingdom of Great Britain and Northern Ireland,NA
+2014,Egypt,0.1
+2016,Egypt,0.1
+2020,Egypt,0.1
+1992,Switzerland,0.12
+2002,Switzerland,0.1
+2014,United Arab Emirates,NA
+2021,United Arab Emirates,NA
+1994,Tunisia,0.1
+1990,Switzerland,0.13
+2007,Zimbabwe,8.4
+2008,Zimbabwe,8
+2020,Sweden,NA
+2021,Sweden,NA
+2011,South Africa,7
+2014,South Africa,5.5
+2017,South Africa,4.2
+1998,Zimbabwe,15
+2002,Zimbabwe,11
+2003,Zimbabwe,10
+2011,Lao People's Democratic Republic,0.17
+2014,Lao People's Democratic Republic,0.17
+2019,Lao People's Democratic Republic,0.17
+2019,Luxembourg,0.1
+1996,Kazakhstan,0.1
+1993,Lao People's Democratic Republic,0.1
+2008,Lao People's Democratic Republic,0.17
+2010,Lao People's Democratic Republic,0.17
+2015,Iran (Islamic Republic of),0.1
+2016,Iran (Islamic Republic of),0.1
+2019,Iran (Islamic Republic of),0.1
+2012,Japan,NA
+2013,Japan,NA
+1992,Kazakhstan,NA
+1996,Iran (Islamic Republic of),0.1
+1997,Iran (Islamic Republic of),0.1
+2000,Iran (Islamic Republic of),0.1
+2002,Iran (Islamic Republic of),0.1
+2009,Iran (Islamic Republic of),0.1
+2017,Guinea,0.68
+2022,Indonesia,0.11
+2023,Indonesia,0.1
+1990,Iran (Islamic Republic of),0.01
+1990,Guinea,0.56
+1997,Guinea,1.4
+1999,Guinea,1.5
+2000,Guinea,1.4
+2001,Guinea,1.3
+2002,Guinea,1.3
+1990,Norway,NA
+1992,Norway,NA
+2000,Norway,NA
+2001,Norway,NA
+2004,Norway,NA
+2008,Norway,NA
+2023,Guatemala,0.1
+2021,El Salvador,0.13
+1993,Equatorial Guinea,NA
+1991,Djibouti,2.1
+1995,Djibouti,3.2
+1996,Djibouti,2.9
+2006,El Salvador,0.28
+2008,El Salvador,0.25
+2018,El Salvador,0.13
+1993,Cyprus,NA
+2005,Cyprus,NA
+2006,Cyprus,NA
+2010,Cyprus,NA
+2016,Cyprus,NA
+2002,Colombia,0.3
+2010,Colombia,0.28
+1991,Cyprus,NA
+2018,China,NA
+2019,China,NA
+1990,Colombia,0.17
+2001,Colombia,0.32
+1990,Central African Republic,NA
+1992,Central African Republic,NA
+1996,Central African Republic,NA
+2001,Central African Republic,NA
+2011,Cabo Verde,0.4
+2021,Cabo Verde,0.5
+2023,Cabo Verde,0.52
+2018,Brunei Darussalam,NA
+1995,Bulgaria,0.1
+1998,Bulgaria,0.1
+2004,Bulgaria,0.1
+2005,Bulgaria,0.1
+2002,Cabo Verde,0.46
+1995,Finland,NA
+1998,Finland,NA
+2004,Finland,NA
+2005,Finland,NA
+2008,Finland,NA
+1991,Ghana,2.2
+2010,Fiji,0.12
+2011,Fiji,0.13
+2014,Fiji,0.16
+2018,Fiji,0.25
+2019,Fiji,0.27
+2022,Fiji,0.35
+1992,Finland,NA
+1991,Dominican Republic,1.1
+1993,Dominican Republic,1.4
+1998,Dominican Republic,1
+1999,Dominican Republic,0.95
+2000,Dominican Republic,0.9
+1997,Dominica,NA
+2004,Dominica,NA
+2006,Dominica,NA
+2007,Dominica,NA
+2018,Dominica,NA
+2022,Dominica,NA
+2023,Dominica,NA
+2014,Costa Rica,0.21
+1997,Croatia,0.1
+2023,Denmark,0.01
+2003,Chile,0.13
+2008,Chile,0.17
+2011,Chile,0.21
+2012,Chile,0.22
+2014,Chile,0.24
+1993,Chile,0.1
+2000,Chile,0.14
+2002,Chile,0.13
+1993,Cameroon,NA
+1994,Cameroon,NA
+1996,Cameroon,NA
+1999,Cameroon,NA
+2020,Armenia,0.18
+2021,Armenia,0.19
+2023,Armenia,0.19
+1997,Barbados,0.69
+1998,Barbados,0.66
+1999,Barbados,0.64
+2009,Argentina,0.14
+2017,Argentina,0.12
+2012,Armenia,0.14
+2002,Argentina,0.14
+2004,Argentina,0.14
+2005,Argentina,0.14
+2015,Albania,0.1
+2017,Albania,0.1
+2023,Albania,0.1
+1994,Albania,0.01
+1997,Albania,0.01
+2000,Albania,0.1
+2004,Albania,0.1
+2007,Albania,0.1
+2008,Albania,0.1
+2013,Albania,0.1
+1996,Belgium,NA
+1997,Belgium,NA
+1999,Belgium,NA
+1992,Albania,0.01
+2021,Barbados,0.17
+2023,Barbados,0.14
+2016,Morocco,0.1
+2020,Morocco,0.1
+2022,Morocco,0.1
+1993,Mozambique,4.8
+1998,Mozambique,8.3
+2003,Morocco,0.1
+2007,Morocco,0.1
+2012,Morocco,0.1
+2012,Libya,NA
+1997,Malta,0.1
+2006,Malta,0.1
+2007,Malta,0.1
+2008,Malta,0.1
+2018,Malta,0.1
+1999,Libya,NA
+2000,Libya,NA
+2002,Libya,NA
+2005,Libya,NA
+2008,Libya,NA
+2009,Libya,NA
+2010,Libya,NA
+1993,Libya,NA
+1994,Libya,NA
+2009,Republic of Korea,NA
+2011,Côte d'Ivoire,1.2
+2008,Republic of Korea,NA
+1994,Côte d'Ivoire,6.7
+1997,Côte d'Ivoire,4.8
+2001,Côte d'Ivoire,3.2
+2002,Côte d'Ivoire,2.7
+2006,Côte d'Ivoire,1.9
+2010,Côte d'Ivoire,1.2
+2019,Turkmenistan,NA
+2013,Tuvalu,NA
+2022,United States of America,NA
+1993,Burkina Faso,1.9
+1994,Thailand,1.9
+1995,Thailand,1.6
+2000,Thailand,0.82
+2001,Thailand,0.73
+2003,Thailand,0.58
+2010,Thailand,0.26
+1996,Sudan,0.1
+2000,Sudan,0.1
+2001,Sudan,0.1
+2022,Tajikistan,0.1
+2020,South Sudan,0.67
+2021,South Sudan,0.63
+2023,South Sudan,0.56
+1991,Sudan,0.1
+1990,South Sudan,1.2
+2000,South Sudan,1.8
+2003,South Sudan,1.6
+2007,South Sudan,1.3
+2009,South Sudan,1.3
+2020,Africa,0.77
+1997,Americas,0.22
+1998,Americas,0.22
+1999,Americas,0.22
+2023,Spain,0.1
+1999,Africa,3.4
+2004,Africa,2.6
+2010,Africa,1.8
+2012,Africa,1.5
+1994,Uruguay,0.14
+2001,Uruguay,0.18
+2003,Uruguay,0.19
+2012,Uruguay,0.23
+2013,Uruguay,0.24
+2015,Uruguay,0.24
+2018,Uruguay,0.24
+2011,Kenya,1.7
+2017,Kenya,0.76
+2019,Kenya,0.61
+2023,Lesotho,3
+1992,Kenya,11
+2005,Kenya,3.1
+2009,Kenya,2.1
+1998,Slovakia,0.01
+2000,Ireland,0.1
+2005,Ireland,0.1
+2008,Ireland,0.1
+2012,Ireland,0.1
+2021,Ireland,0.1
+2022,Ireland,0.1
+1999,Singapore,0.1
+2000,Singapore,0.1
+2013,Singapore,0.1
+2018,Singapore,0.1
+2019,Singapore,0.1
+2023,Singapore,0.1
+1991,Slovakia,0.01
+2005,Sao Tome and Principe,NA
+2013,Sao Tome and Principe,NA
+2015,Sao Tome and Principe,NA
+2018,Sao Tome and Principe,NA
+2022,San Marino,NA
+1992,Sao Tome and Principe,NA
+2003,Sao Tome and Principe,NA
+2004,Sao Tome and Principe,NA
+2002,San Marino,NA
+2005,San Marino,NA
+2009,San Marino,NA
+2010,San Marino,NA
+2014,San Marino,NA
+2016,San Marino,NA
+2020,San Marino,NA
+2013,Guinea-Bissau,1.3
+2016,Guinea-Bissau,0.98
+2022,Saint Vincent and the Grenadines,NA
+1991,San Marino,NA
+2001,San Marino,NA
+2000,Gambia,1.7
+2006,Gambia,1.4
+2023,Georgia,0.14
+1996,Gambia,1.4
+1999,Gambia,1.8
+2005,Eritrea,0.51
+2009,Eritrea,0.27
+2012,Eritrea,0.18
+2006,Czechia,0.1
+2020,Czechia,0.1
+2017,Ethiopia,0.15
+2019,Ethiopia,0.12
+1992,Eritrea,2
+2000,Eritrea,0.85
+2006,Congo,2
+2007,Congo,2
+2008,Congo,1.8
+2009,Congo,1.8
+2001,Czechia,0.1
+2004,Czechia,0.1
+1990,Congo,4.4
+1994,Congo,3.1
+2001,Congo,2.3
+2004,Congo,2.2
+2011,Comoros,0.1
+2015,Comoros,0.1
+1990,Sri Lanka,0.01
+1991,Sri Lanka,0.01
+1992,Sri Lanka,0.01
+1994,Sri Lanka,0.01
+1995,Sri Lanka,0.1
+1998,Croatia,0.1
+2002,Croatia,0.1
+2004,Croatia,0.1
+2007,Croatia,0.1
+2010,Croatia,0.1
+2010,Chile,0.2
+2017,Chile,0.24
+2021,Chile,0.21
+2023,Chile,0.18
+2004,Cameroon,NA
+2011,Cameroon,NA
+2012,Belgium,NA
+2014,Belgium,NA
+2017,Belgium,NA
+2020,Belgium,NA
+2019,Cambodia,0.1
+1998,Australia,0.1
+1999,Australia,0.1
+2000,Australia,0.1
+2001,Australia,0.1
+2002,Australia,0.1
+2007,Belgium,NA
+2009,Belgium,NA
+2010,Algeria,0.1
+2011,Algeria,0.1
+2015,Algeria,0.1
+1997,Australia,0.1
+1999,Algeria,0.1
+2003,Algeria,0.1
+2006,Algeria,0.1
+2008,Algeria,0.1
+1991,Algeria,0.01
+2020,Ghana,0.66
+1992,Kiribati,NA
+2004,Kiribati,NA
+2005,Kiribati,NA
+2006,Kiribati,NA
+2013,Hungary,NA
+2004,Ghana,1.3
+2008,Ghana,0.98
+2012,Ghana,0.81
+1993,Finland,NA
+1997,Finland,NA
+2000,Finland,NA
+2007,Finland,NA
+2002,Ghana,1.4
+2003,Ghana,1.3
+2021,Dominica,NA
+1992,Dominican Republic,1.2
+1997,Dominican Republic,1.1
+2023,Fiji,0.4
+1990,Finland,NA
+1999,Dominica,NA
+2001,Dominica,NA
+2003,Dominica,NA
+2008,Dominica,NA
+2009,Dominica,NA
+2013,Dominica,NA
+2014,Dominica,NA
+2016,Costa Rica,0.2
+2018,Denmark,0.1
+1990,Dominica,NA
+1996,Dominica,NA
+1998,Dominica,NA
+2005,Costa Rica,0.16
+2008,Costa Rica,0.18
+2010,Costa Rica,0.2
+2011,Costa Rica,0.2
+2012,Costa Rica,0.21
+2017,Cook Islands,NA
+1993,Costa Rica,0.1
+1994,Costa Rica,0.1
+1998,Costa Rica,0.1
+1999,Costa Rica,0.11
+2000,Costa Rica,0.12
+2000,South-East Asia,0.25
+2005,South-East Asia,0.17
+2005,Albania,0.1
+2015,Venezuela (Bolivarian Republic of),0.1
+2016,Venezuela (Bolivarian Republic of),0.11
+2019,Americas,0.17
+1997,South-East Asia,0.42
+2004,Venezuela (Bolivarian Republic of),0.47
+2012,Venezuela (Bolivarian Republic of),0.1
+2013,Venezuela (Bolivarian Republic of),0.1
+1990,Venezuela (Bolivarian Republic of),0.1
+2002,Venezuela (Bolivarian Republic of),0.4
+1997,North Macedonia,0.01
+1998,North Macedonia,0.01
+1999,North Macedonia,0.01
+2000,North Macedonia,0.01
+2002,North Macedonia,0.01
+2009,North Macedonia,0.1
+2016,North Macedonia,0.1
+2017,Eastern Mediterranean,0.1
+2019,Eastern Mediterranean,0.1
+2015,Trinidad and Tobago,NA
+1992,North Macedonia,0.01
+1995,North Macedonia,0.01
+2009,Eastern Mediterranean,0.1
+2010,Eastern Mediterranean,0.1
+2015,Eastern Mediterranean,0.1
+2016,Eastern Mediterranean,0.1
+2021,Switzerland,0.1
+2023,Switzerland,0.1
+2018,Zimbabwe,1.9
+2002,Sierra Leone,1.2
+2004,Sierra Leone,1.1
+2007,Sierra Leone,1
+2010,Zimbabwe,7.1
+2014,Zimbabwe,4.4
+2019,Seychelles,NA
+2021,Seychelles,NA
+1994,Sierra Leone,1.2
+1999,Sierra Leone,1.3
+2000,Sierra Leone,1.3
+2010,Russian Federation,NA
+2016,Russian Federation,NA
+2020,Russian Federation,NA
+2022,Russian Federation,NA
+1997,Rwanda,3.6
+1999,Rwanda,3.4
+2001,Rwanda,3
+2013,Philippines,0.1
+2015,Philippines,0.1
+1998,Russian Federation,NA
+1999,Russian Federation,NA
+2004,Russian Federation,NA
+2000,Philippines,0.01
+2002,Philippines,0.01
+2008,Philippines,0.1
+2017,Vanuatu,NA
+2020,Peru,0.19
+2023,Peru,0.19
+1996,Philippines,0.01
+1997,Philippines,0.01
+2015,Equatorial Guinea,NA
+2016,Equatorial Guinea,NA
+2017,Equatorial Guinea,NA
+2022,Equatorial Guinea,NA
+1990,Ethiopia,3.1
+1992,Ethiopia,3.3
+2004,Equatorial Guinea,NA
+2005,Equatorial Guinea,NA
+2008,Equatorial Guinea,NA
+2009,Equatorial Guinea,NA
+2013,Equatorial Guinea,NA
+1992,Equatorial Guinea,NA
+1995,Equatorial Guinea,NA
+2000,Equatorial Guinea,NA
+2001,Equatorial Guinea,NA
+2002,Equatorial Guinea,NA
+2016,Malaysia,0.13
+2018,Malaysia,0.11
+2019,Malaysia,0.1
+2005,Malaysia,0.22
+2013,Malaysia,0.18
+2021,Lesotho,3.9
+1997,Latvia,0.12
+2002,Latvia,0.18
+1992,Malaysia,0.29
+1995,Malaysia,0.25
+1999,Malaysia,0.25
+2003,Malaysia,0.23
+1995,Lesotho,23
+2004,Lesotho,16
+2008,Lesotho,14
+2009,Lesotho,13
+2010,Lesotho,12
+2013,Lesotho,11
+2014,Lesotho,10
+2020,Jordan,0.01
+1993,Kenya,11
+2000,Kenya,4.7
+2001,Kenya,4.3
+2004,Kenya,3.4
+2023,Lebanon,0.1
+1992,Lesotho,12
+2004,Ecuador,0.18
+2005,Ecuador,0.18
+2010,Ecuador,0.16
+2022,Dominican Republic,0.4
+2023,Dominican Republic,0.36
+1991,Ecuador,0.14
+1996,Ecuador,0.19
+1997,Ecuador,0.2
+1999,Ecuador,0.2
+2003,Colombia,0.29
+2006,Colombia,0.28
+2007,Cyprus,NA
+2017,Cyprus,NA
+2022,China,NA
+2023,China,NA
+1992,Colombia,0.26
+1993,Colombia,0.31
+1995,Colombia,0.37
+1999,Colombia,0.36
+2004,Cabo Verde,0.48
+2005,Cabo Verde,0.43
+2012,Cabo Verde,0.4
+2014,China,NA
+2010,Brunei Darussalam,NA
+2015,Canada,0.1
+2023,Canada,NA
+2000,Cabo Verde,0.49
+2001,Cabo Verde,0.45
+1990,Brunei Darussalam,NA
+1993,Brunei Darussalam,NA
+1999,Brunei Darussalam,NA
+2000,Brunei Darussalam,NA
+2009,Brunei Darussalam,NA
+2016,Croatia,0.1
+2018,Croatia,0.1
+1991,Cuba,0.1
+1995,Cuba,0.1
+1997,Cuba,0.1
+2007,Chile,0.15
+2013,Chile,0.23
+2016,Chile,0.24
+2023,Cambodia,0.1
+1992,Cameroon,NA
+1995,Cameroon,NA
+1998,Cameroon,NA
+2005,Cameroon,NA
+2015,Cambodia,0.11
+2016,Cambodia,0.1
+2020,Cambodia,0.1
+2008,Belize,0.74
+2012,Belize,0.58
+2014,Belize,0.53
+2021,Brazil,0.24
+1992,Belize,0.4
+2001,Belize,0.96
+2003,Belize,0.95
+2016,Brazil,0.24
+2019,Brazil,0.23
+2014,Barbados,0.26
+2016,Barbados,0.23
+2020,Barbados,0.18
+2022,Barbados,0.15
+2004,Americas,0.21
+2006,Americas,0.2
+2008,Americas,0.19
+2023,Africa,0.55
+1990,Americas,0.21
+1991,Americas,0.21
+1992,Americas,0.22
+2001,Americas,0.21
+2012,Uzbekistan,0.13
+2016,Africa,1.1
+1994,Uzbekistan,NA
+1995,Uzbekistan,NA
+1997,Uzbekistan,NA
+1999,Uzbekistan,NA
+2006,Uzbekistan,0.13
+2011,Uzbekistan,0.13
+2023,Tonga,NA
+1990,Ukraine,0.1
+1994,Ukraine,0.31
+1995,Ukraine,0.49
+1998,Ukraine,0.77
+2006,Ukraine,0.38
+1991,Uzbekistan,NA
+2000,Tonga,NA
+2001,Tonga,NA
+2004,Tonga,NA
+2006,Tonga,NA
+2011,Tonga,NA
+2014,Tonga,NA
+2021,Tonga,NA
+1994,Eswatini,18
+2020,Togo,0.35
+1991,Tonga,NA
+1998,Tonga,NA
+2010,Suriname,0.72
+2018,Suriname,0.69
+2021,Suriname,0.77
+1995,Uruguay,0.14
+1996,Uruguay,0.15
+1997,Uruguay,0.16
+2002,Uruguay,0.19
+1990,Zambia,13
+1991,Zambia,14
+1992,Zambia,14
+2015,Burkina Faso,0.22
+2017,Burkina Faso,0.16
+1993,Uruguay,0.13
+1996,Uganda,5.5
+2003,Uganda,4.4
+2010,Uganda,3.4
+1993,Tuvalu,NA
+2005,Tuvalu,NA
+2007,Tuvalu,NA
+2015,Tuvalu,NA
+2021,Tuvalu,NA
+1994,Uganda,5.9
+2015,Thailand,0.19
+2017,Thailand,0.16
+2020,Thailand,0.14
+2021,Thailand,0.14
+1995,Togo,3.6
+2014,Sudan,0.1
+2016,Sudan,0.1
+2014,Thailand,0.2
+2022,South Sudan,0.6
+1990,Sudan,0.1
+1998,Sudan,0.1
+1999,Sudan,0.1
+2003,Sudan,0.1
+2004,Sudan,0.1
+2012,South Sudan,1.2
+2015,South Sudan,1.1
+2016,South Sudan,1
+2005,Zimbabwe,9.3
+2009,Zimbabwe,7.6
+2013,South Africa,5.9
+1990,Zimbabwe,26
+1991,Zimbabwe,27
+1995,Zimbabwe,20
+2007,Serbia,0.1
+2013,Serbia,0.1
+2019,Serbia,0.1
+2020,Serbia,0.1
+2021,Serbia,0.1
+1991,Seychelles,NA
+1998,Seychelles,NA
+2003,Russian Federation,NA
+2005,Russian Federation,NA
+1990,Serbia,0.1
+1992,Serbia,0.1
+1999,Serbia,0.1
+2003,Serbia,0.1
+2005,Serbia,0.1
+2018,Romania,0.1
+2020,Romania,0.1
+2021,Romania,0.1
+2023,Romania,0.1
+1996,Russian Federation,NA
+1997,Russian Federation,NA
+2001,Russian Federation,NA
+2009,Peru,0.13
+2012,Peru,0.12
+2015,Peru,0.15
+2008,Romania,0.1
+2011,Romania,0.1
+1995,Peru,0.25
+1998,Peru,0.21
+1999,Peru,0.2
+2000,Peru,0.2
+2005,Peru,0.17
+2008,Niue,NA
+2012,Niue,NA
+2016,Paraguay,0.2
+2018,Paraguay,0.2
+2021,Paraguay,0.2
+2022,Paraguay,0.2
+1994,Peru,0.26
+2010,Indonesia,0.2
+2012,Indonesia,0.19
+2016,Indonesia,0.15
+2015,Guatemala,0.1
+2016,Guatemala,0.1
+2007,Indonesia,0.21
+2019,Grenada,NA
+1990,Guatemala,0.16
+2000,Guatemala,0.26
+2003,Guatemala,0.19
+2004,Guatemala,0.16
+2011,Guatemala,0.1
+2017,Gabon,1.1
+2013,Grenada,NA
+2014,Grenada,NA
+2014,Botswana,6.4
+2017,Botswana,4.7
+2018,Botswana,4.1
+1990,Brazil,0.21
+1995,Botswana,26
+1996,Botswana,25
+1997,Botswana,23
+2003,Botswana,14
+2006,Botswana,9.7
+2011,Armenia,0.13
+2014,Armenia,0.16
+2015,Armenia,0.17
+2016,Armenia,0.17
+1994,Armenia,0.01
+1998,Armenia,0.01
+2009,Azerbaijan,0.1
+2012,Azerbaijan,0.1
+2013,Azerbaijan,0.1
+1998,Kazakhstan,0.1
+1999,Kazakhstan,0.1
+2002,Kazakhstan,0.1
+2006,Kazakhstan,0.11
+2007,Kazakhstan,0.12
+2008,Kazakhstan,0.14
+2014,Kazakhstan,0.16
+2017,Kazakhstan,0.15
+2018,Kazakhstan,0.13
+1990,Lebanon,0.01
+1992,Lebanon,0.01
+1993,Lebanon,0.01
+1993,Belize,0.48
+2000,Belize,0.98
+2022,Cambodia,0.1
+1990,Cameroon,NA
+1991,Cameroon,NA
+1997,Cameroon,NA
+2000,Cameroon,NA
+2001,Cameroon,NA
+2003,Cameroon,NA
+2006,Cameroon,NA
+2009,Cameroon,NA
+2014,Cameroon,NA
+2016,Cameroon,NA
+2019,Chile,0.23
+2020,Chile,0.22
+2022,Chile,0.19
+2015,Croatia,0.1
+2020,Croatia,0.1
+2023,Croatia,0.1
+1992,Cuba,0.1
+1993,Cuba,0.1
+1994,Cuba,0.1
+1996,Cuba,0.1
+2001,Cuba,0.13
+2004,Cuba,0.18
+2007,Cuba,0.2
+2008,Cuba,0.2
+2011,Cuba,0.2
+2011,Ecuador,0.16
+2014,Ecuador,0.15
+2020,Ecuador,0.12
+2022,Ecuador,0.12
+2023,Ecuador,0.12
+2007,Lao People's Democratic Republic,0.17
+2012,Lao People's Democratic Republic,0.17
+2013,Lao People's Democratic Republic,0.17
+2015,Lao People's Democratic Republic,0.17
+2005,Luxembourg,0.1
+2007,Luxembourg,0.1
+2013,Luxembourg,0.1
+2015,Luxembourg,0.1
+1991,Madagascar,NA
+1996,Madagascar,NA
+2003,Madagascar,NA
+2016,Mauritius,0.69
+1991,Mexico,0.11
+1998,Mexico,0.13
+2000,Mexico,0.13
+2002,Mexico,0.14
+2003,Mexico,0.14
+2004,Mexico,0.14
+2007,Mexico,0.15
+2011,Mexico,0.16
+1991,Namibia,6.1
+1992,Namibia,8
+1994,Namibia,12
+1995,Namibia,13
+1996,Namibia,14
+1998,Namibia,14
+2015,Zimbabwe,4
+2016,Zimbabwe,3.2
+2020,Zimbabwe,1.4
+2017,Syrian Arab Republic,0.01
+2018,Syrian Arab Republic,0.01
+2021,Syrian Arab Republic,0.01
+1998,Tajikistan,0.1
+2000,Tajikistan,0.11
+2003,Tajikistan,0.14
+2007,Tajikistan,0.14
+2008,Tajikistan,0.14
+2017,Türkiye,NA
+2020,Türkiye,NA
+1993,Turkmenistan,NA
+1994,Turkmenistan,NA
+1997,Turkmenistan,NA
+1998,Turkmenistan,NA
+2001,Turkmenistan,NA
+2004,Turkmenistan,NA
+2015,United Republic of Tanzania,2
+1994,United States of America,NA
+2002,United States of America,NA
+2007,Estonia,0.36
+1991,Belgium,NA
+1994,Belgium,NA
+2000,Belgium,NA
+2003,Belgium,NA
+2004,Belgium,NA
+2004,Belize,0.93
+2017,Belize,0.47
+2020,Belize,0.42
+2021,Belize,0.41
+1998,Solomon Islands,NA
+1999,Solomon Islands,NA
+1993,Canada,0.1
+1999,Canada,0.1
+2004,Canada,0.1
+2005,Canada,0.1
+2006,Canada,0.1
+2008,Canada,0.1
+2009,Canada,0.1
+2014,Azerbaijan,0.1
+2019,Afghanistan,0.1
+2021,Afghanistan,0.1
+2022,Afghanistan,0.1
+1999,Azerbaijan,0.11
+2001,Azerbaijan,0.12
+2005,Azerbaijan,0.1
+2008,Afghanistan,0.1
+2017,Afghanistan,0.1
+1992,Afghanistan,0.01
+1995,Afghanistan,0.1
+2001,Afghanistan,0.1
+2013,Australia,0.1
+2019,Australia,0.1
+2013,Belgium,NA
+2016,Belgium,NA
+2019,Belgium,NA
+2021,Belgium,NA
+2015,Solomon Islands,NA
+2015,Grenada,NA
+2017,Grenada,NA
+1994,Gabon,3.8
+2001,Gabon,3.1
+2013,Gabon,1.4
+2012,Djibouti,0.56
+2017,Djibouti,0.29
+2022,Djibouti,0.31
+2016,Namibia,3.7
+2017,Namibia,3.3
+2018,Namibia,3
+2008,Djibouti,0.89
+2009,Djibouti,0.85
+2000,Namibia,12
+2002,Namibia,10
+2004,Namibia,9.1
+2005,Namibia,8.3
+2009,Namibia,6.4
+2000,Trinidad and Tobago,NA
+2013,Canada,0.1
+2017,Canada,0.1
+1991,China,NA
+1993,China,NA
+1995,China,NA
+1998,China,NA
+1999,China,NA
+2006,China,NA
+2008,China,NA
+2015,China,NA
+2016,China,NA
+2012,Cuba,0.2
+2016,Cuba,0.2
+1996,Cyprus,NA
+2001,Cyprus,NA
+2002,Cyprus,NA
+2003,Cyprus,NA
+2004,Cyprus,NA
+2008,Cyprus,NA
+2009,Cyprus,NA
+2007,El Salvador,0.27
+2020,Solomon Islands,NA
+2021,Solomon Islands,NA
+2022,Solomon Islands,NA
+2023,Solomon Islands,NA
+1998,Brunei Darussalam,NA
+2001,Brunei Darussalam,NA
+2002,Brunei Darussalam,NA
+2004,Brunei Darussalam,NA
+2005,Brunei Darussalam,NA
+2006,Brunei Darussalam,NA
+2019,Canada,0.1
+2022,Canada,NA
+1995,Cabo Verde,0.45
+1998,Cabo Verde,0.48
+1999,Cabo Verde,0.48
+2007,Cabo Verde,0.36
+2008,Cabo Verde,0.37
+2010,Cabo Verde,0.38
+2013,Cabo Verde,0.4
+2012,El Salvador,0.18
+2022,Madagascar,NA
+2007,Malawi,5.4
+2014,Mexico,0.17
+2015,Mexico,0.18
+1996,Monaco,NA
+1998,Monaco,NA
+2003,Monaco,NA
+2017,Monaco,NA
+2018,Monaco,NA
+2019,Monaco,NA
+2022,Monaco,NA
+1992,Mongolia,0.01
+1995,Mongolia,0.01
+1996,Mongolia,0.01
+1999,Mongolia,0.01
+2000,Mongolia,0.01
+2001,Mongolia,0.1
+2019,Namibia,2.6
+2021,Namibia,2.4
+2015,Cabo Verde,0.44
+2017,Cabo Verde,0.5
+2018,Cabo Verde,0.5
+2020,China,NA
+1991,Colombia,0.22
+1994,Colombia,0.34
+2012,Colombia,0.25
+2011,Cyprus,NA
+2013,Cyprus,NA
+2015,Cyprus,NA
+2003,Democratic Republic of the Congo,0.79
+2005,Democratic Republic of the Congo,0.68
+2007,Democratic Republic of the Congo,0.6
+2009,Democratic Republic of the Congo,0.52
+2013,Democratic Republic of the Congo,0.36
+2015,Democratic Republic of the Congo,0.31
+2023,Democratic Republic of the Congo,0.17
+1991,Cook Islands,NA
+2022,Namibia,2.2
+1995,Nauru,NA
+1996,Nauru,NA
+2006,Nauru,NA
+2012,Nauru,NA
+2014,Nauru,NA
+2015,Nauru,NA
+2018,Nauru,NA
+2021,Nauru,NA
+2001,Nepal,0.19
+1991,Georgia,0.01
+1998,Georgia,0.01
+1996,Guinea,1.3
+1998,Guinea,1.4
+2004,Guinea,1.2
+2005,Guinea,1.1
+2006,Guinea,1.1
+2007,Guinea,1
+2023,Honduras,0.1
+1994,Hungary,NA
+1995,Cook Islands,NA
+1996,Cook Islands,NA
+1998,Cook Islands,NA
+2008,Cook Islands,NA
+2009,Cook Islands,NA
+2022,Benin,0.1
+1994,Denmark,0.1
+1995,Denmark,0.1
+1999,Denmark,0.1
+2002,Denmark,0.1
+2004,Denmark,0.1
+2010,Denmark,0.1
+2011,Denmark,0.1
+2013,Estonia,0.16
+2016,Estonia,0.12
+2020,Estonia,0.1
+1991,Fiji,0.1
+1995,Fiji,0.1
+1997,Fiji,0.1
+1996,Hungary,NA
+1997,Hungary,NA
+1999,Hungary,NA
+2002,Hungary,NA
+2004,Hungary,NA
+2007,Hungary,NA
+2007,Israel,0.1
+2010,Israel,0.1
+1991,Italy,0.14
+1994,Italy,0.12
+1998,Italy,0.1
+2009,Italy,0.1
+2011,Italy,0.1
+2000,Republic of Korea,NA
+2004,Republic of Korea,NA
+2005,Republic of Korea,NA
+2007,Republic of Korea,NA
+2011,Republic of Korea,NA
+2012,Republic of Korea,NA
+2013,Republic of Korea,NA
+1998,Fiji,0.1
+1999,Fiji,0.1
+2002,Fiji,0.1
+2003,Fiji,0.1
+2005,Fiji,0.1
+2021,Georgia,0.15
+2022,Georgia,0.15
+1990,Gambia,0.31
+1991,Gambia,0.44
+1997,Gambia,1.6
+2001,Gambia,1.7
+2008,Gambia,1.3
+2009,Gambia,1.3
+2014,Gambia,0.98
+2015,Gambia,0.9
+2017,Gambia,0.81
+2001,Guyana,0.9
+2003,Guyana,0.9
+2010,Guyana,0.66
+2017,Libya,NA
+2018,Libya,NA
+2019,Libya,NA
+2021,Libya,NA
+1993,Lithuania,0.1
+1994,Lithuania,0.1
+1998,Lithuania,0.1
+1996,Mauritania,0.55
+1998,Mauritania,0.55
+2001,Mauritania,0.47
+2003,Mauritania,0.38
+2011,Mauritania,0.1
+2011,Mozambique,7.1
+2014,Mozambique,6.2
+2015,Mozambique,5.8
+2016,Mozambique,5.4
+2018,Mozambique,4.8
+2019,Mozambique,4.6
+2020,Mozambique,4.4
+2021,Mozambique,3.9
+1990,Oman,0.1
+2002,Oman,0.1
+2011,Finland,NA
+1992,France,0.1
+1993,France,0.1
+1995,France,0.1
+2005,France,0.12
+2011,France,0.11
+2007,Kiribati,NA
+2011,Kiribati,NA
+2015,Kiribati,NA
+2019,Kiribati,NA
+1992,Greece,0.1
+2007,Greece,0.1
+2005,Iceland,0.1
+2006,Iceland,0.1
+2009,Iceland,0.1
+2011,Iceland,0.1
+2014,Republic of Korea,NA
+2022,Lesotho,3.2
+1990,Latvia,0.1
+1998,Latvia,0.25
+2000,Latvia,0.25
+2003,Latvia,0.16
+2004,Latvia,0.16
+2011,Latvia,0.21
+2012,Latvia,0.22
+2013,Latvia,0.23
+2007,Malaysia,0.21
+2010,Malaysia,0.2
+2012,Malaysia,0.19
+2014,Malaysia,0.17
+2015,Malaysia,0.15
+2023,Malaysia,0.1
+2001,Maldives,NA
+2003,Maldives,NA
+2002,Republic of Moldova,0.51
+2001,Austria,NA
+2007,Austria,NA
+2010,Austria,NA
+1991,Bhutan,0.1
+1994,Bhutan,0.1
+2013,Brunei Darussalam,NA
+2014,Brunei Darussalam,NA
+2020,Brunei Darussalam,NA
+2023,Brunei Darussalam,NA
+1990,Bulgaria,0.1
+1996,Bulgaria,0.1
+2001,Bulgaria,0.1
+2003,Bulgaria,0.1
+1997,Central African Republic,NA
+2003,Central African Republic,NA
+2007,Central African Republic,NA
+2012,Central African Republic,NA
+2019,Central African Republic,NA
+2022,Central African Republic,NA
+2018,Colombia,0.28
+2021,Colombia,0.27
+1993,Brazil,0.23
+1994,Brazil,0.24
+1996,Brazil,0.24
+2019,Belarus,0.13
+1991,Cambodia,0.12
+1992,Cambodia,0.31
+1997,Cambodia,1.3
+1998,Cambodia,1.2
+2000,Cambodia,0.73
+2005,Cambodia,0.34
+2006,Cambodia,0.29
+2010,Cambodia,0.16
+2011,Cambodia,0.14
+2018,Cambodia,0.1
+1991,Chile,0.1
+1994,Chile,0.12
+1995,Chile,0.13
+1998,Chile,0.14
+2005,Chile,0.13
+2009,Chile,0.18
+2023,Costa Rica,0.17
+1990,Croatia,0.01
+1992,Croatia,0.01
+1995,Croatia,0.1
+1996,Croatia,0.1
+2001,Croatia,0.1
+2008,Croatia,0.1
+2014,Croatia,0.1
+2008,Dominican Republic,0.53
+2010,Dominican Republic,0.48
+2016,Dominican Republic,0.4
+2017,Dominican Republic,0.41
+2018,Dominican Republic,0.42
+2001,Ecuador,0.19
+1996,Angola,1.1
+2002,Angola,1.3
+2006,Angola,1.3
+2019,Indonesia,0.13
+2021,Indonesia,0.11
+1991,Iran (Islamic Republic of),0.01
+1995,Iran (Islamic Republic of),0.1
+1999,Iran (Islamic Republic of),0.1
+2001,Iran (Islamic Republic of),0.1
+2011,Japan,NA
+2015,Japan,NA
+2018,Japan,NA
+2020,Kuwait,0.1
+1990,Kyrgyzstan,0.01
+1992,Kyrgyzstan,0.01
+1995,Kyrgyzstan,0.01
+2001,Kyrgyzstan,0.1
+2007,Lithuania,0.1
+2011,Lithuania,0.1
+2012,Lithuania,0.1
+2015,Lithuania,0.1
+2018,Lithuania,0.1
+2019,Lithuania,0.1
+1994,Luxembourg,0.1
+2000,Mauritius,1
+2004,Mauritius,0.85
+2006,Mauritius,0.77
+2007,Mauritius,0.76
+2011,Mauritius,0.75
+2013,Mauritius,0.71
+2014,Mauritius,0.69
+2015,Mauritius,0.68
+2005,Oman,0.1
+2006,Oman,0.1
+2018,France,0.1
+2019,France,0.1
+1991,Comoros,0.1
+1993,Comoros,0.1
+1998,Comoros,0.1
+1999,Comoros,0.1
+2002,Comoros,0.1
+2003,Comoros,0.1
+2004,Comoros,0.1
+2006,Comoros,0.1
+2007,Comoros,0.1
+2008,Comoros,0.1
+2009,Comoros,0.1
+1993,Czechia,0.01
+1994,Czechia,0.01
+2002,Czechia,0.1
+2009,Czechia,0.1
+2010,Czechia,0.1
+2020,Ethiopia,0.1
+2021,Ethiopia,0.11
+1999,Equatorial Guinea,NA
+2010,Equatorial Guinea,NA
+2012,Equatorial Guinea,NA
+2020,Equatorial Guinea,NA
+2023,Equatorial Guinea,NA
+1991,Ethiopia,3.3
+1994,Ethiopia,2.6
+2003,Ethiopia,0.78
+2004,Ethiopia,0.7
+2007,Ethiopia,0.5
+2009,Ethiopia,0.41
+2016,Albania,0.1
+2018,Albania,0.1
+2019,Albania,0.1
+2020,Albania,0.1
+1990,Algeria,0.01
+2019,Argentina,0.11
+2022,Argentina,0.1
+1991,Australia,0.1
+1994,Eritrea,1.9
+1995,Eritrea,1.8
+1999,Eritrea,1
+2001,Eritrea,0.8
+2004,Eritrea,0.52
+2010,Eritrea,0.24
+1994,Algeria,0.01
+1995,Algeria,0.01
+1996,Algeria,0.01
+1998,Algeria,0.1
+2005,Australia,0.1
+2009,Australia,0.1
+2010,Australia,0.1
+2011,Australia,0.1
+2014,Angola,0.9
+2018,Angola,0.7
+1990,Antigua and Barbuda,NA
+1992,Antigua and Barbuda,NA
+1993,Antigua and Barbuda,NA
+1992,Australia,0.1
+1995,Australia,0.1
+1996,Australia,0.1
+2014,Guyana,0.63
+2017,Guyana,0.67
+1990,Haiti,2.6
+1994,Haiti,1.8
+1998,Haiti,1.4
+2010,Iraq,NA
+2011,Iraq,NA
+1992,Ireland,0.1
+1999,Ireland,0.1
+2001,Ireland,0.1
+2007,Ireland,0.1
+2012,Jordan,0.01
+2016,Jordan,0.01
+1990,Kenya,9.7
+1994,Kenya,9.5
+1997,Kenya,6.4
+1995,Antigua and Barbuda,NA
+1996,Antigua and Barbuda,NA
+1999,Antigua and Barbuda,NA
+2001,Antigua and Barbuda,NA
+2002,Antigua and Barbuda,NA
+2018,Bahamas,0.21
+2019,Bahamas,0.18
+1990,Bahrain,NA
+1991,Bahrain,NA
+2001,Bahrain,NA
+2002,Bahrain,NA
+2011,Bahrain,NA
+2015,Bahrain,NA
+1998,Bolivia (Plurinational State of),0.21
+2005,Bolivia (Plurinational State of),0.22
+2006,Bolivia (Plurinational State of),0.22
+2007,Bolivia (Plurinational State of),0.21
+2010,Bolivia (Plurinational State of),0.2
+2015,Bolivia (Plurinational State of),0.19
+1998,Kenya,5.7
+2002,Kenya,4
+2006,Kenya,2.9
+2014,Kenya,1.3
+2021,Lao People's Democratic Republic,0.17
+2023,Lao People's Democratic Republic,0.18
+1999,Lebanon,0.1
+2001,Lebanon,0.1
+2005,Lebanon,0.1
+2007,Lebanon,0.1
+2013,Lebanon,0.1
+2015,Lebanon,0.1
+2010,Madagascar,NA
+2011,Madagascar,NA
+2013,Madagascar,NA
+2019,Madagascar,NA
+2020,Madagascar,NA
+2005,India,NA
+2013,Côte d'Ivoire,0.91
+2014,Ukraine,0.25
+2016,Ukraine,0.23
+2005,North Macedonia,0.01
+2008,North Macedonia,0.1
+1990,Marshall Islands,NA
+1991,Marshall Islands,NA
+1997,Marshall Islands,NA
+2000,Marshall Islands,NA
+2002,Marshall Islands,NA
+2004,Marshall Islands,NA
+2009,Marshall Islands,NA
+2010,Marshall Islands,NA
+2012,Marshall Islands,NA
+2013,Marshall Islands,NA
+2015,Marshall Islands,NA
+2016,Marshall Islands,NA
+2021,Marshall Islands,NA
+1994,Palau,NA
+1995,Palau,NA
+1997,Palau,NA
+2001,Palau,NA
+2003,Palau,NA
+2006,Palau,NA
+2007,Palau,NA
+2008,Palau,NA
+2010,Poland,NA
+2014,Poland,NA
+2023,Poland,NA
+1990,Portugal,0.35
+1992,Portugal,0.39
+1995,Portugal,0.31
+1997,Portugal,0.26
+2001,Portugal,0.2
+2002,Portugal,0.19
+2011,Saint Kitts and Nevis,NA
+2014,Saint Kitts and Nevis,NA
+1996,Saint Lucia,NA
+1997,Saint Lucia,NA
+1999,Saint Lucia,NA
+2002,Saint Lucia,NA
+2016,Côte d'Ivoire,0.74
+2018,Côte d'Ivoire,0.57
+2019,Côte d'Ivoire,0.49
+1990,Jamaica,0.65
+1993,Jamaica,1.1
+2001,Jamaica,0.97
+2005,Jamaica,0.66
+2007,Jamaica,0.55
+2008,Jamaica,0.51
+2015,Liberia,0.44
+1991,Libya,NA
+2018,Mali,0.36
+2020,Mali,0.32
+1995,Malta,0.1
+1998,Malta,0.1
+2004,Malta,0.1
+2012,Malta,0.1
+2009,Morocco,0.1
+2013,Morocco,0.1
+2017,Bolivia (Plurinational State of),0.18
+2019,Bolivia (Plurinational State of),0.17
+1992,Bosnia and Herzegovina,0.01
+2011,Myanmar,0.34
+2020,Myanmar,0.19
+2023,Myanmar,0.19
+1990,Burundi,4.8
+1995,Burundi,1.4
+2011,Burundi,0.42
+2012,Burundi,0.38
+2015,Burundi,0.29
+2008,Sri Lanka,0.1
+2010,Sri Lanka,0.1
+2013,Sri Lanka,0.1
+2023,Congo,1.7
+1991,Democratic Republic of the Congo,1.7
+1992,Democratic Republic of the Congo,1.6
+1993,Democratic Republic of the Congo,1.6
+1998,Democratic Republic of the Congo,1.2
+2002,Democratic Republic of the Congo,0.86
+1990,Djibouti,1.6
+1993,Djibouti,2.9
+2001,Djibouti,1.6
+2002,Djibouti,1.8
+2005,Djibouti,1.1
+2013,Greece,0.1
+2017,Greece,0.1
+2018,Greece,0.1
+2023,Greece,0.1
+1990,Grenada,NA
+1991,Grenada,NA
+1992,Grenada,NA
+1997,Grenada,NA
+2000,Grenada,NA
+2005,Grenada,NA
+2010,India,NA
+2013,India,NA
+2015,India,NA
+2018,India,NA
+2020,India,NA
+2023,India,0.1
+1995,Indonesia,0.01
+2001,Indonesia,0.15
+2002,Indonesia,0.19
+2009,Jamaica,0.49
+2012,Jamaica,0.46
+2020,Jamaica,0.43
+1996,Japan,NA
+1998,Japan,NA
+2000,Japan,NA
+2003,Japan,NA
+2019,Republic of Korea,NA
+2022,Republic of Korea,NA
+2023,Republic of Korea,NA
+1990,Kuwait,0.01
+2004,Kuwait,0.01
+2006,Kuwait,0.01
+2015,Morocco,0.1
+2021,Morocco,0.1
+1990,Mozambique,2.7
+1994,Mozambique,5.4
+1996,Mozambique,7.1
+2001,Mozambique,9
+2002,Mozambique,8.8
+2003,Mozambique,8.6
+2005,Mozambique,8.2
+2010,Germany,0.1
+2011,Germany,0.1
+2012,Germany,0.1
+2022,Germany,NA
+1990,Ghana,1.9
+1992,Ghana,2.3
+1998,Ghana,1.8
+2008,Europe,0.15
+2010,Europe,0.17
+2008,Kuwait,0.01
+2018,Kuwait,0.1
+2001,Libya,NA
+2006,Libya,NA
+2011,Libya,NA
+2013,Libya,NA
+2016,Libya,NA
+1992,Nigeria,1.5
+1993,Nigeria,1.6
+1999,Nigeria,1.6
+1998,Paraguay,0.18
+1999,Paraguay,0.18
+2007,Paraguay,0.19
+2009,Paraguay,0.19
+2013,Paraguay,0.2
+2017,Qatar,0.1
+2018,Qatar,0.1
+1995,Romania,0.1
+1997,Romania,0.1
+2003,Romania,0.1
+1994,Senegal,0.46
+1996,Senegal,0.57
+1997,Senegal,0.62
+2004,Senegal,0.39
+2007,Senegal,0.25
+2010,Senegal,0.18
+2016,Senegal,0.1
+2018,Senegal,0.1
+1990,Somalia,NA
+1993,Somalia,NA
+1996,Somalia,NA
+1998,Somalia,NA
+2009,Somalia,NA
+2013,Somalia,NA
+2014,Somalia,NA
+2016,Somalia,NA
+2021,Somalia,NA
+2022,Somalia,NA
+1990,South Africa,4
+2009,Saint Lucia,NA
+2014,Saint Lucia,NA
+2016,Saint Lucia,NA
+2012,Singapore,0.1
+2015,Singapore,0.1
+2020,Singapore,0.1
+2022,Singapore,0.1
+1996,Slovakia,0.01
+2002,Slovakia,0.01
+2003,Slovakia,0.01
+2005,Slovakia,0.01
+2006,Slovakia,0.01
+2008,South Sudan,1.3
+2014,Panama,0.36
+2022,Portugal,0.1
+1992,Guinea-Bissau,1.1
+1999,Guinea-Bissau,4.2
+2000,Guinea-Bissau,4.3
+2002,Guinea-Bissau,3.7
+2005,Guinea-Bissau,2.7
+2008,Guinea-Bissau,2.2
+2010,Guinea-Bissau,1.9
+2012,Guinea-Bissau,1.5
+2015,Guinea-Bissau,1
+2019,Guinea-Bissau,0.73
+2020,Guinea-Bissau,0.67
+1991,Sao Tome and Principe,NA
+1994,Sao Tome and Principe,NA
+1995,Sao Tome and Principe,NA
+2002,Sao Tome and Principe,NA
+2006,Sao Tome and Principe,NA
+2008,Sao Tome and Principe,NA
+2005,Saudi Arabia,0.01
+2010,Viet Nam,0.17
+2013,Viet Nam,0.14
+2014,Viet Nam,0.13
+2016,Viet Nam,0.11
+2013,Iceland,0.1
+2014,Iceland,0.1
+1991,India,NA
+1994,India,NA
+1995,India,NA
+1996,India,NA
+2000,India,NA
+2003,India,NA
+2004,India,NA
+2002,Papua New Guinea,0.46
+2003,Papua New Guinea,0.45
+2009,Papua New Guinea,0.41
+2011,Papua New Guinea,0.44
+2012,Papua New Guinea,0.43
+2015,Papua New Guinea,0.41
+2017,Timor-Leste,0.11
+2020,Timor-Leste,0.1
+1991,Qatar,0.01
+1992,Qatar,0.01
+2021,Viet Nam,0.1
+2022,Viet Nam,0.1
+2023,Viet Nam,0.1
+1990,Slovenia,0.01
+1994,Slovenia,0.01
+2001,Slovenia,0.01
+2004,Suriname,0.95
+2005,Suriname,0.85
+2007,Suriname,0.73
+2009,Suriname,0.72
+2013,Uzbekistan,0.13
+2016,Uzbekistan,0.12
+2017,Uzbekistan,0.12
+2018,Uzbekistan,0.12
+2020,Uzbekistan,0.1
+2021,Uzbekistan,0.1
+1995,Venezuela (Bolivarian Republic of),0.18
+1997,Venezuela (Bolivarian Republic of),0.23
+1993,Qatar,0.01
+1998,Qatar,0.01
+2002,Qatar,0.01
+2007,Qatar,0.01
+2020,Sao Tome and Principe,NA
+2022,Sao Tome and Principe,NA
+2023,Sao Tome and Principe,NA
+1994,Saudi Arabia,0.1
+1997,Saudi Arabia,0.1
+2014,Saudi Arabia,0.01
+2016,Saudi Arabia,0.01
+2018,Saudi Arabia,0.1
+2005,Slovenia,0.1
+2007,Slovenia,0.1
+2016,Slovenia,0.1
+2023,Slovenia,NA
+2022,Eswatini,4.2
+1990,Sweden,NA
+1993,Sweden,NA
+1999,Venezuela (Bolivarian Republic of),0.29
+2022,Americas,0.16
+1991,South-East Asia,0.44
+2001,South-East Asia,0.23
+2004,South-East Asia,0.18
+2008,South-East Asia,0.13
+2012,South-East Asia,0.11
+2015,South-East Asia,0.1
+2016,South-East Asia,0.1
+2017,South-East Asia,0.1
+2019,South-East Asia,0.1
+2015,Afghanistan,0.1
+2016,Afghanistan,0.1
+1991,Albania,0.01
+1993,Albania,0.01
+1995,Albania,0.01
+1996,Albania,0.01
+2001,Albania,0.1
+2002,Albania,0.1
+2022,Azerbaijan,0.1
+1991,Argentina,0.16
+1996,Argentina,0.16
+1999,Argentina,0.15
+2001,Argentina,0.14
+2003,Argentina,0.14
+2007,Argentina,0.14
+2008,Argentina,0.14
+2010,Argentina,0.14
+1990,Barbados,0.33
+1993,Barbados,0.79
+1995,Barbados,0.74
+2001,Barbados,0.58
+1999,Sri Lanka,0.1
+2005,Sri Lanka,0.1
+2005,Comoros,0.1
+2010,Comoros,0.1
+2012,Comoros,0.1
+2013,Comoros,0.1
+2014,Comoros,0.1
+2016,Comoros,0.1
+2021,Comoros,0.1
+2023,Comoros,0.01
+1993,Congo,3.4
+1995,Congo,3.1
+1996,Congo,3
+1998,Congo,2.7
+2003,Congo,2.2
+2000,Algeria,0.1
+2002,Algeria,0.1
+2005,Algeria,0.1
+2009,Algeria,0.1
+2013,Algeria,0.1
+2016,Algeria,0.1
+2021,Algeria,0.1
+2003,Australia,0.1
+2004,Australia,0.1
+2006,Australia,0.1
+2008,Australia,0.1
+2012,Australia,0.1
+2014,Australia,0.1
+2016,Australia,0.1
+2017,Australia,0.1
+2020,Australia,0.1
+2018,Belgium,NA
+1997,Benin,1.3
+1999,Benin,1.2
+2005,Benin,0.77
+2015,Benin,0.26
+2017,Benin,0.22
+2014,Eritrea,0.16
+2015,Eritrea,0.14
+2020,Eritrea,0.1
+1991,Estonia,0.01
+1996,Estonia,0.01
+1999,Estonia,0.01
+2006,Estonia,0.42
+1990,Germany,NA
+2011,Guyana,0.65
+2013,Guyana,0.64
+2020,Guyana,0.66
+2021,Guyana,0.7
+2022,Guyana,0.71
+2004,Haiti,1.1
+2006,Haiti,0.96
+2008,Haiti,0.86
+2009,Haiti,0.84
+2013,Iraq,NA
+2015,Iraq,NA
+2016,Iraq,NA
+2019,Iraq,NA
+2021,Iraq,NA
+2022,Iraq,NA
+1990,Ireland,0.1
+1996,Ireland,0.1
+1998,Ireland,0.1
+2002,Ireland,0.1
+2003,Ireland,0.1
+2004,Ireland,0.1
+2006,Ireland,0.1
+2011,Jordan,0.01
+2017,Jordan,0.01
+2018,Rwanda,0.37
+2023,Rwanda,0.24
+1995,Saint Kitts and Nevis,NA
+1996,Saint Kitts and Nevis,NA
+1997,Saint Kitts and Nevis,NA
+2012,Saint Kitts and Nevis,NA
+2013,Saint Kitts and Nevis,NA
+1990,Singapore,0.1
+2003,Singapore,0.1
+2006,Singapore,0.1
+2007,Singapore,0.1
+2011,Singapore,0.1
+1991,Spain,0.35
+1992,Spain,0.32
+1995,Spain,0.19
+1996,Spain,0.16
+1997,Spain,0.14
+1998,Spain,0.12
+2001,Spain,0.1
+2005,Spain,0.1
+2007,Spain,0.1
+2011,Spain,0.1
+1992,Tajikistan,0.01
+1994,Tajikistan,0.1
+2004,Tajikistan,0.14
+2005,Tajikistan,0.14
+2006,Tajikistan,0.15
+2022,Republic of Moldova,0.3
+1990,Montenegro,0.01
+1998,Montenegro,0.1
+2005,Montenegro,0.1
+2011,Montenegro,0.1
+2013,Montenegro,0.1
+2015,Montenegro,0.1
+1990,Vanuatu,NA
+1991,Vanuatu,NA
+1994,Vanuatu,NA
+2004,Vanuatu,NA
+2005,Vanuatu,NA
+2008,Vanuatu,NA
+2013,Western Pacific,0.1
+2017,Western Pacific,0.1
+2020,Western Pacific,0.1
+2023,Western Pacific,0.1
+2022,United Arab Emirates,NA
+1998,Tunisia,0.1
+2000,Tunisia,0.1
+2001,Tunisia,0.1
+2004,Tunisia,0.1
+2008,Tunisia,0.1
+2010,Tunisia,0.1
+2013,Tunisia,0.1
+2022,Egypt,0.1
+1990,United Kingdom of Great Britain and Northern Ireland,NA
+1992,United Kingdom of Great Britain and Northern Ireland,NA
+1993,United Kingdom of Great Britain and Northern Ireland,NA
+1995,United Kingdom of Great Britain and Northern Ireland,NA
+1996,United Kingdom of Great Britain and Northern Ireland,NA
+1997,United Kingdom of Great Britain and Northern Ireland,NA
+2004,United Kingdom of Great Britain and Northern Ireland,NA
+2013,United Kingdom of Great Britain and Northern Ireland,NA
+2014,United Kingdom of Great Britain and Northern Ireland,NA
+2019,Samoa,NA
+2020,Samoa,NA
+2023,Samoa,NA
+1991,Yemen,0.01
+1996,Yemen,0.1
+1997,Yemen,0.1
+1998,Yemen,0.1
+2002,Yemen,0.1
+2003,Yemen,0.1
+2006,Yemen,0.1
+2010,Yemen,0.1
+2013,Yemen,0.1
+2018,Yemen,0.1
+1991,Eastern Mediterranean,0.1
+1993,Eastern Mediterranean,0.1
+1996,Eastern Mediterranean,0.1
+2008,Eastern Mediterranean,0.1
+1995,Bangladesh,0.01
+1997,Bangladesh,0.01
+1998,Bangladesh,0.01
+2003,Bangladesh,0.01
+2006,Bangladesh,0.01
+2008,Bangladesh,0.01
+2013,Bangladesh,0.01
+2020,Bangladesh,0.01
+2023,Bangladesh,0.01
+1990,Armenia,0.01
+1991,Armenia,0.01
+1993,Bosnia and Herzegovina,0.01
+1995,Bosnia and Herzegovina,0.01
+1998,Bosnia and Herzegovina,0.01
+1999,Bosnia and Herzegovina,0.01
+2001,Bosnia and Herzegovina,0.01
+2002,Bosnia and Herzegovina,0.01
+2004,Bosnia and Herzegovina,0.01
+2007,Bosnia and Herzegovina,0.01
+2009,Bosnia and Herzegovina,0.01
+2019,Bosnia and Herzegovina,0.1
+2019,Burundi,0.16
+1997,Sweden,NA
+2002,Sweden,NA
+2008,Sweden,NA
+2016,Sweden,NA
+2017,Trinidad and Tobago,NA
+1992,United Arab Emirates,NA
+2000,United Arab Emirates,NA
+2006,United Arab Emirates,NA
+2007,United Arab Emirates,NA
+2013,United Arab Emirates,NA
+1992,China,NA
+1997,China,NA
+2004,China,NA
+2005,China,NA
+2007,China,NA
+2011,China,NA
+2012,China,NA
+2013,China,NA
+2018,Cuba,0.19
+2019,Cuba,0.19
+2021,Cuba,0.18
+2022,Cuba,0.18
+1994,Cyprus,NA
+1995,Cyprus,NA
+1998,Cyprus,NA
+2019,Ecuador,0.12
+2021,Ecuador,0.12
+1992,El Salvador,0.24
+1994,El Salvador,0.29
+1997,El Salvador,0.33
+1998,El Salvador,0.33
+2000,El Salvador,0.34
+2002,El Salvador,0.33
+2009,El Salvador,0.23
+2013,El Salvador,0.17
+2014,El Salvador,0.16
+2017,El Salvador,0.14
+1990,Equatorial Guinea,NA
+1991,Equatorial Guinea,NA
+2014,Djibouti,0.45
+2007,Republic of Moldova,0.47
+2009,Republic of Moldova,0.45
+2014,Republic of Moldova,0.37
+2021,Republic of Moldova,0.32
+2016,United Arab Emirates,NA
+2011,North Macedonia,0.1
+2020,North Macedonia,0.1
+2021,North Macedonia,0.1
+2023,North Macedonia,0.1
+1991,Egypt,0.01
+1992,Egypt,0.01
+2002,Egypt,0.01
+2003,Egypt,0.01
+2007,Egypt,0.01
+1992,New Zealand,0.1
+1995,New Zealand,0.1
+1997,New Zealand,0.1
+2001,New Zealand,0.1
+2002,New Zealand,0.1
+2003,New Zealand,0.1
+2005,New Zealand,0.1
+2006,New Zealand,0.1
+2009,New Zealand,0.1
+2012,New Zealand,0.1
+2014,New Zealand,0.1
+2015,New Zealand,0.1
+2021,New Zealand,0.1
+2017,Pakistan,NA
+2019,Pakistan,NA
+2021,Pakistan,NA
+1991,Panama,0.43
+1997,Panama,0.45
+2007,Panama,0.38
+2011,Panama,0.36
+2006,Guinea-Bissau,2.5
+2007,Guinea-Bissau,2.3
+2021,Guinea-Bissau,0.66
+1992,Timor-Leste,0.1
+1994,Timor-Leste,0.1
+1999,Timor-Leste,0.1
+2013,San Marino,NA
+2015,San Marino,NA
+2019,San Marino,NA
+2023,San Marino,NA
+1997,Sao Tome and Principe,NA
+2022,Greece,0.1
+1996,Grenada,NA
+1999,Grenada,NA
+2001,Grenada,NA
+2004,Grenada,NA
+2008,Grenada,NA
+2010,Grenada,NA
+2011,Grenada,NA
+2016,Grenada,NA
+2021,Grenada,NA
+2021,India,NA
+2022,India,NA
+1990,Indonesia,0.01
+1993,Indonesia,0.01
+1996,Indonesia,0.1
+2000,Indonesia,0.1
+2005,Indonesia,0.22
+2010,Jamaica,0.47
+2013,Jamaica,0.43
+2014,Jamaica,0.39
+1992,Japan,NA
+1994,Japan,NA
+1995,Japan,NA
+2002,Japan,NA
+2006,Japan,NA
+2006,Kyrgyzstan,0.1
+2008,Kyrgyzstan,0.13
+2009,Kyrgyzstan,0.13
+2010,Kyrgyzstan,0.13
+2014,Kyrgyzstan,0.13
+2020,Kyrgyzstan,0.11
+1990,Lao People's Democratic Republic,0.01
+1992,Lao People's Democratic Republic,0.01
+1995,Lao People's Democratic Republic,0.1
+2022,Lithuania,0.1
+1993,Luxembourg,0.1
+1995,Luxembourg,0.1
+1996,Luxembourg,0.1
+1997,Luxembourg,0.1
+2002,Luxembourg,0.1
+2003,Luxembourg,0.1
+2010,Luxembourg,0.1
+2011,Luxembourg,0.1
+2016,Luxembourg,0.1
+2017,Luxembourg,0.1
+2018,Luxembourg,0.1
+2017,Mauritius,0.69
+2019,Mauritius,0.77
+1994,Niger,0.75
+2001,Niger,0.46
+2006,Niger,0.17
+2012,Niger,0.1
+2019,Niger,0.1
+2004,Papua New Guinea,0.44
+2008,Papua New Guinea,0.41
+2010,Papua New Guinea,0.43
+2013,Papua New Guinea,0.42
+2016,Papua New Guinea,0.43
+2018,Papua New Guinea,0.5
+2023,Papua New Guinea,0.65
+1992,Paraguay,0.01
+1993,Paraguay,0.1
+1994,Paraguay,0.1
+1997,Paraguay,0.18
+2013,Timor-Leste,0.11
+2016,Timor-Leste,0.11
+2021,Timor-Leste,0.1
+2022,Timor-Leste,0.1
+2005,Qatar,0.01
+2008,Qatar,0.01
+1999,Saudi Arabia,0.1
+2000,Saudi Arabia,0.1
+2002,Saudi Arabia,0.1
+2003,Saudi Arabia,0.01
+2004,Saudi Arabia,0.01
+2012,Saudi Arabia,0.01
+2019,Saudi Arabia,0.1
+1991,Senegal,0.28
+1993,Senegal,0.39
+1995,Senegal,0.52
+2000,Senegal,0.63
+2001,Senegal,0.57
+2002,Senegal,0.5
+1996,Slovenia,0.01
+2006,Bosnia and Herzegovina,0.01
+2012,Bosnia and Herzegovina,0.01
+2014,Bosnia and Herzegovina,0.1
+2017,Myanmar,0.24
+2022,Myanmar,0.21
+1992,Burundi,3.8
+1993,Burundi,2.4
+1999,Burundi,1.3
+2002,Burundi,0.95
+2008,Burundi,0.63
+2009,Burundi,0.48
+2014,Sri Lanka,0.1
+2016,Sri Lanka,0.1
+2020,Sri Lanka,0.1
+2023,Sri Lanka,0.01
+2012,Congo,1.8
+2014,Congo,1.8
+2019,Congo,1.9
+2021,Congo,1.8
+1994,Democratic Republic of the Congo,1.4
+1997,Democratic Republic of the Congo,1.2
+1999,Democratic Republic of the Congo,1
+2011,Democratic Republic of the Congo,0.44
+2016,Democratic Republic of the Congo,0.28
+2017,Democratic Republic of the Congo,0.26
+2007,Andorra,NA
+2010,Andorra,NA
+2013,Andorra,NA
+2015,Andorra,NA
+2016,Andorra,NA
+2017,Andorra,NA
+2018,Andorra,NA
+2019,Andorra,NA
+2006,Liberia,0.92
+2007,Liberia,0.85
+2008,Liberia,0.81
+2010,Liberia,0.65
+2014,Liberia,0.52
+2018,Liberia,0.31
+2019,Liberia,0.29
+2022,Liberia,0.19
+2000,Mali,1
+2001,Mali,0.91
+2003,Mali,0.82
+2006,Mali,0.72
+2007,Mali,0.68
+2008,Mali,0.66
+2015,Mali,0.44
+2019,Mali,0.35
+1991,Malta,0.1
+1993,Malta,0.1
+2003,Malta,0.1
+2019,Benin,0.16
+2020,Benin,0.14
+1993,Denmark,0.1
+1997,Denmark,0.1
+2005,Denmark,0.1
+2007,Denmark,0.1
+2009,Denmark,0.1
+2013,Denmark,0.1
+2012,Estonia,0.18
+2014,Estonia,0.15
+1990,Fiji,0.1
+1993,Fiji,0.1
+1996,Fiji,0.1
+2006,Fiji,0.1
+2003,Germany,NA
+2007,Germany,NA
+2013,Germany,0.1
+2014,Germany,0.1
+2017,Germany,0.1
+2014,Haiti,0.79
+2022,Haiti,0.5
+2023,Haiti,0.48
+1993,Honduras,0.82
+1994,Honduras,0.83
+2002,Honduras,0.33
+2019,Marshall Islands,NA
+2023,Marshall Islands,NA
+1991,Palau,NA
+1993,Palau,NA
+1996,Palau,NA
+1999,Palau,NA
+2004,Palau,NA
+2005,Palau,NA
+2017,Palau,NA
+2018,Palau,NA
+2022,Palau,NA
+2023,Palau,NA
+1992,Pakistan,NA
+1997,Pakistan,NA
+2013,Poland,NA
+2017,Poland,NA
+2020,Poland,NA
+2021,Poland,NA
+2022,Poland,NA
+1991,Portugal,0.38
+2022,Saint Kitts and Nevis,NA
+1991,Saint Lucia,NA
+1998,Saint Lucia,NA
+2000,Saint Lucia,NA
+2001,Saint Lucia,NA
+2006,Saint Lucia,NA
+2008,Saint Lucia,NA
+2012,Saint Lucia,NA
+1992,Saint Vincent and the Grenadines,NA
+1993,Saint Vincent and the Grenadines,NA
+1994,Saint Vincent and the Grenadines,NA
+1995,Saint Vincent and the Grenadines,NA
+2014,Singapore,0.1
+2021,Singapore,0.1
+1990,Slovakia,0.01
+1993,Slovakia,0.01
+1994,Slovakia,0.01
+1995,Slovakia,0.01
+1999,Slovakia,0.01
+2000,Slovakia,0.01
+2010,Slovakia,0.01
+2018,Spain,0.1
+2019,Spain,0.1
+1991,South Sudan,1.5
+1993,South Sudan,1.8
+1994,South Sudan,1.9
+1999,South Sudan,1.9
+2001,South Sudan,1.6
+2005,South Sudan,1.4
+2006,South Sudan,1.4
+2010,South Sudan,1.2
+2011,South Sudan,1.2
+2011,Africa,1.6
+2014,Africa,1.3
+2020,Turkmenistan,NA
+2021,Turkmenistan,NA
+2023,Turkmenistan,NA
+1991,Tuvalu,NA
+1992,Tuvalu,NA
+1995,Tuvalu,NA
+1996,Tuvalu,NA
+1997,Tuvalu,NA
+1999,Tuvalu,NA
+2000,Tuvalu,NA
+2001,Tuvalu,NA
+2002,Tuvalu,NA
+2003,Tuvalu,NA
+2008,Tuvalu,NA
+2009,Tuvalu,NA
+2011,Tuvalu,NA
+2012,Tuvalu,NA
+2014,Tuvalu,NA
+2016,Tuvalu,NA
+2017,Tuvalu,NA
+2019,Tuvalu,NA
+2020,Tuvalu,NA
+2022,Tuvalu,NA
+2018,United States of America,NA
+2019,United States of America,NA
+2021,United States of America,NA
+2003,Burkina Faso,0.74
+2009,Burkina Faso,0.41
+2011,Burkina Faso,0.34
+2013,Burkina Faso,0.27
+2022,Türkiye,NA
+2023,Türkiye,NA
+2010,Turkmenistan,NA
+2014,Turkmenistan,NA
+2018,Turkmenistan,NA
+2018,United Republic of Tanzania,1.7
+1995,United States of America,NA
+1996,United States of America,NA
+1998,United States of America,NA
+2000,United States of America,NA
+2001,United States of America,NA
+2010,United States of America,NA
+1993,Peru,0.28
+2006,Peru,0.16
+2008,Peru,0.14
+1990,Gabon,2
+2000,Gabon,3.5
+2002,Gabon,3
+2005,Gabon,2.4
+2008,Gabon,2
+2014,Gabon,1.4
+2019,Greece,0.1
+2021,Greece,0.1
+2007,Japan,NA
+2008,Japan,NA
+1997,Kyrgyzstan,0.01
+1999,Kyrgyzstan,0.01
+2004,Kyrgyzstan,0.1
+2012,Kyrgyzstan,0.14
+2013,Kyrgyzstan,0.13
+2015,Kyrgyzstan,0.13
+2017,Kyrgyzstan,0.12
+2019,Kyrgyzstan,0.12
+2020,Lithuania,0.1
+1992,Romania,0.12
+1999,Romania,0.1
+2006,Romania,0.1
+2010,Romania,0.1
+2012,Romania,0.1
+2014,Romania,0.1
+2017,Romania,0.1
+2020,Viet Nam,0.1
+2000,Slovenia,0.01
+2008,Slovenia,0.1
+2009,Slovenia,0.1
+2012,Slovenia,0.1
+2013,Slovenia,0.1
+2017,Slovenia,0.1
+2003,Eswatini,21
+2006,Eswatini,19
+2012,Eswatini,17
+2017,Eswatini,8.2
+2023,Lithuania,0.1
+1990,Luxembourg,0.1
+2000,Luxembourg,0.1
+2001,Luxembourg,0.1
+2004,Luxembourg,0.1
+2012,Luxembourg,0.1
+2020,Mauritania,0.1
+2021,Mauritania,0.1
+1990,Mauritius,0.1
+1993,Mauritius,0.15
+1997,Mauritius,0.36
+1998,Mauritius,0.56
+1999,Mauritius,0.83
+2003,Mauritius,0.95
+2008,Mauritius,0.77
+2018,Mauritius,0.75
+2009,Oman,0.1
+2010,Oman,0.1
+2011,Oman,0.1
+2014,Oman,0.1
+2015,Oman,0.1
+2016,Oman,0.1
+2018,Oman,0.1
+2019,Oman,0.1
+2021,Oman,0.1
+1991,Niger,0.5
+1992,Niger,0.6
+1993,Chad,2
+1994,Chad,2.1
+1998,Chad,1.6
+2008,Chad,0.81
+2010,Chad,0.71
+2011,Chad,0.67
+2013,Chad,0.55
+1990,Cook Islands,NA
+2000,Cook Islands,NA
+2007,Cook Islands,NA
+2011,Cook Islands,NA
+2015,Cook Islands,NA
+2023,Cook Islands,NA
+1991,Costa Rica,0.1
+1992,Costa Rica,0.1
+2002,Costa Rica,0.14
+2004,Costa Rica,0.15
+2006,Costa Rica,0.17
+2007,Costa Rica,0.18
+1992,Angola,1
+1995,Angola,1.1
+1998,Angola,1.2
+2007,Angola,1.3
+2011,Angola,1.2
+2016,Angola,0.8
+2020,Angola,0.58
+2023,Angola,0.44
+1991,Antigua and Barbuda,NA
+1998,Antigua and Barbuda,NA
+2004,Antigua and Barbuda,NA
+2020,Bahamas,0.19
+1993,Bahrain,NA
+1994,Bahrain,NA
+1996,Bahrain,NA
+1999,Bahrain,NA
+2003,Bahrain,NA
+2007,Bahrain,NA
+2013,Bahrain,NA
+2016,Bahrain,NA
+2018,Bahrain,NA
+2022,Bolivia (Plurinational State of),0.17
+2023,Bolivia (Plurinational State of),0.16
+1991,Bosnia and Herzegovina,0.01
+2018,Germany,0.1
+2019,Germany,0.1
+1993,Ghana,2.4
+1994,Ghana,2.4
+1995,Ghana,2.2
+1997,Ghana,2
+1999,Ghana,1.7
+2005,Ghana,1.2
+2014,Ghana,0.78
+2020,Honduras,0.1
+2021,Honduras,0.1
+1991,Hungary,NA
+1993,Hungary,NA
+1995,Hungary,NA
+2000,Hungary,NA
+2001,Hungary,NA
+2011,Hungary,NA
+2012,Hungary,NA
+2006,Israel,0.1
+2011,Israel,0.1
+2013,Israel,0.1
+2016,Israel,0.1
+2017,Israel,0.1
+2018,Israel,0.1
+2019,Israel,0.1
+2021,Israel,0.1
+2022,Israel,0.1
+2023,Israel,0.1
+1995,Italy,0.12
+2001,Italy,0.1
+2002,Italy,0.1
+2002,Democratic People's Republic of Korea,NA
+2009,Democratic People's Republic of Korea,NA
+2018,Democratic People's Republic of Korea,NA
+2022,Democratic People's Republic of Korea,NA
+1994,Republic of Korea,NA
+2001,Republic of Korea,NA
+2022,Latvia,0.17
+1998,Liberia,1.8
+2003,Liberia,1.2
+2005,Liberia,0.99
+2008,Sudan,0.1
+2010,Sudan,0.1
+2011,Sudan,0.1
+2012,Sudan,0.1
+2018,Sudan,0.1
+1992,Suriname,0.48
+2001,Suriname,1.1
+2016,Thailand,0.17
+2018,Thailand,0.15
+2019,Thailand,0.15
+2023,Thailand,0.13
+1994,Togo,3.3
+1997,Togo,3.6
+2000,Togo,2.7
+2004,Togo,1.7
+2015,Togo,0.64
+2023,Morocco,0.1
+1995,Mozambique,6.2
+1999,Mozambique,8.8
+2000,Mozambique,9
+2004,Mozambique,8.4
+2006,Mozambique,8
+2007,Mozambique,7.5
+2009,Mozambique,7.3
+2016,New Zealand,0.1
+2019,New Zealand,0.1
+2023,New Zealand,0.01
+1992,Nicaragua,0.13
+1999,Nicaragua,0.2
+2000,Nicaragua,0.19
+2004,Nicaragua,0.14
+2007,Nicaragua,0.11
+2008,Nicaragua,0.1
+2014,Nicaragua,0.1
+2017,Marshall Islands,NA
+2004,Eswatini,21
+2011,Eswatini,16
+2019,Eswatini,7.2
+2000,Sweden,NA
+2001,Sweden,NA
+2003,Sweden,NA
+2005,Sweden,NA
+2006,Sweden,NA
+2004,Trinidad and Tobago,NA
+2013,Trinidad and Tobago,NA
+2014,Trinidad and Tobago,NA
+1990,Uganda,7.2
+1991,Uganda,6.8
+1998,Uganda,5.1
+2002,Uganda,4.5
+2005,Uganda,4
+2011,Uganda,3.2
+2012,Uganda,2.9
+2013,Uganda,2.7
+2014,Uganda,2.3
+2017,Uganda,1.7
+2020,Uganda,1.1
+2021,Uganda,1.1
+2016,Burkina Faso,0.19
+1991,Uruguay,0.11
+1999,Uruguay,0.17
+2000,Uruguay,0.17
+2004,Uruguay,0.2
+2005,Uruguay,0.2
+2014,Uruguay,0.24
+2016,Uruguay,0.24
+1996,Africa,3.8
+2007,Africa,2.2
+2008,Africa,2
+2010,Mauritius,0.78
+2012,Mauritius,0.71
+2021,Mauritius,0.79
+1992,Mexico,0.11
+1993,Mexico,0.12
+1996,Mexico,0.12
+1997,Mexico,0.13
+1997,Namibia,14
+2007,Namibia,7
+2008,Namibia,6.7
+2010,Namibia,6
+2011,Nigeria,0.85
+2012,Nigeria,0.78
+2015,Nigeria,0.6
+2019,Nigeria,0.52
+2020,Nigeria,0.48
+2023,Nigeria,0.34
+1992,Niue,NA
+1995,Niue,NA
+1998,Niue,NA
+2000,Niue,NA
+2002,Niue,NA
+2003,Niue,NA
+2004,Niue,NA
+2005,Niue,NA
+2013,Niue,NA
+2018,Eswatini,8
+1992,Sweden,NA
+1994,Sweden,NA
+1996,Sweden,NA
+1998,Sweden,NA
+2018,Tonga,NA
+2019,Tonga,NA
+1991,Trinidad and Tobago,NA
+1994,Trinidad and Tobago,NA
+1995,Trinidad and Tobago,NA
+1998,Trinidad and Tobago,NA
+2002,Trinidad and Tobago,NA
+2005,Trinidad and Tobago,NA
+2006,Trinidad and Tobago,NA
+2009,Trinidad and Tobago,NA
+2003,North Macedonia,0.01
+2004,North Macedonia,0.01
+2010,North Macedonia,0.1
+2012,North Macedonia,0.1
+2022,Suriname,0.78
+2012,Europe,0.18
+2015,Europe,0.18
+2022,Uzbekistan,0.1
+1991,Venezuela (Bolivarian Republic of),0.11
+1993,Venezuela (Bolivarian Republic of),0.14
+1996,Venezuela (Bolivarian Republic of),0.21
+2001,Venezuela (Bolivarian Republic of),0.36
+2006,Venezuela (Bolivarian Republic of),0.43
+2007,Venezuela (Bolivarian Republic of),0.37
+2009,Venezuela (Bolivarian Republic of),0.2
+2010,Venezuela (Bolivarian Republic of),0.13
+2011,Venezuela (Bolivarian Republic of),0.1
+1990,South-East Asia,0.4
+1992,South-East Asia,0.45
+1995,South-East Asia,0.51
+1998,South-East Asia,0.33
+2002,South-East Asia,0.21
+2010,South-East Asia,0.12
+2011,South-East Asia,0.11
+2013,South-East Asia,0.1
+2014,South-East Asia,0.1
+2018,South-East Asia,0.1
+2022,South-East Asia,0.1
+1992,Africa,4
+1998,Africa,3.6
+2000,Africa,3.2
+2005,Africa,2.5
+2013,Africa,1.4
+2014,Albania,0.1
+2021,Albania,0.1
+2022,Albania,0.1
+2018,Bulgaria,0.1
+1993,Myanmar,0.36
+2009,Central African Republic,NA
+2010,Central African Republic,NA
+2011,Central African Republic,NA
+2016,Central African Republic,NA
+2017,Central African Republic,NA
+2021,Central African Republic,NA
+2023,Central African Republic,NA
+2020,Colombia,0.25
+1990,Comoros,0.1
+1995,Comoros,0.1
+1996,Comoros,0.1
+2019,Cyprus,NA
+2023,Cyprus,NA
+1990,Czechia,0.01
+1991,Czechia,0.01
+1995,Czechia,0.01
+2011,Equatorial Guinea,NA
+1993,Ethiopia,3
+1996,Ethiopia,2
+1997,Ethiopia,1.7
+1998,Ethiopia,1.5
+2001,Ethiopia,1
+2019,Botswana,3.5
+2020,Botswana,3.1
+2023,Botswana,1.9
+2001,Brazil,0.25
+2004,Brazil,0.25
+2006,Brazil,0.25
+2010,Brazil,0.25
+2011,Brazil,0.25
+2014,Brazil,0.24
+2015,Brazil,0.24
+2016,Belarus,0.18
+2018,Belarus,0.15
+1995,Cambodia,1.3
+1996,Cambodia,1.4
+2001,Cambodia,0.57
+2004,Cambodia,0.39
+2007,Cambodia,0.25
+2008,Cambodia,0.21
+2020,Chad,0.34
+1990,Chile,0.1
+2004,Chile,0.13
+2006,Chile,0.14
+2013,Costa Rica,0.21
+2018,Costa Rica,0.2
+2019,Costa Rica,0.2
+2020,Costa Rica,0.19
+2022,Costa Rica,0.18
+1994,Croatia,0.01
+1999,Croatia,0.1
+2000,Croatia,0.1
+2009,Croatia,0.1
+2012,Croatia,0.1
+1996,World,0.58
+1999,World,0.5
+1990,Lithuania,0.1
+1991,Lithuania,0.1
+2006,Lithuania,0.1
+2008,Lithuania,0.1
+2010,Lithuania,0.1
+2014,Lithuania,0.1
+2005,Mauritania,0.3
+2012,Mauritania,0.1
+2014,Mauritania,0.1
+2018,Mauritania,0.1
+2023,Mauritania,0.1
+1992,Mauritius,0.1
+1996,Mauritius,0.27
+2005,Mauritius,0.8
+2009,Mauritius,0.79
+1994,Dominican Republic,1.4
+1996,Dominican Republic,1.2
+2002,Dominican Republic,0.81
+2003,Dominican Republic,0.77
+2004,Dominican Republic,0.71
+2006,Dominican Republic,0.62
+2014,Dominican Republic,0.39
+2020,Dominican Republic,0.44
+2018,Finland,NA
+2019,Finland,NA
+2022,Finland,NA
+1997,France,0.1
+1998,France,0.1
+2000,France,0.12
+2002,France,0.12
+2007,France,0.12
+2010,France,0.11
+2012,France,0.1
+2017,Ghana,0.73
+2022,Ghana,0.59
+2023,Ghana,0.56
+1996,Kiribati,NA
+1998,Kiribati,NA
+2000,Kiribati,NA
+2001,Kiribati,NA
+2003,Kiribati,NA
+2008,Kiribati,NA
+2009,Kiribati,NA
+1994,Kazakhstan,NA
+1997,Lao People's Democratic Republic,0.1
+1999,Lao People's Democratic Republic,0.1
+2002,Lao People's Democratic Republic,0.15
+2003,Lao People's Democratic Republic,0.15
+2016,Lao People's Democratic Republic,0.17
+2017,Lao People's Democratic Republic,0.17
+2023,Luxembourg,0.1
+1992,Madagascar,NA
+1993,Madagascar,NA
+1997,Madagascar,NA
+1999,Madagascar,NA
+2004,Madagascar,NA
+2005,Madagascar,NA
+2007,Madagascar,NA
+2008,Madagascar,NA
+2009,Madagascar,NA
+2018,Mexico,0.17
+2021,Mexico,0.15
+2022,Mexico,0.15
+1991,Monaco,NA
+1992,Monaco,NA
+1993,Monaco,NA
+1994,Monaco,NA
+1997,Monaco,NA
+2001,Monaco,NA
+2002,Monaco,NA
+2005,Monaco,NA
+2009,Monaco,NA
+2011,Monaco,NA
+2013,Monaco,NA
+1993,Oman,0.1
+1998,Oman,0.1
+1999,Oman,0.1
+2001,Oman,0.1
+2004,Oman,0.1
+2007,Oman,0.1
+2005,Seychelles,NA
+2006,Seychelles,NA
+2008,Seychelles,NA
+2012,South Africa,6.3
+2016,South Africa,4.7
+2020,South Africa,3.2
+2022,South Africa,2.9
+2023,South Africa,2.7
+1992,Zimbabwe,26
+2001,Zimbabwe,12
+2004,Zimbabwe,9.9
+2006,Zimbabwe,8.9
+1991,Switzerland,0.13
+1993,Switzerland,0.11
+2009,Switzerland,0.1
+2011,Switzerland,0.1
+2013,Switzerland,0.1
+2016,Switzerland,0.1
+2018,Switzerland,0.1
+1990,Mongolia,0.01
+2013,Namibia,4.8
+2014,Namibia,4.3
+2015,Namibia,3.9
+2020,Namibia,2.3
+1999,Nauru,NA
+2003,Nauru,NA
+2004,Nauru,NA
+2005,Nauru,NA
+2017,Nauru,NA
+2019,Nauru,NA
+2020,Nauru,NA
+2023,Nauru,NA
+2018,Nigeria,0.53
+1990,Niue,NA
+1993,Niue,NA
+1994,Niue,NA
+1999,Niue,NA
+2001,Niue,NA
+2006,Niue,NA
+2010,Niue,NA
+2011,Niue,NA
+2020,Niue,NA
+2021,Niue,NA
+1991,Norway,NA
+1995,Norway,NA
+1998,Norway,NA
+2018,Panama,0.35
+2019,Panama,0.35
+1995,Canada,0.1
+2001,Canada,0.1
+2003,Canada,0.1
+2010,Canada,0.1
+1990,China,NA
+1994,China,NA
+1996,China,NA
+2000,China,NA
+2001,China,NA
+2002,China,NA
+2009,China,NA
+2010,China,NA
+1998,Cuba,0.1
+2003,Cuba,0.17
+2005,Cuba,0.19
+2010,Cuba,0.21
+2013,Cuba,0.2
+2014,Cuba,0.2
+2015,Cuba,0.2
+2023,Cuba,0.18
+1990,Cyprus,NA
+1992,Cyprus,NA
+2007,Ecuador,0.17
+2008,Ecuador,0.16
+2009,Ecuador,0.16
+2012,Ecuador,0.15
+2013,Ecuador,0.15
+2001,El Salvador,0.34
+2003,El Salvador,0.32
+2004,El Salvador,0.3
+2015,Vanuatu,NA
+2018,Vanuatu,NA
+2021,Vanuatu,NA
+2023,Vanuatu,NA
+2015,Palau,NA
+1994,Pakistan,NA
+1998,Pakistan,NA
+2006,Pakistan,NA
+2009,Pakistan,NA
+2013,Pakistan,NA
+2010,Afghanistan,0.1
+2011,Afghanistan,0.1
+2012,Afghanistan,0.1
+2013,Afghanistan,0.1
+2014,Afghanistan,0.1
+2023,Afghanistan,0.1
+1999,Albania,0.1
+2017,Azerbaijan,0.1
+1995,South Africa,11
+1997,South Africa,12
+1998,South Africa,13
+1999,South Africa,13
+2001,South Africa,13
+2004,South Africa,12
+2018,Sweden,NA
+2019,Sweden,NA
+2010,Switzerland,0.1
+2012,Switzerland,0.1
+2014,Switzerland,0.1
+1990,Syrian Arab Republic,0.01
+1993,Syrian Arab Republic,0.01
+2000,Syrian Arab Republic,0.01
+2003,Syrian Arab Republic,0.01
+2004,Syrian Arab Republic,0.01
+2008,Syrian Arab Republic,0.01
+2015,Tunisia,0.1
+2023,France,0.1
+1994,Switzerland,0.1
+1995,Switzerland,0.1
+1996,Switzerland,0.1
+1997,Switzerland,0.1
+1998,Switzerland,0.1
+2001,Switzerland,0.1
+2003,Switzerland,0.1
+2005,Switzerland,0.1
+2007,Switzerland,0.1
+2019,United Arab Emirates,NA
+2020,United Arab Emirates,NA
+1990,Tunisia,0.01
+1991,Tunisia,0.1
+1992,Tunisia,0.1
+1993,Tunisia,0.1
+1999,Tunisia,0.1
+2002,Tunisia,0.1
+2021,Tunisia,0.1
+1996,Türkiye,NA
+2007,Türkiye,NA
+2015,United Kingdom of Great Britain and Northern Ireland,NA
+2020,United Kingdom of Great Britain and Northern Ireland,NA
+2022,United Kingdom of Great Britain and Northern Ireland,NA
+1990,United Republic of Tanzania,6
+1991,United Republic of Tanzania,6
+1995,United Republic of Tanzania,4.9
+1998,United Republic of Tanzania,4
+2003,United Republic of Tanzania,3
+2005,United Republic of Tanzania,2.7
+2010,United Republic of Tanzania,2.1
+1998,Niger,0.7
+2000,Niger,0.55
+2003,Niger,0.32
+2007,Niger,0.14
+2006,Tunisia,0.1
+2007,Tunisia,0.1
+2009,Tunisia,0.1
+2012,Tunisia,0.1
+2014,Tunisia,0.1
+2021,Egypt,0.1
+2023,Egypt,0.1
+1998,United Kingdom of Great Britain and Northern Ireland,NA
+2002,United Kingdom of Great Britain and Northern Ireland,NA
+2011,United Kingdom of Great Britain and Northern Ireland,NA
+2012,United Kingdom of Great Britain and Northern Ireland,NA
+1993,Nicaragua,0.14
+1994,Nicaragua,0.16
+1995,Nicaragua,0.18
+1996,Nicaragua,0.19
+2010,Nicaragua,0.1
+2012,Nicaragua,0.1
+2015,Nicaragua,0.1
+2008,Niger,0.12
+2009,Niger,0.1
+2013,Niger,0.1
+2015,Niger,0.1
+2017,Niger,0.1
+2021,Niger,0.1
+1995,Zambia,11
+1996,Zambia,11
+1997,Zambia,9.9
+2003,Zambia,7.7
+2008,Zambia,5.2
+2023,Zambia,1.2
+1996,Western Pacific,0.1
+2000,Western Pacific,0.1
+2003,Western Pacific,0.1
+2010,Western Pacific,0.1
+2019,Western Pacific,0.1
+2022,Samoa,NA
+1999,Yemen,0.1
+2000,Yemen,0.1
+2007,Yemen,0.1
+2012,Yemen,0.1
+2017,Yemen,0.1
+2019,Yemen,0.1
+2023,Yemen,0.1
+1998,Eastern Mediterranean,0.1
+2000,Eastern Mediterranean,0.1
+2001,Eastern Mediterranean,0.1
+2006,Eastern Mediterranean,0.1
+2007,Eastern Mediterranean,0.1
+2012,Eastern Mediterranean,0.1
+2018,Eastern Mediterranean,0.1
+2020,Eastern Mediterranean,0.1
+2022,Eastern Mediterranean,0.1
+1991,Western Pacific,0.1
+2016,Nicaragua,0.1
+2017,Nicaragua,0.1
+2020,Nicaragua,0.1
+2022,Nicaragua,0.1
+2015,Panama,0.36
+2021,Panama,0.35
+1990,Papua New Guinea,0.1
+1991,Papua New Guinea,0.14
+2020,Argentina,0.11
+1994,Australia,0.1
+1992,Belgium,NA
+1995,Belgium,NA
+2001,Belgium,NA
+2008,Belgium,NA
+2011,Belgium,NA
+2015,Belize,0.51
+2023,Belize,0.39
+1991,Solomon Islands,NA
+1994,Solomon Islands,NA
+2020,Venezuela (Bolivarian Republic of),0.18
+1991,Samoa,NA
+2009,Samoa,NA
+2014,Samoa,NA
+2015,Samoa,NA
+2016,Samoa,NA
+2017,Samoa,NA
+1990,Europe,0.1
+1996,Europe,0.1
+1998,Europe,0.1
+1999,Europe,0.11
+2006,Europe,0.14
+2015,Americas,0.17
+2016,Americas,0.17
+2005,Andorra,NA
+2006,Andorra,NA
+2008,Andorra,NA
+2009,Andorra,NA
+2020,Andorra,NA
+2022,Andorra,NA
+2011,Solomon Islands,NA
+2012,Solomon Islands,NA
+2013,Solomon Islands,NA
+2010,Cameroon,NA
+2012,Cameroon,NA
+2013,Cameroon,NA
+2015,Cameroon,NA
+2021,Cameroon,NA
+2002,Canada,0.1
+2011,Canada,0.1
+2006,Ethiopia,0.54
+2006,Gabon,2.2
+2007,Gabon,2.1
+2011,Gabon,1.7
+2012,Gabon,1.5
+2015,Gabon,1.3
+2019,Gabon,0.99
+2020,Gabon,0.97
+1996,Georgia,0.01
+2004,Georgia,0.1
+1993,Angola,1
+1994,Angola,1.1
+1999,Angola,1.2
+2001,Angola,1.3
+1991,Bahamas,1.7
+1999,Bahamas,1.2
+2001,Bahamas,0.99
+2002,Bahamas,0.91
+2004,Bahamas,0.71
+2005,Bahamas,0.66
+2012,Bahamas,0.38
+2015,Bahamas,0.29
+1993,Bhutan,0.1
+1995,Bhutan,0.1
+1997,Bhutan,0.1
+2000,Bhutan,0.12
+2002,Bhutan,0.13
+2007,Bhutan,0.13
+2018,Grenada,NA
+2020,Grenada,NA
+2023,Grenada,NA
+1992,Guatemala,0.28
+1995,Guatemala,0.33
+1998,Guatemala,0.3
+2002,Guatemala,0.21
+2010,Guatemala,0.1
+2012,Guatemala,0.1
+1991,Indonesia,0.01
+1992,Indonesia,0.01
+1998,Indonesia,0.1
+2013,Indonesia,0.18
+2014,Indonesia,0.17
+2015,Jamaica,0.38
+2016,Jamaica,0.38
+2017,Jamaica,0.37
+2019,Jamaica,0.41
+2021,Jamaica,0.44
+2006,Togo,1.5
+2008,Togo,1.3
+2010,Togo,1
+2018,Togo,0.46
+1993,Tonga,NA
+1997,Tonga,NA
+2005,Tonga,NA
+2010,Tonga,NA
+2015,Uganda,2.1
+2016,Uganda,2
+2022,Uganda,0.97
+1991,Ukraine,0.1
+1992,Ukraine,0.1
+2000,Ukraine,0.68
+2003,Ukraine,0.43
+2007,Ukraine,0.39
+2008,Ukraine,0.38
+2009,Ukraine,0.37
+2008,Uruguay,0.22
+1991,Japan,NA
+1993,Japan,NA
+1997,Japan,NA
+1999,Japan,NA
+2001,Japan,NA
+2004,Japan,NA
+2005,Japan,NA
+2009,World,0.33
+2012,World,0.29
+2009,Antigua and Barbuda,NA
+2010,Antigua and Barbuda,NA
+2011,Antigua and Barbuda,NA
+2017,Antigua and Barbuda,NA
+1990,Azerbaijan,0.01
+1995,Azerbaijan,0.1
+1993,Bangladesh,0.01
+1999,Bangladesh,0.01
+2000,Bangladesh,0.01
+2002,Bangladesh,0.01
+1991,Botswana,18
+2010,Uruguay,0.23
+2011,Uruguay,0.23
+2017,Uruguay,0.24
+2022,Uruguay,0.24
+1993,Uzbekistan,NA
+2001,Uzbekistan,NA
+2014,Uzbekistan,0.13
+2018,Africa,0.93
+2021,Africa,0.7
+1993,Americas,0.22
+2000,Americas,0.22
+2007,Americas,0.2
+2011,Americas,0.18
+2014,Americas,0.17
+2018,Americas,0.17
+2009,Estonia,0.27
+2015,Estonia,0.13
+2017,Estonia,0.11
+1991,Germany,NA
+1998,Germany,NA
+2001,Germany,NA
+2005,Germany,NA
+2006,Germany,NA
+1995,Haiti,1.7
+1996,Haiti,1.6
+2000,Haiti,1.4
+2002,Haiti,1.2
+2005,Haiti,1
+2007,Haiti,0.9
+2012,Haiti,0.79
+2015,Haiti,0.78
+2017,Haiti,0.74
+1997,Honduras,0.71
+2012,Bhutan,0.13
+2013,Bhutan,0.12
+2021,Bhutan,0.1
+2022,Bhutan,0.1
+1993,Botswana,24
+2002,Botswana,15
+2008,Botswana,8.7
+2016,Botswana,5.4
+2020,Burundi,0.13
+1995,Belarus,0.1
+2000,Belarus,0.1
+2004,Belarus,0.15
+2005,Belarus,0.17
+2007,Belarus,0.22
+2008,Belarus,0.24
+2010,Belarus,0.26
+2012,Kiribati,NA
+2014,Kiribati,NA
+2017,Hungary,NA
+2020,Hungary,NA
+1994,Iceland,0.1
+1995,Iceland,0.1
+1998,Iceland,0.1
+1994,Argentina,0.16
+1995,Argentina,0.16
+1998,Argentina,0.15
+2011,Argentina,0.14
+2013,Argentina,0.14
+2014,Argentina,0.13
+2018,Armenia,0.18
+1992,Barbados,0.81
+1996,Barbados,0.72
+2003,Barbados,0.53
+2004,Barbados,0.5
+2005,Barbados,0.48
+2006,Barbados,0.45
+2012,Barbados,0.29
+2015,Barbados,0.25
+2018,Barbados,0.2
+2012,Botswana,7.2
+2013,Botswana,6.6
+1999,Iceland,0.1
+2000,Iceland,0.1
+2008,Iceland,0.1
+2014,Italy,0.1
+2018,Italy,0.1
+1996,Côte d'Ivoire,5.8
+1998,Côte d'Ivoire,4.5
+2000,Côte d'Ivoire,3.5
+2006,Republic of Korea,NA
+2010,Republic of Korea,NA
+2016,Republic of Korea,NA
+2017,Republic of Korea,NA
+2018,Republic of Korea,NA
+1993,Kuwait,0.01
+2023,Liberia,0.15
+1995,Libya,NA
+1997,Libya,NA
+1998,Libya,NA
+2004,Libya,NA
+2015,Bulgaria,0.1
+2019,Bulgaria,0.1
+2020,Bulgaria,0.1
+2001,Myanmar,0.55
+2003,Myanmar,0.51
+2008,Myanmar,0.39
+2010,Myanmar,0.35
+2017,Mali,0.39
+2022,Mali,0.28
+2023,Mali,0.24
+1990,Malta,0.01
+1992,Malta,0.1
+1994,Malta,0.1
+1996,Malta,0.1
+1999,Malta,0.1
+2001,Malta,0.1
+2002,Malta,0.1
+2005,Malta,0.1
+1990,Morocco,0.1
+1993,Morocco,0.1
+1997,Morocco,0.1
+2005,Morocco,0.1
+2006,Morocco,0.1
+2008,Morocco,0.1
+2017,Morocco,0.1
+1991,Mozambique,3.4
+1992,Mozambique,4.1
+1993,New Zealand,0.1
+2004,New Zealand,0.1
+2017,New Zealand,0.1
+2020,New Zealand,0.1
+2023,Pakistan,NA
+1992,Panama,0.46
+1994,Panama,0.47
+1998,Panama,0.44
+2002,Panama,0.4
+2008,Panama,0.37
+2007,Libya,NA
+2014,Libya,NA
+2020,Libya,NA
+2011,Malta,0.1
+2014,Malta,0.1
+2016,Malta,0.1
+2020,Malta,0.1
+1990,Mauritania,0.31
+1992,Mauritania,0.42
+2016,Denmark,0.1
+2020,Denmark,0.1
+1991,Dominica,NA
+2010,Dominica,NA
+2011,Dominica,NA
+2015,Dominica,NA
+2012,Fiji,0.14
+2016,Fiji,0.21
+2017,Fiji,0.22
+2020,Fiji,0.29
+2021,Fiji,0.32
+1999,Finland,NA
+2001,Finland,NA
+2009,Finland,NA
+2012,Oman,0.1
+2018,Nicaragua,0.1
+2019,Nicaragua,0.1
+2021,Nicaragua,0.1
+2023,Nicaragua,0.1
+1996,Niger,0.79
+1997,Niger,0.75
+2002,Niger,0.38
+2011,Niger,0.1
+2014,Niger,0.1
+2007,Pakistan,NA
+2008,Pakistan,NA
+2012,Pakistan,NA
+2015,Pakistan,NA
+2018,Pakistan,NA
+2005,Portugal,0.18
+2006,Portugal,0.17
+2008,Portugal,0.16
+2013,Portugal,0.13
+2013,Saint Vincent and the Grenadines,NA
+2017,Saint Vincent and the Grenadines,NA
+2020,Saint Vincent and the Grenadines,NA
+2023,Saint Vincent and the Grenadines,NA
+1993,San Marino,NA
+1994,San Marino,NA
+1998,San Marino,NA
+1999,San Marino,NA
+2000,San Marino,NA
+2003,San Marino,NA
+2011,San Marino,NA
+2012,San Marino,NA
+2011,Slovakia,0.1
+2018,Slovakia,0.1
+1990,Viet Nam,0.1
+1991,Viet Nam,0.1
+1997,Viet Nam,0.24
+1999,Viet Nam,0.25
+2005,Viet Nam,0.23
+1993,Sudan,0.1
+1995,Sudan,0.1
+2007,Sudan,0.1
+1993,Papua New Guinea,0.22
+1996,Papua New Guinea,0.36
+1998,Papua New Guinea,0.43
+2000,Papua New Guinea,0.47
+2005,Papua New Guinea,0.44
+2006,Papua New Guinea,0.42
+2017,Papua New Guinea,0.45
+2019,Papua New Guinea,0.52
+2020,Papua New Guinea,0.56
+1990,Paraguay,0.01
+1996,Paraguay,0.17
+2000,Paraguay,0.18
+1998,Timor-Leste,0.1
+2001,Timor-Leste,0.11
+2003,Timor-Leste,0.12
+2004,Timor-Leste,0.12
+2005,Timor-Leste,0.11
+2007,Timor-Leste,0.11
+2010,Timor-Leste,0.11
+2011,Timor-Leste,0.11
+2014,Timor-Leste,0.11
+2018,Timor-Leste,0.11
+2023,Timor-Leste,0.1
+2008,Saudi Arabia,0.01
+2009,Saudi Arabia,0.01
+2017,Saudi Arabia,0.1
+2022,Saudi Arabia,0.1
+1999,Senegal,0.64
+2005,Senegal,0.34
+2002,Slovenia,0.01
+2011,Slovenia,0.1
+2015,Slovenia,0.1
+2018,Slovenia,0.1
+2022,Slovenia,NA
+2007,Djibouti,0.9
+2010,Djibouti,0.72
+2011,Djibouti,0.65
+2013,Djibouti,0.5
+2015,Djibouti,0.39
+2016,Djibouti,0.34
+2018,Djibouti,0.29
+2019,Djibouti,0.3
+2014,Greece,0.1
+2016,Greece,0.1
+1994,Grenada,NA
+1998,Grenada,NA
+2018,Iceland,0.1
+1990,India,NA
+1993,India,NA
+1997,India,NA
+2006,India,NA
+2012,India,NA
+2020,Côte d'Ivoire,0.46
+2022,Côte d'Ivoire,0.38
+2003,Jamaica,0.79
+2004,Jamaica,0.75
+2011,Jamaica,0.47
+2018,Jamaica,0.41
+2022,Jamaica,0.41
+1996,Kyrgyzstan,0.01
+1998,Kyrgyzstan,0.01
+2000,Kyrgyzstan,0.01
+2002,Kyrgyzstan,0.1
+2003,Kyrgyzstan,0.1
+2005,Kyrgyzstan,0.1
+2011,Kyrgyzstan,0.13
+2016,Kyrgyzstan,0.13
+2021,Lithuania,0.1
+2009,Bhutan,0.13
+2014,Bhutan,0.12
+2006,Bulgaria,0.1
+2007,Bulgaria,0.1
+2008,Bulgaria,0.1
+2012,Bulgaria,0.1
+2013,Bulgaria,0.1
+2000,Cuba,0.11
+2002,Cuba,0.15
+2006,Cuba,0.2
+2009,Cuba,0.21
+2015,World,0.25
+2016,World,0.24
+2017,World,0.23
+2019,World,0.2
+1991,Afghanistan,0.01
+1993,Afghanistan,0.01
+1996,Afghanistan,0.1
+1997,Afghanistan,0.1
+1998,Afghanistan,0.1
+2002,Afghanistan,0.1
+2004,Afghanistan,0.1
+2005,Afghanistan,0.1
+2009,Afghanistan,0.1
+1997,Azerbaijan,0.1
+2000,Azerbaijan,0.12
+2003,Azerbaijan,0.11
+2006,Azerbaijan,0.1
+2008,Azerbaijan,0.1
+2011,Azerbaijan,0.1
+2016,Azerbaijan,0.1
+2018,Azerbaijan,0.1
+1993,Armenia,0.01
+1995,Armenia,0.01
+1997,Armenia,0.01
+1999,Armenia,0.01
+2005,Armenia,0.1
+2006,Armenia,0.1
+2008,Armenia,0.1
+2010,Armenia,0.12
+2013,Armenia,0.15
+2017,Armenia,0.18
+2019,Armenia,0.18
+2022,Armenia,0.19
+2018,Ecuador,0.13
+2015,France,0.1
+2017,France,0.1
+2022,France,0.1
+1992,Djibouti,2.7
+1994,Djibouti,2.9
+1997,Djibouti,2.4
+1998,Djibouti,2.6
+1999,Djibouti,2.1
+2000,Djibouti,2
+2003,Djibouti,1.7
+2004,Djibouti,1.2
+1995,Greece,0.1
+2000,Greece,0.1
+2005,Greece,0.1
+2011,Greece,0.1
+2015,Iceland,0.1
+2016,Iceland,0.1
+2020,Iceland,0.1
+2021,Iceland,0.1
+2023,Iceland,0.1
+1999,India,NA
+2001,India,NA
+2007,India,NA
+2008,India,NA
+2009,India,NA
+2007,Côte d'Ivoire,1.7
+2015,Côte d'Ivoire,0.75
+2017,Côte d'Ivoire,0.64
+1991,Jamaica,0.81
+1994,Jamaica,1.3
+1996,Jamaica,1.5
+1998,Jamaica,1.4
+1999,Jamaica,1.3
+2002,Jamaica,0.85
+1997,Kuwait,0.01
+2000,Kuwait,0.01
+2002,Kuwait,0.01
+2003,Kuwait,0.01
+2007,Kuwait,0.01
+2010,Kuwait,0.01
+2012,Kuwait,0.01
+2019,Kuwait,0.1
+2021,Kuwait,0.1
+1991,Kyrgyzstan,0.01
+1999,Ethiopia,1.3
+2000,Ethiopia,1.2
+2018,Gabon,1.1
+2021,Gabon,0.95
+2022,Gabon,0.85
+2023,Gabon,0.79
+1990,Georgia,0.01
+1992,Georgia,0.01
+1993,Georgia,0.01
+1994,Georgia,0.01
+1995,Georgia,0.01
+1997,Georgia,0.01
+1999,Georgia,0.01
+2000,Georgia,0.1
+2001,Georgia,0.1
+2003,Georgia,0.1
+2006,Georgia,0.1
+2007,Georgia,0.1
+2009,Georgia,0.11
+2022,Grenada,NA
+1993,Guatemala,0.29
+1994,Guatemala,0.3
+1997,Guatemala,0.31
+1999,Guatemala,0.28
+2007,Guatemala,0.12
+2014,Guatemala,0.1
+2020,Guatemala,0.1
+1991,Guinea,0.69
+2011,Indonesia,0.2
+2015,Indonesia,0.16
+2018,Indonesia,0.13
+1992,Iran (Islamic Republic of),0.01
+2004,Iran (Islamic Republic of),0.12
+2014,Japan,NA
+2016,Japan,NA
+2017,Japan,NA
+2019,Japan,NA
+2020,Japan,NA
+2022,Japan,NA
+2023,Japan,NA
+1990,Kazakhstan,NA
+1993,Kazakhstan,NA
+1994,Syrian Arab Republic,0.01
+1995,Syrian Arab Republic,0.01
+1996,Syrian Arab Republic,0.01
+1997,Syrian Arab Republic,0.01
+1998,Syrian Arab Republic,0.01
+1999,Syrian Arab Republic,0.01
+2001,Syrian Arab Republic,0.01
+2002,Syrian Arab Republic,0.01
+2019,Syrian Arab Republic,0.01
+2020,Syrian Arab Republic,0.01
+1991,Republic of Moldova,0.1
+1994,Republic of Moldova,0.13
+1996,Republic of Moldova,0.26
+2000,Republic of Moldova,0.49
+2004,Republic of Moldova,0.5
+2005,Republic of Moldova,0.49
+2013,Republic of Moldova,0.39
+2001,Netherlands (Kingdom of the),0.1
+2012,Netherlands (Kingdom of the),0.1
+2017,Netherlands (Kingdom of the),0.1
+2019,Netherlands (Kingdom of the),0.1
+2020,Netherlands (Kingdom of the),0.1
+2023,Paraguay,0.2
+1990,Peru,0.32
+1996,Peru,0.24
+1997,Peru,0.22
+2001,Peru,0.19
+2002,Peru,0.18
+2004,Peru,0.17
+2014,Peru,0.14
+2002,Romania,0.1
+2007,Romania,0.1
+2019,Romania,0.1
+1990,Russian Federation,NA
+1992,Russian Federation,NA
+2008,Serbia,0.1
+2009,Serbia,0.1
+2010,Serbia,0.1
+2011,Serbia,0.1
+2017,Serbia,0.1
+2018,Serbia,0.1
+2022,Serbia,0.1
+1996,Seychelles,NA
+2000,Seychelles,NA
+2001,Seychelles,NA
+2018,Argentina,0.12
+2021,Argentina,0.1
+1990,Australia,0.1
+1993,Australia,0.1
+1990,Belgium,NA
+1993,Belgium,NA
+1998,Belgium,NA
+2002,Belgium,NA
+1994,Belize,0.57
+1997,Belize,0.82
+1999,Belize,0.94
+2002,Belize,0.97
+2005,Belize,0.9
+2006,Belize,0.83
+2009,Belize,0.68
+2013,Belize,0.56
+2018,Belize,0.45
+2019,Belize,0.43
+2022,Belize,0.4
+1992,Solomon Islands,NA
+1993,Solomon Islands,NA
+1995,Solomon Islands,NA
+1997,Solomon Islands,NA
+2001,Solomon Islands,NA
+2003,Solomon Islands,NA
+1990,Canada,0.1
+2009,Panama,0.37
+2016,Portugal,0.1
+2018,Portugal,0.1
+2020,Portugal,0.1
+2021,Portugal,0.1
+1990,Guinea-Bissau,0.62
+1991,Guinea-Bissau,0.81
+1996,Guinea-Bissau,2.9
+1997,Guinea-Bissau,3.4
+2001,Guinea-Bissau,4.2
+2006,South-East Asia,0.16
+2007,South-East Asia,0.14
+2009,South-East Asia,0.13
+2004,Slovakia,0.01
+2007,Slovakia,0.01
+2020,Slovakia,0.1
+2021,Slovakia,0.1
+2006,Sudan,0.1
+2015,Sudan,0.1
+2017,Sudan,0.1
+1994,Suriname,0.68
+1995,Suriname,0.75
+1996,Suriname,0.88
+2000,Suriname,1.1
+2002,Suriname,1.1
+2013,Thailand,0.21
+1996,Togo,3.7
+1999,Togo,3
+2001,Togo,2.4
+2002,Togo,2.1
+2003,Togo,1.9
+2005,Togo,1.6
+2009,Togo,1.2
+2013,Togo,0.74
+2014,Togo,0.67
+1992,Uganda,6.4
+1993,Uganda,6.2
+2017,Paraguay,0.2
+2020,Paraguay,0.2
+2023,Uzbekistan,0.1
+1992,Venezuela (Bolivarian Republic of),0.12
+1994,Venezuela (Bolivarian Republic of),0.16
+1998,Venezuela (Bolivarian Republic of),0.26
+2000,Venezuela (Bolivarian Republic of),0.33
+2003,Venezuela (Bolivarian Republic of),0.44
+2000,Bosnia and Herzegovina,0.01
+2003,Bosnia and Herzegovina,0.01
+2008,Bosnia and Herzegovina,0.01
+2010,Bosnia and Herzegovina,0.01
+2011,Bosnia and Herzegovina,0.01
+2018,Bosnia and Herzegovina,0.1
+2022,Bosnia and Herzegovina,0.1
+2023,Bosnia and Herzegovina,0.1
+1997,Uganda,5.3
+1999,Uganda,4.9
+2000,Uganda,4.8
+2001,Uganda,4.7
+2004,Uganda,4.3
+2007,Uganda,3.9
+2008,Uganda,3.7
+2018,Uganda,1.4
+1993,Ukraine,0.18
+2020,Burkina Faso,0.11
+2022,Burkina Faso,0.1
+2023,Burkina Faso,0.1
+1990,Uruguay,0.11
+2003,China,NA
+1999,Cuba,0.1
+2017,Cuba,0.19
+2020,Cuba,0.19
+2003,Ecuador,0.18
+2006,Ecuador,0.18
+1992,Botswana,22
+2018,Burundi,0.16
+2021,Burundi,0.14
+1992,Belarus,0.01
+2013,Belarus,0.24
+2023,Andorra,NA
+1990,Angola,0.91
+1991,Angola,0.97
+1997,Angola,1.2
+2000,Angola,1.2
+2004,Angola,1.3
+2008,Angola,1.3
+2009,Angola,1.3
+2010,Angola,1.2
+2015,Angola,0.83
+2019,Angola,0.63
+2006,Bahamas,0.57
+2007,Bahamas,0.54
+2008,Bahamas,0.5
+2015,Ecuador,0.15
+2016,Ecuador,0.14
+2017,Ecuador,0.13
+1990,El Salvador,0.18
+1991,El Salvador,0.21
+1993,El Salvador,0.27
+1995,El Salvador,0.31
+1996,El Salvador,0.32
+1999,El Salvador,0.34
+2006,France,0.12
+2013,France,0.1
+2014,France,0.1
+2020,France,0.1
+2021,France,0.1
+2016,Kiribati,NA
+2023,Kiribati,NA
+1990,Greece,0.1
+1993,Greece,0.1
+1994,Greece,0.1
+2013,Bahamas,0.35
+2017,Bahamas,0.26
+2021,Bahamas,0.18
+2022,Bahamas,0.17
+1992,Bahrain,NA
+1998,Bahrain,NA
+2004,Bahrain,NA
+2006,Bahrain,NA
+2009,Bahrain,NA
+2012,Israel,0.1
+2020,Israel,0.1
+1991,Democratic People's Republic of Korea,NA
+1992,Democratic People's Republic of Korea,NA
+1995,Democratic People's Republic of Korea,NA
+1996,Democratic People's Republic of Korea,NA
+1997,Democratic People's Republic of Korea,NA
+1999,Democratic People's Republic of Korea,NA
+2003,Democratic People's Republic of Korea,NA
+2010,Democratic People's Republic of Korea,NA
+1996,Greece,0.1
+1997,Greece,0.1
+1998,Greece,0.1
+1999,Greece,0.1
+2003,Greece,0.1
+2009,Greece,0.1
+2012,Greece,0.1
+2001,Iceland,0.1
+2003,Iceland,0.1
+2010,Iceland,0.1
+2012,Iceland,0.1
+2019,Iceland,0.1
+2022,Iceland,0.1
+2020,Italy,0.1
+2021,Italy,0.1
+2022,Italy,0.1
+1990,Côte d'Ivoire,7.3
+1991,Côte d'Ivoire,7.6
+2011,Democratic People's Republic of Korea,NA
+2013,Democratic People's Republic of Korea,NA
+2017,Democratic People's Republic of Korea,NA
+2019,Democratic People's Republic of Korea,NA
+1991,Republic of Korea,NA
+1992,Republic of Korea,NA
+1993,Republic of Korea,NA
+2002,Republic of Korea,NA
+2003,Republic of Korea,NA
+1990,Bolivia (Plurinational State of),0.12
+1992,Bolivia (Plurinational State of),0.29
+1994,Bolivia (Plurinational State of),0.28
+1999,Bolivia (Plurinational State of),0.22
+2002,Bolivia (Plurinational State of),0.22
+2004,Bolivia (Plurinational State of),0.21
+2014,Bolivia (Plurinational State of),0.2
+2021,Bolivia (Plurinational State of),0.17
+2015,Botswana,6
+2022,Botswana,2.1
+1997,Brazil,0.25
+1999,Brazil,0.26
+2000,World,0.48
+2001,World,0.46
+2005,World,0.39
+2008,World,0.34
+2010,World,0.32
+1994,Antigua and Barbuda,NA
+2000,Antigua and Barbuda,NA
+2005,Antigua and Barbuda,NA
+2006,Antigua and Barbuda,NA
+2007,Antigua and Barbuda,NA
+2008,Antigua and Barbuda,NA
+2015,Antigua and Barbuda,NA
+2016,Antigua and Barbuda,NA
+2018,Antigua and Barbuda,NA
+2019,Antigua and Barbuda,NA
+2008,Mongolia,0.1
+2014,Mongolia,0.1
+2016,Mongolia,0.1
+2019,Mongolia,0.1
+1992,Nepal,0.01
+1995,Nepal,0.1
+1997,Nepal,0.14
+2000,Nepal,0.21
+2007,Nepal,0.11
+2008,Nepal,0.1
+2009,Nepal,0.1
+2011,Nepal,0.1
+2015,Nepal,0.1
+2016,Nepal,0.1
+2011,Norway,NA
+2014,Norway,NA
+2019,Norway,NA
+1992,Micronesia (Federated States of),NA
+1995,Micronesia (Federated States of),NA
+2020,Antigua and Barbuda,NA
+2017,Bahrain,NA
+2019,Bahrain,NA
+2020,Bahrain,NA
+1990,Bangladesh,0.01
+1994,Bangladesh,0.01
+2001,Bangladesh,0.01
+2005,Bangladesh,0.01
+2007,Bangladesh,0.01
+2009,Bangladesh,0.01
+2010,Bangladesh,0.01
+2014,Bangladesh,0.01
+1990,Bosnia and Herzegovina,0.01
+1994,Bosnia and Herzegovina,0.01
+1996,Bosnia and Herzegovina,0.01
+2015,Chad,0.48
+2018,Chad,0.39
+2019,Chad,0.37
+2015,Myanmar,0.28
+1994,Burundi,4
+1997,Burundi,2
+1998,Burundi,1.7
+2004,Burundi,0.79
+2010,Burundi,0.5
+2014,Burundi,0.31
+2020,Liberia,0.27
+1990,Libya,NA
+1992,Libya,NA
+1996,Libya,NA
+2003,Libya,NA
+2015,Libya,NA
+2009,Malta,0.1
+2010,Malta,0.1
+2013,Malta,0.1
+2015,Malta,0.1
+2017,Malta,0.1
+2021,Malta,0.1
+2023,Malta,0.1
+1991,Mauritania,0.37
+1993,Mauritania,0.46
+1995,Mauritania,0.54
+2010,Mozambique,7.5
+2013,Mozambique,6.7
+1992,Oman,0.1
+1994,Oman,0.1
+1996,Oman,0.1
+2003,Oman,0.1
+2022,New Zealand,0.01
+1990,Nicaragua,0.1
+2001,Nicaragua,0.17
+2013,Nicaragua,0.1
+1990,Niger,0.4
+1993,Niger,0.69
+1995,Niger,0.79
+1999,Niger,0.64
+2018,Democratic Republic of the Congo,0.27
+2021,Democratic Republic of the Congo,0.2
+2022,Democratic Republic of the Congo,0.18
+1993,Cook Islands,NA
+1997,Cook Islands,NA
+2001,Cook Islands,NA
+2003,Cook Islands,NA
+2006,Cook Islands,NA
+2010,Cook Islands,NA
+2014,Cook Islands,NA
+2019,Cook Islands,NA
+2020,Cook Islands,NA
+2022,Cook Islands,NA
+2003,Denmark,0.1
+2006,Denmark,0.1
+2014,Denmark,0.1
+2015,Denmark,0.1
+2019,Denmark,0.1
+2023,Estonia,0.1
+2004,Niger,0.25
+2012,Panama,0.36
+1998,Nepal,0.19
+2003,Nepal,0.18
+2014,Niue,NA
+2015,Niue,NA
+2023,Niue,NA
+1996,Norway,NA
+1997,Norway,NA
+2002,Norway,NA
+2005,Norway,NA
+2007,Norway,NA
+2013,Norway,NA
+2016,Peru,0.17
+2019,Peru,0.19
+1995,Philippines,0.01
+2001,Philippines,0.01
+2003,Philippines,0.01
+2006,Philippines,0.1
+2007,Philippines,0.1
+2000,Fiji,0.1
+2008,Fiji,0.1
+2013,Fiji,0.15
+2015,Fiji,0.19
+1991,Finland,NA
+1994,Finland,NA
+2016,Germany,0.1
+2020,Germany,0.1
+1998,Honduras,0.66
+1999,Honduras,0.56
+2001,Honduras,0.4
+2006,Honduras,0.13
+2009,Honduras,0.1
+2012,Honduras,0.1
+2015,Honduras,0.1
+2018,Honduras,0.1
+2022,Honduras,0.1
+1992,Hungary,NA
+2023,Ireland,0.1
+2009,Philippines,0.1
+1994,Russian Federation,NA
+2000,Russian Federation,NA
+2006,Russian Federation,NA
+2008,Russian Federation,NA
+2011,Russian Federation,NA
+2023,Slovakia,0.1
+1992,Viet Nam,0.1
+1998,Viet Nam,0.25
+2000,Viet Nam,0.26
+2002,Viet Nam,0.26
+2004,Viet Nam,0.25
+2012,Viet Nam,0.15
+2011,Suriname,0.72
+2013,Suriname,0.64
+2014,Suriname,0.65
+2015,Suriname,0.64
+2016,Suriname,0.65
+2023,Suriname,0.83
+2009,United Arab Emirates,NA
+2010,United Arab Emirates,NA
+2012,United Arab Emirates,NA
+1994,Egypt,0.01
+1995,Egypt,0.01
+1997,Egypt,0.01
+1998,Egypt,0.01
+2000,Egypt,0.01
+2001,Egypt,0.01
+2008,Egypt,0.1
+2010,Egypt,0.1
+2013,Egypt,0.1
+2015,Egypt,0.1
+2017,Egypt,0.1
+2018,Egypt,0.1
+2000,United Kingdom of Great Britain and Northern Ireland,NA
+1992,Samoa,NA
+1993,Samoa,NA
+1995,Samoa,NA
+1995,Israel,0.1
+2000,Israel,0.1
+2001,Israel,0.1
+2002,Israel,0.1
+2004,Israel,0.1
+2008,Israel,0.1
+2002,Nigeria,1.3
+2009,Nigeria,0.92
+2014,Papua New Guinea,0.4
+2021,Papua New Guinea,0.59
+2022,Papua New Guinea,0.62
+1991,Paraguay,0.01
+1995,Paraguay,0.11
+2003,Paraguay,0.19
+2006,Paraguay,0.19
+2010,Paraguay,0.19
+1990,Qatar,0.01
+1994,Qatar,0.01
+1996,Samoa,NA
+2003,Samoa,NA
+2004,Samoa,NA
+2006,Samoa,NA
+2010,Samoa,NA
+1992,Yemen,0.01
+1993,Yemen,0.01
+1995,Yemen,0.1
+1990,Eastern Mediterranean,0.1
+1997,Eastern Mediterranean,0.1
+2002,Eastern Mediterranean,0.1
+2011,Eastern Mediterranean,0.1
+1992,Western Pacific,0.1
+1999,Western Pacific,0.1
+2019,Algeria,0.1
+2022,Algeria,0.1
+2010,Ethiopia,0.36
+2011,Ethiopia,0.32
+2012,Ethiopia,0.28
+1995,Qatar,0.01
+1996,Qatar,0.01
+2000,Qatar,0.01
+2001,Qatar,0.01
+2003,Qatar,0.01
+2004,Qatar,0.01
+2006,Qatar,0.01
+2011,Qatar,0.1
+2020,Qatar,0.1
+2021,Saudi Arabia,0.1
+2023,Saudi Arabia,0.1
+1990,Senegal,0.23
+1992,Senegal,0.33
+1998,Senegal,0.65
+2013,Senegal,0.13
+2015,Republic of Korea,NA
+2020,Republic of Korea,NA
+2021,Republic of Korea,NA
+1994,Kuwait,0.01
+2013,Ethiopia,0.24
+2014,Ethiopia,0.22
+2015,Ethiopia,0.19
+2018,Ethiopia,0.14
+2023,Ethiopia,0.1
+1998,Eritrea,1.2
+2002,Eritrea,0.63
+2003,Eritrea,0.6
+2007,Eritrea,0.42
+2011,Eritrea,0.24
+2015,Georgia,0.17
+2016,Georgia,0.17
+2017,Georgia,0.17
+2019,Georgia,0.16
+1993,Gambia,0.78
+1994,Gambia,0.99
+1995,Gambia,1.2
+2002,Gambia,1.6
+1996,Kuwait,0.01
+1999,Kuwait,0.01
+2012,Poland,NA
+2018,Poland,NA
+2019,Poland,NA
+2017,Indonesia,0.14
+2023,Jamaica,0.42
+1990,Japan,NA
+2009,Japan,NA
+2010,Japan,NA
+2021,Japan,NA
+1991,Kazakhstan,NA
+2021,Kyrgyzstan,0.11
+1998,Lao People's Democratic Republic,0.1
+2000,Lao People's Democratic Republic,0.12
+2005,Lao People's Democratic Republic,0.16
+2006,Lao People's Democratic Republic,0.16
+2009,Lao People's Democratic Republic,0.17
+2018,Lao People's Democratic Republic,0.17
+2005,Gambia,1.5
+2007,Gambia,1.4
+2011,Gambia,1.1
+1992,Guinea,0.84
+1994,Guinea,1.1
+2010,Guinea,0.9
+2011,Guinea,0.84
+2014,Guinea,0.77
+2015,Guinea,0.75
+2022,Guinea,0.39
+1990,Guyana,0.28
+1996,Guyana,0.72
+1997,Guyana,0.78
+1999,Guyana,0.85
+2004,Guyana,0.86
+1999,Egypt,0.01
+2011,Egypt,0.1
+2012,Egypt,0.1
+2017,Venezuela (Bolivarian Republic of),0.12
+2020,Lao People's Democratic Republic,0.17
+2020,Luxembourg,0.1
+2021,Luxembourg,0.1
+1995,Madagascar,NA
+2000,Madagascar,NA
+2006,Madagascar,NA
+2012,Madagascar,NA
+2016,Mexico,0.17
+2017,Mexico,0.17
+1990,Monaco,NA
+2006,Monaco,NA
+1990,Nauru,NA
+1991,Nauru,NA
+1993,Nauru,NA
+1997,Nauru,NA
+2000,Nauru,NA
+2010,Nauru,NA
+2016,Nauru,NA
+1994,Nepal,0.1
+2006,United Republic of Tanzania,2.5
+2018,Venezuela (Bolivarian Republic of),0.14
+2021,Venezuela (Bolivarian Republic of),0.2
+2023,Venezuela (Bolivarian Republic of),0.27
+1999,Samoa,NA
+2001,Samoa,NA
+2008,Samoa,NA
+2013,Samoa,NA
+1990,Andorra,NA
+1991,Andorra,NA
+1992,Andorra,NA
+1993,Andorra,NA
+1997,Andorra,NA
+1998,Andorra,NA
+2022,Australia,0.01
+2023,Australia,NA
+2018,Gambia,0.77
+2019,Gambia,0.72
+2022,Gambia,0.59
+2023,Gambia,0.53
+2023,Bahamas,0.16
+2008,United Republic of Tanzania,2.2
+2009,United Republic of Tanzania,2.1
+2011,United Republic of Tanzania,2.1
+2013,United Republic of Tanzania,2
+2014,United Republic of Tanzania,2
+2016,United Republic of Tanzania,2.1
+2017,United Republic of Tanzania,1.9
+2019,United Republic of Tanzania,1.5
+2020,United Republic of Tanzania,1.3
+2021,United Republic of Tanzania,1.2
+2018,Zambia,4.4
+2020,Zambia,2.6
+2021,Zambia,2
+2020,Slovenia,0.1
+2021,Slovenia,0.1
+1999,Somalia,NA
+2000,Somalia,NA
+1995,Bahrain,NA
+1997,Bahrain,NA
+2000,Bahrain,NA
+2005,Bahrain,NA
+2008,Bahrain,NA
+2010,Bahrain,NA
+2012,Bahrain,NA
+2014,Bahrain,NA
+2019,Bhutan,0.1
+1991,Bolivia (Plurinational State of),0.19
+1995,Bolivia (Plurinational State of),0.23
+1996,Bolivia (Plurinational State of),0.2
+2000,Bolivia (Plurinational State of),0.22
+2001,Bolivia (Plurinational State of),0.21
+2008,Bolivia (Plurinational State of),0.22
+2009,Bolivia (Plurinational State of),0.21
+2013,Bolivia (Plurinational State of),0.19
+2016,Bolivia (Plurinational State of),0.18
+2005,Somalia,NA
+2015,Somalia,NA
+2017,Somalia,NA
+2023,Somalia,NA
+1992,South Africa,6.9
+1994,South Africa,9.7
+2011,Sweden,NA
+2012,Sweden,NA
+2013,Sweden,NA
+2014,Sweden,NA
+2017,Sweden,NA
+2011,Trinidad and Tobago,NA
+2012,Trinidad and Tobago,NA
+2018,Trinidad and Tobago,NA
+2019,Trinidad and Tobago,NA
+1990,United Arab Emirates,NA
+1993,United Arab Emirates,NA
+1998,United Arab Emirates,NA
+2001,United Arab Emirates,NA
+2008,United Arab Emirates,NA
+2016,Bhutan,0.11
+2017,Bhutan,0.11
+2018,Bhutan,0.1
+2022,Brunei Darussalam,NA
+1991,Bulgaria,0.1
+1997,Bulgaria,0.1
+1999,Bulgaria,0.1
+2000,Bulgaria,0.1
+2002,Bulgaria,0.1
+2011,Bulgaria,0.1
+2019,Cabo Verde,0.48
+2022,Cabo Verde,0.51
+1993,Central African Republic,NA
+1994,Central African Republic,NA
+1995,Central African Republic,NA
+1999,Central African Republic,NA
+2004,Central African Republic,NA
+2005,Central African Republic,NA
+2008,Central African Republic,NA
+2013,Central African Republic,NA
+2015,Central African Republic,NA
+2008,Colombia,0.29
+2011,Colombia,0.26
+2013,Colombia,0.26
+2014,Colombia,0.26
+2015,Colombia,0.26
+2017,Colombia,0.27
+2022,Colombia,0.26
+1994,Comoros,0.1
+2001,Comoros,0.1
+1992,Czechia,0.01
+1996,Czechia,0.01
+1997,Czechia,0.01
+2003,Czechia,0.1
+2007,Czechia,0.1
+2008,Czechia,0.1
+2008,Ethiopia,0.45
+2001,Serbia,0.1
+2002,Serbia,0.1
+1991,Somalia,NA
+1992,Somalia,NA
+1994,Somalia,NA
+2002,Somalia,NA
+2003,Somalia,NA
+2004,Somalia,NA
+2007,Somalia,NA
+2010,Somalia,NA
+2012,Somalia,NA
+2020,Somalia,NA
+1991,South Africa,5.4
+1996,South Africa,12
+2000,South Africa,13
+2002,South Africa,12
+2003,South Africa,12
+2005,South Africa,12
+2008,South Africa,9.5
+2009,Sweden,NA
+2015,Sweden,NA
+2022,Sweden,NA
+2023,Sweden,NA
+2020,Trinidad and Tobago,NA
+2021,Trinidad and Tobago,NA
+1994,United Arab Emirates,NA
+1995,United Arab Emirates,NA
+1996,United Arab Emirates,NA
+1999,United Arab Emirates,NA
+2002,United Arab Emirates,NA
+2004,United Arab Emirates,NA
+2011,United Arab Emirates,NA
+2015,United Arab Emirates,NA
+2018,United Arab Emirates,NA
+2022,North Macedonia,0.1
+1993,Egypt,0.01
+1996,Egypt,0.01
+2007,Chad,0.87
+2009,Chad,0.74
+2015,Congo,1.9
+2016,Congo,1.9
+1990,Democratic Republic of the Congo,1.7
+1995,Democratic Republic of the Congo,1.4
+2000,Democratic Republic of the Congo,0.97
+2004,Democratic Republic of the Congo,0.74
+2008,Democratic Republic of the Congo,0.55
+2012,Democratic Republic of the Congo,0.4
+1991,Benin,1
+1992,Benin,1.2
+1993,Benin,1.3
+1996,Benin,1.4
+2000,Benin,1.1
+2011,Benin,0.48
+2018,Benin,0.21
+2021,Benin,0.13
+2023,Benin,0.1
+1993,Belarus,0.1
+1998,Belarus,0.1
+2001,Belarus,0.1
+2003,Belarus,0.12
+2012,Belarus,0.26
+2014,Belarus,0.23
+1991,Chad,1.9
+1996,Chad,1.7
+2000,Chad,1.4
+2001,Chad,1.3
+2002,Chad,1.2
+2004,Chad,1.1
+2005,Chad,0.99
+2014,Chad,0.48
+2016,Chad,0.47
+2017,Chad,0.42
+2021,Chad,0.29
+2013,Brazil,0.24
+2014,World,0.26
+1992,Algeria,0.01
+1993,Algeria,0.01
+1997,Algeria,0.01
+2001,Algeria,0.1
+2004,Algeria,0.1
+2007,Algeria,0.1
+2012,Algeria,0.1
+2014,Algeria,0.1
+2017,Algeria,0.1
+2023,Argentina,0.1
+2003,Croatia,0.1
+2005,Croatia,0.1
+2006,Croatia,0.1
+2013,Croatia,0.1
+2011,Dominican Republic,0.46
+1990,Ecuador,0.11
+1993,Ecuador,0.23
+1995,Ecuador,0.21
+2020,World,0.19
+1990,Afghanistan,0.01
+2000,Afghanistan,0.1
+2006,Afghanistan,0.1
+2007,Afghanistan,0.1
+1991,Azerbaijan,0.1
+1994,Azerbaijan,0.1
+1998,Azerbaijan,0.1
+2007,Azerbaijan,0.1
+2010,Azerbaijan,0.1
+2019,Bangladesh,0.01
+2021,Bangladesh,0.01
+1992,Armenia,0.01
+1996,Armenia,0.01
+2000,Armenia,0.1
+2001,Armenia,0.1
+2002,Armenia,0.1
+2004,Armenia,0.1
+1998,Ecuador,0.19
+2002,Ecuador,0.19
+2012,Finland,NA
+2013,Finland,NA
+2014,Finland,NA
+2016,Finland,NA
+2020,Finland,NA
+2021,Finland,NA
+2023,Finland,NA
+1991,France,0.1
+1996,France,0.1
+1999,France,0.11
+2003,France,0.13
+2015,Ghana,0.78
+2018,Ghana,0.7
+1994,Kiribati,NA
+1997,Kiribati,NA
+2002,Kiribati,NA
+2013,Kiribati,NA
+2009,Hungary,NA
+2007,Armenia,0.1
+2000,Botswana,18
+2001,Botswana,17
+2007,Botswana,9.3
+2009,Dominican Republic,0.49
+2002,Finland,NA
+2003,Finland,NA
+2006,Finland,NA
+2010,Finland,NA
+2015,Finland,NA
+2017,Finland,NA
+1990,France,0.1
+1994,France,0.1
+2021,Germany,0.1
+2023,Germany,NA
+1996,Ghana,2.1
+2000,Ghana,1.6
+2010,Ghana,0.93
+2013,Ghana,0.82
+2010,Hungary,NA
+2015,Hungary,NA
+2019,Hungary,NA
+2022,Hungary,NA
+1997,Iceland,0.1
+2003,Cambodia,0.45
+2014,Cambodia,0.11
+2017,Cambodia,0.1
+2021,Cambodia,0.1
+2013,Eritrea,0.16
+2010,Georgia,0.12
+2013,Georgia,0.16
+2014,Georgia,0.16
+2018,Georgia,0.17
+2020,Georgia,0.16
+1992,Gambia,0.6
+1998,Gambia,1.7
+2003,Gambia,1.6
+2004,Gambia,1.5
+2016,Ghana,0.75
+2021,Ghana,0.62
+1990,Kiribati,NA
+1991,Kiribati,NA
+1993,Kiribati,NA
+1995,Kiribati,NA
+1999,Kiribati,NA
+1998,Hungary,NA
+2005,Hungary,NA
+2006,Hungary,NA
+2008,Hungary,NA
+2014,Hungary,NA
+2016,Hungary,NA
+1993,Italy,0.13
+1996,Italy,0.11
+1997,Italy,0.11
+1999,Italy,0.1
+2003,Italy,0.1
+2004,Italy,0.1
+2005,Italy,0.1
+2006,Italy,0.1
+2013,Italy,0.1
+2015,Italy,0.1
+1990,Chad,1.7
+1992,Chad,2
+1995,Chad,1.9
+2003,Chad,1.2
+2006,Chad,0.94
+2006,Indonesia,0.22
+2008,Indonesia,0.21
+2009,Indonesia,0.21
+2001,Kuwait,0.01
+2005,Kuwait,0.01
+2011,Kuwait,0.01
+2014,Kuwait,0.01
+2022,Kuwait,0.1
+1993,Kyrgyzstan,0.01
+1994,Kyrgyzstan,0.01
+2022,Libya,NA
+2023,Libya,NA
+1997,Lithuania,0.1
+1999,Lithuania,0.1
+2009,Lithuania,0.1
+2013,Lithuania,0.1
+2016,Lithuania,0.1
+2000,Mauritania,0.52
+2006,Mauritania,0.24
+2013,Mauritania,0.1
+2015,Mauritania,0.1
+2019,Mauritania,0.1
+2022,Mauritania,0.1
+1991,Mauritius,0.1
+1994,Mauritius,0.2
+1995,Mauritius,0.28
+2001,Mauritius,1
+2002,Mauritius,1
+2008,Oman,0.1
+2013,Oman,0.1
+2017,Oman,0.1
+2022,Oman,0.1
+2005,Niger,0.21
+2010,Niger,0.1
+2016,Niger,0.1
+2018,Niger,0.1
+2020,Niger,0.1
+1991,Nigeria,1.4
+2015,Jordan,0.01
+2018,Jordan,0.01
+2019,Jordan,0.01
+2017,Lebanon,0.1
+1993,Lesotho,17
+1994,Lesotho,21
+1997,Lesotho,21
+1999,Lesotho,18
+2005,Lesotho,16
+2007,Lesotho,15
+2015,Lesotho,9.1
+1991,Malaysia,0.35
+2000,Malaysia,0.25
+2004,Malaysia,0.22
+2006,Malaysia,0.22
+2008,Malaysia,0.21
+2009,Malaysia,0.21
+2020,Malaysia,0.1
+2020,Mongolia,0.1
+1990,Republic of Moldova,0.1
+1995,Republic of Moldova,0.19
+2003,Republic of Moldova,0.51
+2006,Republic of Moldova,0.48
+2010,Republic of Moldova,0.43
+2011,Republic of Moldova,0.42
+2012,Republic of Moldova,0.4
+2015,Republic of Moldova,0.36
+2016,Republic of Moldova,0.36
+2017,Republic of Moldova,0.34
+2010,Netherlands (Kingdom of the),0.1
+2022,Netherlands (Kingdom of the),0.01
+2023,Netherlands (Kingdom of the),NA
+1996,Marshall Islands,NA
+2005,Marshall Islands,NA
+2020,Marshall Islands,NA
+2022,Marshall Islands,NA
+1990,Palau,NA
+1992,Palau,NA
+2000,Palau,NA
+2010,Palau,NA
+2012,Palau,NA
+2013,Palau,NA
+2004,Poland,NA
+2009,Poland,NA
+2002,Seychelles,NA
+2007,Seychelles,NA
+2009,Seychelles,NA
+2010,Seychelles,NA
+2013,Seychelles,NA
+2014,Seychelles,NA
+2015,Seychelles,NA
+2016,Seychelles,NA
+1993,Zimbabwe,24
+1994,Zimbabwe,22
+1996,Zimbabwe,18
+1997,Zimbabwe,16
+1999,Zimbabwe,14
+2000,Zimbabwe,13
+2013,Zimbabwe,4.9
+2017,Zimbabwe,2.5
+2023,Zimbabwe,0.98
+2019,Switzerland,0.1
+2022,Switzerland,0.1
+2005,Syrian Arab Republic,0.01
+2007,Syrian Arab Republic,0.01
+2009,Syrian Arab Republic,0.01
+2010,Syrian Arab Republic,0.01
+2011,Syrian Arab Republic,0.01
+2012,Syrian Arab Republic,0.01
+2016,Tunisia,0.1
+1991,Türkiye,NA
+1999,Türkiye,NA
+2001,Türkiye,NA
+2002,Türkiye,NA
+2003,Türkiye,NA
+2009,Türkiye,NA
+2010,Türkiye,NA
+2011,Türkiye,NA
+2021,United Kingdom of Great Britain and Northern Ireland,NA
+1999,United Republic of Tanzania,3.8
+2001,United Republic of Tanzania,3.3
+2004,United Republic of Tanzania,2.8
+1991,Africa,3.8
+1994,Africa,4
+1995,Africa,3.9
+1997,Africa,3.7
+2001,Africa,3.1
+2002,Africa,2.9
+2003,Africa,2.8
+2006,Africa,2.3
+2009,Africa,1.9
+2015,Africa,1.2
+2017,Africa,1
+1991,Austria,NA
+1998,Austria,NA
+1999,Austria,NA
+2003,Austria,NA
+2004,Austria,NA
+2005,Austria,NA
+2008,Austria,NA
+2011,Austria,NA
+1998,Bhutan,0.1
+2003,Bhutan,0.13
+2006,Bhutan,0.13
+2010,Bhutan,0.13
+2006,World,0.38
+2007,World,0.36
+2011,World,0.3
+2003,Angola,1.3
+2005,Angola,1.4
+2012,Angola,1.1
+2013,Angola,1
+2017,Angola,0.77
+2021,Angola,0.54
+2022,Angola,0.49
+2003,Antigua and Barbuda,NA
+2013,Antigua and Barbuda,NA
+2001,Paraguay,0.18
+2002,Paraguay,0.19
+2011,Paraguay,0.19
+2012,Paraguay,0.2
+2014,Paraguay,0.2
+1997,Qatar,0.01
+1999,Qatar,0.01
+2009,Qatar,0.01
+2010,Qatar,0.01
+2014,Qatar,0.1
+2015,Qatar,0.1
+1990,Romania,0.1
+1993,Romania,0.1
+1994,Romania,0.1
+1996,Romania,0.1
+1998,Romania,0.1
+2008,Senegal,0.21
+2009,Senegal,0.19
+2012,Senegal,0.15
+2014,Senegal,0.11
+2015,Senegal,0.1
+2019,Senegal,0.1
+2020,Senegal,0.1
+1996,Serbia,0.1
+1997,Serbia,0.1
+2000,Serbia,0.1
+1996,Kenya,7.2
+1999,Kenya,5.1
+2021,Bahrain,NA
+2022,Bahrain,NA
+2023,Bahrain,NA
+1991,Bangladesh,0.01
+1992,Bangladesh,0.01
+1996,Bangladesh,0.01
+2004,Bangladesh,0.01
+2011,Bangladesh,0.01
+2012,Bangladesh,0.01
+2015,Bangladesh,0.01
+2020,Bolivia (Plurinational State of),0.17
+1997,Bosnia and Herzegovina,0.01
+2005,Bosnia and Herzegovina,0.01
+2013,Bosnia and Herzegovina,0.01
+2015,Bosnia and Herzegovina,0.1
+2016,Bosnia and Herzegovina,0.1
+2017,Bosnia and Herzegovina,0.1
+2013,Burundi,0.35
+2017,Burundi,0.19
+2022,Burundi,0.14
+2023,Burundi,0.12
+1990,Belarus,0.01
+1991,Belarus,0.01
+1994,Belarus,0.1
+1996,Belarus,0.1
+1997,Belarus,0.1
+1999,Belarus,0.1
+2002,Belarus,0.1
+2006,Belarus,0.2
+2019,Sri Lanka,0.1
+2021,Sri Lanka,0.01
+2022,Sri Lanka,0.01
+1997,Chad,1.7
+1999,Chad,1.5
+2010,Gambia,1.2
+1994,Europe,0.1
+1997,Europe,0.1
+2000,Europe,0.11
+2002,Europe,0.11
+2003,Europe,0.11
+2004,Europe,0.12
+2014,Europe,0.18
+2018,Europe,0.18
+2023,Europe,0.18
+2022,Belgium,NA
+2011,Brunei Darussalam,NA
+2012,Brunei Darussalam,NA
+2015,Brunei Darussalam,NA
+2016,Brunei Darussalam,NA
+2017,Brunei Darussalam,NA
+1992,Marshall Islands,NA
+1998,Marshall Islands,NA
+1999,Marshall Islands,NA
+2003,United States of America,NA
+2003,Nigeria,1.3
+2006,Nigeria,1.1
+2017,Nigeria,0.55
+1996,Niue,NA
+1997,Niue,NA
+2007,Niue,NA
+2018,Hungary,NA
+2023,Hungary,NA
+1990,Iceland,0.1
+1992,Iceland,0.1
+1993,Iceland,0.1
+2002,Iceland,0.1
+2004,Iceland,0.1
+2016,Italy,0.1
+2023,Italy,0.1
+1992,Côte d'Ivoire,7.5
+1995,Côte d'Ivoire,6
+1999,Côte d'Ivoire,3.9
+2003,Côte d'Ivoire,2.5
+2008,Côte d'Ivoire,1.5
+1990,Liberia,3.8
+1992,Liberia,2.7
+1993,Liberia,2.4
+1999,Liberia,1.6
+2001,Liberia,1.4
+2009,Liberia,0.73
+2011,Liberia,0.59
+2013,Liberia,0.55
+2015,Maldives,NA
+1991,Mali,1.5
+1996,Mali,1.3
+1997,Mali,1.2
+2004,Mali,0.8
+2011,Mali,0.51
+2014,Mali,0.46
+2006,Montenegro,0.1
+2014,Montenegro,0.1
+2016,Montenegro,0.1
+2021,Montenegro,0.1
+1991,Morocco,0.1
+1992,Morocco,0.1
+1995,Morocco,0.1
+2002,Morocco,0.1
+1992,Vanuatu,NA
+1993,Vanuatu,NA
+1999,Vanuatu,NA
+2011,Croatia,0.1
+2019,Croatia,0.1
+2021,Croatia,0.1
+2022,Croatia,0.1
+1990,Cuba,0.1
+2012,Dominican Republic,0.43
+2013,Dominican Republic,0.4
+2015,Dominican Republic,0.38
+2019,Dominican Republic,0.44
+2021,Dominican Republic,0.43
+1992,Ecuador,0.2
+1994,Ecuador,0.23
+2000,Ecuador,0.2
+2001,France,0.12
+2004,France,0.13
+2008,France,0.11
+2009,France,0.11
+2016,France,0.1
+2010,Kiribati,NA
+2017,Kiribati,NA
+2018,Kiribati,NA
+2020,Kiribati,NA
+2021,Kiribati,NA
+2022,Kiribati,NA
+1991,Greece,0.1
+2001,Greece,0.1
+2002,Greece,0.1
+2004,Greece,0.1
+2006,Greece,0.1
+2008,Greece,0.1
+1991,Iceland,0.1
+1996,Iceland,0.1
+2007,Iceland,0.1
+2017,Iceland,0.1
+2019,Italy,0.1
+1993,Côte d'Ivoire,7.1
+2004,Côte d'Ivoire,2.4
+2005,Côte d'Ivoire,2.1
+2009,Côte d'Ivoire,1.3
+2012,Côte d'Ivoire,1
+2014,Côte d'Ivoire,0.82
+2017,Belarus,0.16
+2021,Belarus,0.11
+2022,Belarus,0.1
+2023,Belarus,0.1
+1994,Cambodia,0.98
+1999,Cambodia,0.95
+2019,Guinea,0.54
+1995,Guyana,0.7
+2000,Guyana,0.88
+2002,Guyana,0.89
+2005,Guyana,0.8
+2006,Guyana,0.78
+2015,Guyana,0.62
+2016,Guyana,0.65
+2018,Guyana,0.65
+2023,Guyana,0.73
+2023,Belgium,NA
+2005,Solomon Islands,NA
+2017,Solomon Islands,NA
+1991,Brunei Darussalam,NA
+1994,Brunei Darussalam,NA
+1995,Brunei Darussalam,NA
+1996,Brunei Darussalam,NA
+2003,Brunei Darussalam,NA
+2014,Canada,0.1
+2018,Canada,0.1
+1990,Cabo Verde,0.42
+1992,Cabo Verde,0.45
+1993,Cabo Verde,0.45
+1994,Cabo Verde,0.46
+1996,Cabo Verde,0.47
+1997,Cabo Verde,0.47
+2003,Cabo Verde,0.46
+2006,Cabo Verde,0.38
+2009,Cabo Verde,0.37
+2017,China,NA
+2021,China,NA
+1996,Colombia,0.38
+1997,Colombia,0.38
+1998,Colombia,0.37
+2000,Colombia,0.34
+2004,Colombia,0.3
+2005,Colombia,0.29
+2007,Colombia,0.28
+2009,Colombia,0.29
+1991,Latvia,0.1
+1992,Latvia,0.1
+1993,Latvia,0.1
+1996,Latvia,0.1
+2009,Latvia,0.19
+2015,Latvia,0.24
+1990,Maldives,NA
+1991,Maldives,NA
+1995,Maldives,NA
+1997,Maldives,NA
+1998,Maldives,NA
+2008,Maldives,NA
+2010,Maldives,NA
+2012,Maldives,NA
+2013,Maldives,NA
+2014,Maldives,NA
+2020,Maldives,NA
+2023,Maldives,NA
+1993,Mali,1.5
+1999,Mali,1.1
+2005,Mali,0.76
+2020,Republic of Moldova,0.31
+2000,Montenegro,0.1
+2001,Montenegro,0.1
+2002,Montenegro,0.1
+2003,Montenegro,0.1
+2004,Montenegro,0.1
+2007,Montenegro,0.1
+2009,Montenegro,0.1
+2017,Montenegro,0.1
+2018,Montenegro,0.1
+2019,Montenegro,0.1
+2020,Montenegro,0.1
+1996,Vanuatu,NA
+1997,Vanuatu,NA
+1998,Vanuatu,NA
+2000,Vanuatu,NA
+2003,Vanuatu,NA
+2007,Vanuatu,NA
+2009,Vanuatu,NA
+2012,Vanuatu,NA
+1994,Burkina Faso,1.8
+1998,Burkina Faso,1.2
+1999,Burkina Faso,1.1
+2002,Burkina Faso,0.82
+2006,Burkina Faso,0.57
+2008,Burkina Faso,0.47
+2010,Burkina Faso,0.37
+2018,Burkina Faso,0.14
+1993,Africa,4
+2011,Saint Lucia,NA
+2013,Saint Lucia,NA
+2019,Saint Lucia,NA
+2023,Saint Lucia,NA
+2000,Saint Vincent and the Grenadines,NA
+2002,Saint Vincent and the Grenadines,NA
+2006,Saint Vincent and the Grenadines,NA
+2007,Saint Vincent and the Grenadines,NA
+2009,Saint Vincent and the Grenadines,NA
+2012,Saint Vincent and the Grenadines,NA
+2014,Saint Vincent and the Grenadines,NA
+2015,Saint Vincent and the Grenadines,NA
+2016,Saint Vincent and the Grenadines,NA
+2023,Seychelles,NA
+1991,Sierra Leone,0.98
+1992,Sierra Leone,1.1
+1993,Sierra Leone,1.2
+2006,Sierra Leone,1.1
+2008,Sierra Leone,0.93
+2010,Sierra Leone,0.88
+2012,Sierra Leone,0.75
+2016,Sierra Leone,0.65
+2017,Sierra Leone,0.62
+2020,Sierra Leone,0.6
+1991,Luxembourg,0.1
+1992,Luxembourg,0.1
+1998,Luxembourg,0.1
+1999,Luxembourg,0.1
+2006,Luxembourg,0.1
+2008,Luxembourg,0.1
+2009,Luxembourg,0.1
+2014,Luxembourg,0.1
+2002,Cambodia,0.5
+2009,Cambodia,0.18
+2012,Cambodia,0.13
+2013,Cambodia,0.12
+2022,Chad,0.29
+1992,Chile,0.1
+1996,Chile,0.13
+1997,Chile,0.14
+1999,Chile,0.14
+2001,Chile,0.13
+2021,Sierra Leone,0.56
+2023,Sierra Leone,0.39
+1993,Singapore,0.1
+1994,Singapore,0.1
+1994,Spain,0.23
+2000,Spain,0.1
+2002,Spain,0.1
+2003,Spain,0.1
+2004,Spain,0.1
+2012,Spain,0.1
+2015,Spain,0.1
+2022,Syrian Arab Republic,0.01
+1991,Tajikistan,0.01
+1993,Tajikistan,0.01
+1995,Tajikistan,0.1
+1997,Tajikistan,0.1
+2019,Vanuatu,NA
+1999,New Zealand,0.1
+1995,Costa Rica,0.1
+1996,Costa Rica,0.1
+1997,Costa Rica,0.1
+2001,Costa Rica,0.13
+2009,Costa Rica,0.19
+2015,Costa Rica,0.21
+2017,Costa Rica,0.2
+2021,Costa Rica,0.19
+1991,Croatia,0.01
+2021,Denmark,0.1
+2022,Denmark,0.01
+1992,Dominica,NA
+1993,Dominica,NA
+1994,Dominica,NA
+1995,Dominica,NA
+2000,Dominica,NA
+2002,Dominica,NA
+2005,Dominica,NA
+2012,Dominica,NA
+2016,Dominica,NA
+2017,Dominica,NA
+2019,Dominica,NA
+2020,Dominica,NA
+1990,Dominican Republic,0.94
+1995,Dominican Republic,1.4
+2001,Dominican Republic,0.87
+2005,Dominican Republic,0.67
+2007,Dominican Republic,0.57
+1997,Cyprus,NA
+1999,Cyprus,NA
+2000,Cyprus,NA
+2012,Cyprus,NA
+2014,Cyprus,NA
+2018,Cyprus,NA
+2005,El Salvador,0.29
+2010,El Salvador,0.22
+2011,El Salvador,0.2
+2015,El Salvador,0.15
+2000,New Zealand,0.1
+2007,New Zealand,0.1
+2008,New Zealand,0.1
+2010,New Zealand,0.1
+2011,New Zealand,0.1
+2013,New Zealand,0.1
+2014,Pakistan,NA
+2020,Pakistan,NA
+2022,Pakistan,NA
+1993,Panama,0.47
+1995,Panama,0.47
+1996,Panama,0.46
+2003,Panama,0.39
+2010,Portugal,0.15
+2017,Portugal,0.1
+2019,Portugal,0.1
+2023,Portugal,0.1
+1995,Guinea-Bissau,2.3
+2004,Guinea-Bissau,2.9
+2019,El Salvador,0.13
+2022,El Salvador,0.13
+1994,Equatorial Guinea,NA
+1996,Equatorial Guinea,NA
+2020,Djibouti,0.3
+2021,Djibouti,0.28
+1992,Gabon,3
+1995,Gabon,4
+1996,Gabon,4.1
+1999,Gabon,3.6
+2009,Gabon,1.9
+2010,Gabon,1.8
+2016,Gabon,1.2
+2012,Grenada,NA
+1991,Guatemala,0.21
+1996,Guatemala,0.32
+2001,Guatemala,0.23
+2005,Guatemala,0.15
+2006,Guatemala,0.13
+1990,Saint Vincent and the Grenadines,NA
+1997,Saint Vincent and the Grenadines,NA
+1999,Saint Vincent and the Grenadines,NA
+2001,Saint Vincent and the Grenadines,NA
+2003,Saint Vincent and the Grenadines,NA
+2010,Saint Vincent and the Grenadines,NA
+2018,Saint Vincent and the Grenadines,NA
+2019,Saint Vincent and the Grenadines,NA
+2021,Saint Vincent and the Grenadines,NA
+1990,San Marino,NA
+1996,San Marino,NA
+1997,San Marino,NA
+2004,San Marino,NA
+2017,San Marino,NA
+2018,San Marino,NA
+2017,Slovakia,0.1
+2019,Slovakia,0.1
+1993,Viet Nam,0.12
+1994,Viet Nam,0.17
+2008,Guatemala,0.11
+2009,Guatemala,0.11
+2013,Guatemala,0.1
+2017,India,NA
+1994,Indonesia,0.01
+1997,Indonesia,0.1
+1999,Indonesia,0.1
+2003,Indonesia,0.19
+2004,Indonesia,0.2
+2013,Vanuatu,NA
+2020,Vanuatu,NA
+2022,Vanuatu,NA
+1991,New Zealand,0.1
+2016,Palau,NA
+2019,Palau,NA
+1990,Pakistan,NA
+1993,Pakistan,NA
+1995,Pakistan,NA
+1999,Pakistan,NA
+2004,Pakistan,NA
+2005,Pakistan,NA
+2010,Pakistan,NA
+2011,Pakistan,NA
+2016,Pakistan,NA
+1994,Portugal,0.34
+1999,Portugal,0.23
+2000,Portugal,0.22
+2004,Portugal,0.18
+2007,Portugal,0.17
+2012,Portugal,0.14
+2015,Portugal,0.11
+1996,Iraq,NA
+2005,Iraq,NA
+2012,Iraq,NA
+2018,Iraq,NA
+2020,Iraq,NA
+1991,Ireland,0.1
+1993,Ireland,0.1
+1994,Ireland,0.1
+2020,Kazakhstan,0.11
+1992,Jordan,0.01
+1998,Jordan,0.01
+1999,Jordan,0.01
+2000,Jordan,0.01
+2001,Jordan,0.01
+2003,Jordan,0.01
+2010,Jordan,0.01
+2013,Jordan,0.01
+2014,Jordan,0.01
+2001,Tajikistan,0.12
+2002,Tajikistan,0.14
+2009,Tajikistan,0.14
+2010,Tajikistan,0.14
+2013,Türkiye,NA
+2014,Türkiye,NA
+2016,Türkiye,NA
+1990,Turkmenistan,NA
+1991,Turkmenistan,NA
+1992,Turkmenistan,NA
+1999,Turkmenistan,NA
+2002,Turkmenistan,NA
+2006,Turkmenistan,NA
+2008,Turkmenistan,NA
+2012,Turkmenistan,NA
+2022,United Republic of Tanzania,0.99
+1991,United States of America,NA
+1992,United States of America,NA
+1997,United States of America,NA
+2004,United States of America,NA
+2006,United States of America,NA
+2007,United States of America,NA
+2009,United States of America,NA
+2014,United States of America,NA
+2016,United States of America,NA
+2017,United States of America,NA
+2020,Rwanda,0.26
+2022,Rwanda,0.25
+1990,Saint Kitts and Nevis,NA
+1995,Viet Nam,0.21
+1996,Viet Nam,0.23
+2002,Sudan,0.1
+2005,Sudan,0.1
+2009,Barbados,0.36
+2010,Barbados,0.34
+2013,Barbados,0.28
+1991,Brazil,0.22
+1992,Brazil,0.22
+1995,Brazil,0.25
+2000,Brazil,0.25
+2002,Brazil,0.25
+2003,Brazil,0.25
+2008,Brazil,0.25
+2017,Brazil,0.24
+2018,Afghanistan,0.1
+1996,Azerbaijan,0.1
+2002,Azerbaijan,0.11
+2004,Azerbaijan,0.1
+2015,Azerbaijan,0.1
+2019,Azerbaijan,0.1
+2020,Azerbaijan,0.1
+2021,Azerbaijan,0.1
+2023,Azerbaijan,0.1
+1990,Argentina,0.15
+1992,Argentina,0.17
+2016,Bangladesh,0.01
+2017,Bangladesh,0.01
+2018,Bangladesh,0.01
+2022,Bangladesh,0.01
+2003,Armenia,0.1
+2009,Armenia,0.11
+2001,Ghana,1.5
+2006,Ghana,1.1
+2007,Ghana,1.1
+2009,Ghana,0.97
+2011,Ghana,0.86
+2013,Honduras,0.1
+2014,Honduras,0.1
+2016,Honduras,0.1
+2017,Honduras,0.1
+2019,Honduras,0.1
+2003,Hungary,NA
+2020,Ireland,0.1
+1998,Israel,0.1
+2003,Israel,0.1
+2005,Israel,0.1
+2009,Israel,0.1
+2014,Israel,0.1
+2015,Israel,0.1
+2012,Chad,0.62
+2023,Chad,0.25
+2019,Democratic Republic of the Congo,0.25
+2020,Democratic Republic of the Congo,0.22
+1991,Saint Kitts and Nevis,NA
+1992,Saint Kitts and Nevis,NA
+1998,Saint Kitts and Nevis,NA
+2001,Saint Kitts and Nevis,NA
+2005,Saint Kitts and Nevis,NA
+2015,Saint Kitts and Nevis,NA
+2016,Saint Kitts and Nevis,NA
+2019,Saint Kitts and Nevis,NA
+2023,Saint Kitts and Nevis,NA
+1990,Saint Lucia,NA
+1993,Saint Lucia,NA
+2003,Saint Lucia,NA
+2023,Serbia,0.1
+1992,Seychelles,NA
+1994,Seychelles,NA
+2009,Sudan,0.1
+2013,Sudan,0.1
+2019,Sudan,0.1
+2021,Sudan,0.1
+1990,Suriname,0.36
+1991,Suriname,0.4
+1997,Suriname,0.96
+1998,Suriname,1
+1999,Suriname,1.1
+2003,Suriname,1
+2022,Thailand,0.13
+1990,Togo,1.5
+1991,Togo,1.9
+1992,Togo,2.4
+1993,Togo,2.9
+1998,Togo,3.3
+2007,Togo,1.4
+1998,Tuvalu,NA
+2004,Tuvalu,NA
+2006,Tuvalu,NA
+2010,Tuvalu,NA
+2018,Tuvalu,NA
+2023,Tuvalu,NA
+1995,Uganda,5.7
+2006,Uganda,4
+2009,Uganda,3.6
+2012,Burkina Faso,0.3
+2014,Burkina Faso,0.23
+2019,Burkina Faso,0.12
+2021,Burkina Faso,0.1
+1992,Uruguay,0.12
+1998,Uruguay,0.16
+2006,Uruguay,0.21
+2007,Uruguay,0.21
+1990,Africa,3.5
+2020,Bosnia and Herzegovina,0.1
+2021,Bosnia and Herzegovina,0.1
+1990,Botswana,15
+1994,Botswana,25
+1998,Botswana,22
+1999,Botswana,20
+2004,Botswana,12
+2005,Botswana,11
+2009,Botswana,8
+2021,Botswana,2.5
+2011,Belarus,0.26
+2015,Belarus,0.21
+2020,Belarus,0.11
+1990,Cambodia,0.1
+1993,Cambodia,0.62
+2013,World,0.27
+2018,World,0.22
+2022,World,0.17
+1994,Afghanistan,0.1
+1999,Afghanistan,0.1
+2003,Afghanistan,0.1
+2021,Antigua and Barbuda,NA
+2023,Antigua and Barbuda,NA
+1992,Azerbaijan,0.1
+1993,Azerbaijan,0.1
+1991,World,0.53
+1997,World,0.56
+2002,World,0.44
+1996,Denmark,0.1
+1998,Denmark,0.1
+2000,Denmark,0.1
+2001,Denmark,0.1
+2008,Denmark,0.1
+2012,Denmark,0.1
+2017,Denmark,0.1
+2018,Estonia,0.1
+2019,Estonia,0.1
+2021,Estonia,0.1
+2022,Estonia,0.1
+1992,Fiji,0.1
+1994,Fiji,0.1
+2001,Fiji,0.1
+2004,Fiji,0.1
+2007,Fiji,0.1
+2009,Fiji,0.11
+1993,Germany,NA
+1994,Germany,NA
+1995,Germany,NA
+1999,Germany,NA
+2000,Germany,NA
+2008,Germany,NA
+2009,Germany,NA
+2015,Germany,0.1
+1991,Haiti,2.4
+1992,Haiti,2.2
+1993,Haiti,1.9
+1997,Haiti,1.6
+1999,Haiti,1.4
+2001,Haiti,1.3
+2003,Haiti,1.1
+2011,Haiti,0.83
+2018,Haiti,0.67
+2020,Haiti,0.56
+1992,Honduras,0.78
+1995,Honduras,0.8
+2023,Iraq,NA
+1995,Ireland,0.1
+1997,Ireland,0.1
+2010,Ireland,0.1
+2014,Ireland,0.1
+2016,Ireland,0.1
+2017,Ireland,0.1
+2002,Jordan,0.01
+2009,Jordan,0.01
+2021,Jordan,0.01
+2022,Jordan,0.01
+2023,Jordan,0.01
+1991,Kenya,11
+1995,Kenya,8.3
+2004,Liberia,1.1
+2017,Liberia,0.37
+2021,Liberia,0.22
+1990,Mali,1.5
+1992,Mali,1.6
+1994,Mali,1.5
+1998,Mali,1.1
+2002,Mali,0.86
+2012,Mali,0.49
+2016,Mali,0.41
+2021,Mali,0.29
+1991,Montenegro,0.01
+1992,Montenegro,0.01
+1993,Montenegro,0.01
+1995,Montenegro,0.01
+2008,Montenegro,0.1
+2010,Montenegro,0.1
+2012,Montenegro,0.1
+2022,Montenegro,0.1
+2023,Montenegro,0.1
+1994,Morocco,0.1
+1996,Morocco,0.1
+2001,Marshall Islands,NA
+2003,Marshall Islands,NA
+2006,Marshall Islands,NA
+2008,Marshall Islands,NA
+2014,Marshall Islands,NA
+2018,Marshall Islands,NA
+2019,Philippines,0.15
+1996,Poland,NA
+1997,Poland,NA
+2001,Poland,NA
+2005,Poland,NA
+2011,Poland,NA
+2008,Rwanda,1.4
+2012,Rwanda,0.91
+2021,Rwanda,0.3
+1993,Saint Kitts and Nevis,NA
+1999,Saint Kitts and Nevis,NA
+2003,Saint Kitts and Nevis,NA
+2006,Saint Kitts and Nevis,NA
+2009,Saint Kitts and Nevis,NA
+2010,Saint Kitts and Nevis,NA
+2017,Saint Kitts and Nevis,NA
+2018,Lebanon,0.1
+2020,Lebanon,0.1
+1996,Lesotho,22
+1998,Lesotho,19
+2001,Lesotho,17
+2003,Lesotho,16
+2020,Lesotho,4.2
+1995,Latvia,0.1
+1999,Latvia,0.38
+2022,Malawi,0.69
+1994,Malaysia,0.25
+1996,Malaysia,0.25
+2002,Malaysia,0.24
+2011,Malaysia,0.2
+2017,Malaysia,0.12
+2004,Mongolia,0.1
+2009,Mongolia,0.1
+2022,Mongolia,0.1
+2023,Mongolia,0.1
+2022,Panama,0.35
+2018,Saint Kitts and Nevis,NA
+2021,Saint Kitts and Nevis,NA
+1992,Saint Lucia,NA
+1994,Saint Lucia,NA
+1995,Saint Lucia,NA
+2004,Saint Lucia,NA
+2005,Saint Lucia,NA
+2007,Saint Lucia,NA
+2010,Saint Lucia,NA
+2015,Saint Lucia,NA
+2018,Saint Lucia,NA
+2020,Saint Lucia,NA
+2021,Saint Lucia,NA
+2022,Saint Lucia,NA
+2016,Singapore,0.1
+2017,Singapore,0.1
+1992,Slovakia,0.01
+1997,Slovakia,0.01
+2001,Slovakia,0.01
+2008,Slovakia,0.01
+2009,Slovakia,0.01
+2020,Spain,0.1
+2021,Spain,0.1
+1992,South Sudan,1.6
+1997,South Sudan,2
+2013,South Sudan,1.1
+2017,South Sudan,0.93
+2018,South Sudan,0.81
+1992,Sudan,0.1
+1994,Sudan,0.1
+1997,Sudan,0.1
+2015,Tajikistan,0.1
+2019,Tajikistan,0.1
+2020,Tajikistan,0.1
+2021,Tajikistan,0.1
+1992,Thailand,2.9
+1998,Thailand,1
+2005,Thailand,0.43
+2007,Thailand,0.34
+2011,Thailand,0.25
+2005,Turkmenistan,NA
+2011,Togo,0.86
+2012,Togo,0.78
+2016,Togo,0.56
+2021,Togo,0.31
+1996,Tonga,NA
+2002,Tonga,NA
+2019,Uganda,1.2
+2023,Uganda,0.86
+1996,Ukraine,0.67
+1997,Ukraine,0.74
+1999,Ukraine,0.74
+2001,Ukraine,0.58
+2004,Ukraine,0.4
+2005,Ukraine,0.38
+2009,Uruguay,0.22
+2019,Uruguay,0.24
+2020,Uruguay,0.24
+2021,Uruguay,0.24
+1992,Uzbekistan,NA
+1996,Uzbekistan,NA
+2000,Uzbekistan,NA
+2002,Uzbekistan,NA
+2019,Africa,0.85
+2022,Africa,0.61
+1994,Americas,0.23
+1995,Americas,0.23
+1996,Americas,0.23
+2002,Americas,0.21
+2003,Americas,0.21
+2005,Americas,0.2
+2009,Americas,0.19
+2012,Americas,0.18
+2021,Europe,0.17
+2022,Europe,0.18
+1990,Bhutan,0.1
+1992,Bhutan,0.1
+1996,Bhutan,0.1
+1999,Bhutan,0.11
+2001,Bhutan,0.13
+2019,Brunei Darussalam,NA
+2021,Brunei Darussalam,NA
+1992,Bulgaria,0.1
+1993,Bulgaria,0.1
+1994,Bulgaria,0.1
+2009,Bulgaria,0.1
+2014,Cabo Verde,0.42
+2016,Cabo Verde,0.49
+2020,Cabo Verde,0.5
+1991,Central African Republic,NA
+1990,Denmark,0.1
+2016,Eritrea,0.12
+2018,Eritrea,0.1
+2019,Eritrea,0.1
+2021,Eritrea,0.1
+1992,Estonia,0.01
+2005,Estonia,0.48
+2012,Gambia,1
+2013,Gambia,1
+2016,Gambia,0.87
+1996,Sri Lanka,0.1
+1997,Sri Lanka,0.1
+1998,Sri Lanka,0.1
+2013,Nepal,0.1
+2020,Nepal,0.1
+2021,Nepal,0.1
+1990,Netherlands (Kingdom of the),0.1
+1991,Netherlands (Kingdom of the),0.1
+1993,Netherlands (Kingdom of the),0.1
+1994,Netherlands (Kingdom of the),0.1
+1995,Netherlands (Kingdom of the),0.1
+1996,Netherlands (Kingdom of the),0.1
+1997,Netherlands (Kingdom of the),0.1
+1999,Netherlands (Kingdom of the),0.1
+2000,Netherlands (Kingdom of the),0.1
+2023,Norway,NA
+1991,Micronesia (Federated States of),NA
+1994,Micronesia (Federated States of),NA
+1997,Micronesia (Federated States of),NA
+2001,Micronesia (Federated States of),NA
+2011,Micronesia (Federated States of),NA
+1992,Philippines,0.01
+1993,Philippines,0.01
+1998,Philippines,0.01
+1999,Philippines,0.01
+2011,Palau,NA
+2014,Palau,NA
+2020,Palau,NA
+2021,Palau,NA
+1991,Pakistan,NA
+1996,Pakistan,NA
+2000,Pakistan,NA
+2001,Pakistan,NA
+2002,Pakistan,NA
+2003,Pakistan,NA
+2015,Poland,NA
+2016,Poland,NA
+1993,Portugal,0.37
+1996,Portugal,0.28
+1998,Portugal,0.25
+2003,Portugal,0.19
+2009,Portugal,0.16
+2003,Kenya,3.7
+2007,Kenya,2.6
+2008,Kenya,2.2
+2010,Kenya,1.9
+2013,Kenya,1.5
+2015,Kenya,1
+2001,Latvia,0.21
+2005,Latvia,0.17
+2007,Latvia,0.18
+2008,Latvia,0.18
+2017,Latvia,0.24
+2018,Latvia,0.23
+2021,Malaysia,0.1
+2022,Malaysia,0.1
+1999,Maldives,NA
+2000,Maldives,NA
+2004,Maldives,NA
+2005,Maldives,NA
+2006,Maldives,NA
+2007,Maldives,NA
+2009,Maldives,NA
+2018,Maldives,NA
+2021,Maldives,NA
+2005,Philippines,0.1
+2016,Philippines,0.11
+2007,Russian Federation,NA
+2009,Russian Federation,NA
+2014,Russian Federation,NA
+2017,Russian Federation,NA
+2021,Russian Federation,NA
+1994,Rwanda,4.5
+1996,Rwanda,3.6
+2000,Rwanda,3.2
+2017,Seychelles,NA
+2022,Seychelles,NA
+1990,Sierra Leone,0.84
+1995,Sierra Leone,1.3
+1996,Sierra Leone,1.3
+1998,Sierra Leone,1.3
+2001,Sierra Leone,1.2
+2005,Sierra Leone,1.1
+2013,Turkmenistan,NA
+1993,Republic of Moldova,0.1
+1998,Republic of Moldova,0.4
+1999,Republic of Moldova,0.46
+2001,Republic of Moldova,0.5
+2008,Republic of Moldova,0.46
+2018,Republic of Moldova,0.33
+2019,Republic of Moldova,0.31
+2007,Netherlands (Kingdom of the),0.1
+2013,Netherlands (Kingdom of the),0.1
+2016,Netherlands (Kingdom of the),0.1
+2016,Micronesia (Federated States of),NA
+2018,Micronesia (Federated States of),NA
+2019,Malta,0.1
+2022,Malta,0.1
+1994,Mauritania,0.51
+1997,Mauritania,0.56
+1999,Mauritania,0.53
+2015,Turkmenistan,NA
+2017,Turkmenistan,NA
+1994,Tuvalu,NA
+2013,United States of America,NA
+2020,United States of America,NA
+1991,Burkina Faso,2.3
+1995,Burkina Faso,1.5
+1997,Burkina Faso,1.3
+2000,Burkina Faso,0.99
+2001,Burkina Faso,0.89
+2005,Burkina Faso,0.64
+2015,Sierra Leone,0.68
+2018,Sierra Leone,0.61
+1991,Singapore,0.1
+1997,Singapore,0.1
+2001,Singapore,0.1
+2002,Singapore,0.1
+2008,Singapore,0.1
+2002,Mauritania,0.43
+2004,Mauritania,0.34
+2007,Mauritania,0.2
+2008,Mauritania,0.15
+2009,Mauritania,0.12
+2010,Mauritania,0.1
+2016,Mauritania,0.1
+2017,Mauritania,0.1
+2008,Mozambique,7.4
+2012,Mozambique,6.9
+2017,Mozambique,5
+2022,Mozambique,3.1
+2023,Mozambique,2.6
+1991,Oman,0.1
+1995,Oman,0.1
+1997,Oman,0.1
+2000,Oman,0.1
+2018,New Zealand,0.1
+1992,Cook Islands,NA
+1994,Cook Islands,NA
+1999,Cook Islands,NA
+2002,Cook Islands,NA
+2004,Cook Islands,NA
+2005,Cook Islands,NA
+2012,Cook Islands,NA
+2013,Cook Islands,NA
+2016,Cook Islands,NA
+2021,Cook Islands,NA
+1990,Costa Rica,0.1
+2003,Costa Rica,0.15
+2006,Djibouti,1.1
+2023,Djibouti,0.29
+1991,Gabon,2.5
+1993,Gabon,3.4
+1997,Gabon,4.1
+1998,Gabon,3.8
+2003,Gabon,2.7
+2004,Gabon,2.5
+2010,Singapore,0.1
+1990,Spain,0.35
+1993,Spain,0.28
+2008,Spain,0.1
+2009,Spain,0.1
+2013,Spain,0.1
+2014,Spain,0.1
+2016,Spain,0.1
+2017,Spain,0.1
+2014,Syrian Arab Republic,0.01
+2015,Syrian Arab Republic,0.01
+2016,Syrian Arab Republic,0.01
+1990,Tajikistan,0.01
+1996,Tajikistan,0.1
+1999,Tajikistan,0.1
+2013,Tajikistan,0.13
+2004,Türkiye,NA
+2005,Türkiye,NA
+1991,Nicaragua,0.12
+1997,Nicaragua,0.2
+1998,Nicaragua,0.2
+2002,Nicaragua,0.16
+2003,Nicaragua,0.15
+2005,Nicaragua,0.12
+2006,Nicaragua,0.11
+2009,Nicaragua,0.1
+2011,Nicaragua,0.1
+2005,Panama,0.38
+2006,Panama,0.38
+2013,Panama,0.36
+2017,Panama,0.35
+2020,Panama,0.35
+2009,Guinea-Bissau,2.1
+2011,Guinea-Bissau,1.6
+2022,Guinea-Bissau,0.58
+1990,Timor-Leste,0.1
+2015,Greece,0.1
+2020,Greece,0.1
+1993,Grenada,NA
+1995,Grenada,NA
+2002,Grenada,NA
+2003,Grenada,NA
+1990,Italy,0.15
+1992,Italy,0.14
+2000,Italy,0.1
+2007,Italy,0.1
+2008,Italy,0.1
+2010,Italy,0.1
+2012,Italy,0.1
+2017,Italy,0.1
+2023,Kenya,0.31
+1998,Democratic People's Republic of Korea,NA
+2004,Democratic People's Republic of Korea,NA
+2012,Democratic People's Republic of Korea,NA
+2014,Democratic People's Republic of Korea,NA
+1991,Timor-Leste,0.1
+1993,Timor-Leste,0.1
+2006,Timor-Leste,0.11
+2009,Timor-Leste,0.11
+2021,San Marino,NA
+1990,Sao Tome and Principe,NA
+1993,Sao Tome and Principe,NA
+1996,Sao Tome and Principe,NA
+1999,Sao Tome and Principe,NA
+2000,Sao Tome and Principe,NA
+2001,Sao Tome and Principe,NA
+2007,Sao Tome and Principe,NA
+2009,Sao Tome and Principe,NA
+2010,Sao Tome and Principe,NA
+2011,Sao Tome and Principe,NA
+2012,Sao Tome and Principe,NA
+2014,Sao Tome and Principe,NA
+2016,Sao Tome and Principe,NA
+2019,Sao Tome and Principe,NA
+2008,Türkiye,NA
+2015,Türkiye,NA
+1992,Eastern Mediterranean,0.1
+1994,Eastern Mediterranean,0.1
+1995,Eastern Mediterranean,0.1
+1999,Eastern Mediterranean,0.1
+2003,Eastern Mediterranean,0.1
+2004,Eastern Mediterranean,0.1
+2005,Eastern Mediterranean,0.1
+2013,Eastern Mediterranean,0.1
+2014,Eastern Mediterranean,0.1
+2023,Eastern Mediterranean,0.1
+2021,South-East Asia,0.1
+1992,Europe,0.1
+1993,Europe,0.1
+2001,Europe,0.11
+2007,Europe,0.15
+2021,Sao Tome and Principe,NA
+1992,Saudi Arabia,0.1
+1993,Saudi Arabia,0.1
+1998,Saudi Arabia,0.1
+2009,Viet Nam,0.18
+1991,Slovenia,0.01
+1992,Slovenia,0.01
+2008,Suriname,0.7
+2012,Suriname,0.68
+2017,Suriname,0.66
+2019,Suriname,0.73
+2020,Suriname,0.75
+2004,Thailand,0.49
+2009,Thailand,0.28
+2007,Turkmenistan,NA
+2009,Turkmenistan,NA
+2011,Turkmenistan,NA
+2016,Turkmenistan,NA
+2022,Turkmenistan,NA
+1990,Tuvalu,NA
+2015,United States of America,NA
+2023,United States of America,NA
+1990,Burkina Faso,2.4
+1992,Burkina Faso,2.1
+1996,Burkina Faso,1.3
+2004,Burkina Faso,0.69
+2007,Burkina Faso,0.52
+2018,Algeria,0.1
+2020,Algeria,0.1
+2023,Algeria,0.1
+1990,Austria,NA
+1992,Austria,NA
+1997,Austria,NA
+2000,Austria,NA
+2018,Western Pacific,0.1
+2022,Western Pacific,0.1
+2006,Jordan,0.01
+1995,Kuwait,0.01
+2013,Europe,0.18
+2016,Europe,0.18
+2020,Europe,0.18
+2017,Americas,0.17
+2020,El Salvador,0.13
+2011,Estonia,0.21
+1996,Finland,NA
+2019,Ghana,0.69
+2010,Greece,0.1
+1990,Hungary,NA
+2021,Hungary,NA
+2002,India,NA
+2003,Iran (Islamic Republic of),0.11
+2008,Iran (Islamic Republic of),0.1
+2017,Iran (Islamic Republic of),0.1
+1992,World,0.55
+1993,World,0.56
+1994,World,0.59
+1995,World,0.59
+2000,Comoros,0.1
+2020,Cyprus,NA
+2021,Cyprus,NA
+1999,Czechia,0.01
+1997,Equatorial Guinea,NA
+1998,Equatorial Guinea,NA
+2003,Equatorial Guinea,NA
+2006,Equatorial Guinea,NA
+2007,Equatorial Guinea,NA
+2014,Equatorial Guinea,NA
+2018,Equatorial Guinea,NA
+2019,Equatorial Guinea,NA
+2021,Equatorial Guinea,NA
+1995,Ethiopia,2.3
+2002,Ethiopia,0.89
+2005,Ethiopia,0.62
+2002,Georgia,0.1
+2005,Georgia,0.1
+2008,Georgia,0.1
+1995,Nigeria,1.8
+1996,Nigeria,1.7
+2000,Nigeria,1.5
+2004,Nigeria,1.2
+2007,Nigeria,1
+2008,Nigeria,0.98
+2010,Nigeria,0.89
+2016,Nigeria,0.57
+2021,Nigeria,0.44
+2022,Nigeria,0.39
+2006,Grenada,NA
+2007,Grenada,NA
+2009,Grenada,NA
+1992,India,NA
+1998,India,NA
+2011,India,NA
+2014,India,NA
+2016,India,NA
+2019,India,NA
+2021,Côte d'Ivoire,0.4
+2023,Côte d'Ivoire,0.35
+1992,Jamaica,0.96
+1995,Jamaica,1.4
+1997,Jamaica,1.6
+2000,Jamaica,1.1
+2006,Jamaica,0.58
+1991,Kuwait,0.01
+1992,Kuwait,0.01
+1998,Kuwait,0.01
+2009,Kuwait,0.01
+2013,Kuwait,0.01
+2015,Kuwait,0.01
+2016,Kuwait,0.01
+2017,Kuwait,0.1
+2023,Kuwait,0.1
+1992,Lithuania,0.1
+1995,Lithuania,0.1
+1996,Lithuania,0.1
+2000,Lithuania,0.1
+2001,Lithuania,0.1
+2002,Lithuania,0.1
+2003,Lithuania,0.1
+2004,Lithuania,0.1
+2005,Lithuania,0.1
+2017,Lithuania,0.1
+2009,South Africa,8.6
+2010,South Africa,7.7
+2023,Eswatini,4.2
+1991,Sweden,NA
+1995,Sweden,NA
+1999,Sweden,NA
+2004,Sweden,NA
+2007,Sweden,NA
+2010,Sweden,NA
+2003,Trinidad and Tobago,NA
+2007,Trinidad and Tobago,NA
+2008,Trinidad and Tobago,NA
+2010,Trinidad and Tobago,NA
+2016,Trinidad and Tobago,NA
+2022,Trinidad and Tobago,NA
+2023,Trinidad and Tobago,NA
+1991,United Arab Emirates,NA
+1997,United Arab Emirates,NA
+2003,United Arab Emirates,NA
+2005,United Arab Emirates,NA
+2013,North Macedonia,0.1
+2014,North Macedonia,0.1
+2015,North Macedonia,0.1
+2017,North Macedonia,0.1
+2018,North Macedonia,0.1
+2019,North Macedonia,0.1
+1990,Egypt,0.01
+2005,Egypt,0.01
+2006,Egypt,0.01
+2009,Egypt,0.1
+2008,Venezuela (Bolivarian Republic of),0.28
+2014,Venezuela (Bolivarian Republic of),0.1
+2019,Venezuela (Bolivarian Republic of),0.16
+1990,Samoa,NA
+1994,Samoa,NA
+1997,Samoa,NA
+1998,Samoa,NA
+2000,Samoa,NA
+2002,Samoa,NA
+2005,Samoa,NA
+2007,Samoa,NA
+2012,Samoa,NA
+1995,Papua New Guinea,0.32
+1999,Papua New Guinea,0.46
+2001,Papua New Guinea,0.46
+1995,Poland,NA
+1998,Poland,NA
+2000,Poland,NA
+2006,Rwanda,1.8
+2007,Rwanda,1.6
+2011,Rwanda,0.96
+2013,Rwanda,0.81
+2015,Rwanda,0.62
+2017,Rwanda,0.44
+2019,Rwanda,0.3
+1994,Saint Kitts and Nevis,NA
+2000,Saint Kitts and Nevis,NA
+2002,Saint Kitts and Nevis,NA
+2004,Saint Kitts and Nevis,NA
+2007,Saint Kitts and Nevis,NA
+2008,Saint Kitts and Nevis,NA
+2013,Sierra Leone,0.75
+2014,Sierra Leone,0.75
+2019,Sierra Leone,0.61
+2022,Sierra Leone,0.48
+1992,Singapore,0.1
+1995,Singapore,0.1
+1996,Singapore,0.1
+1998,Singapore,0.1
+2004,Singapore,0.1
+2005,Singapore,0.1
+1999,Spain,0.11
+2006,Spain,0.1
+2010,Spain,0.1
+2022,Spain,0.1
+1995,South Sudan,1.9
+1996,South Sudan,1.9
+1998,South Sudan,1.9
+2002,South Sudan,1.6
+2004,South Sudan,1.6
+2011,Tajikistan,0.14
+2012,Tajikistan,0.13
+2014,Tajikistan,0.11
+2016,Tajikistan,0.1
+2017,Tajikistan,0.1
+2018,Tajikistan,0.1
+2023,Tajikistan,0.1
+1996,Thailand,1.4
+1999,Thailand,0.93
+2014,Guinea-Bissau,1.1
+2017,Guinea-Bissau,0.9
+2005,Romania,0.1
+2016,Romania,0.1
+2019,Russian Federation,NA
+2020,Saint Kitts and Nevis,NA
+1996,Saint Vincent and the Grenadines,NA
+1998,Sao Tome and Principe,NA
+2007,Saudi Arabia,0.01
+1999,Switzerland,0.1
+2000,Switzerland,0.1
+2004,Switzerland,0.1
+2008,Switzerland,0.1
+2017,United Arab Emirates,NA
+2023,United Arab Emirates,NA
+1995,Tunisia,0.1
+1996,Tunisia,0.1
+1997,Tunisia,0.1
+2001,United Kingdom of Great Britain and Northern Ireland,NA
+2006,United Kingdom of Great Britain and Northern Ireland,NA
+2008,United Kingdom of Great Britain and Northern Ireland,NA
+2010,United Kingdom of Great Britain and Northern Ireland,NA
+2016,United Kingdom of Great Britain and Northern Ireland,NA
+2004,Yemen,0.1
+2005,Yemen,0.1
+2009,Yemen,0.1
+2011,Yemen,0.1
+2015,Yemen,0.1
+2021,Yemen,0.1
+2022,Yemen,0.1
+1993,Zambia,13
+1994,Zambia,13
+1998,Zambia,9.4
+2004,Zambia,7.2
+2005,Zambia,6.7
+2015,Democratic People's Republic of Korea,NA
+2020,Democratic People's Republic of Korea,NA
+2023,Democratic People's Republic of Korea,NA
+1990,Republic of Korea,NA
+1995,Republic of Korea,NA
+1996,Republic of Korea,NA
+1997,Republic of Korea,NA
+1998,Republic of Korea,NA
+1999,Republic of Korea,NA
+2020,Latvia,0.21
+1991,Liberia,3.2
+1995,Liberia,1.8
+2022,Luxembourg,0.1
+1990,Madagascar,NA
+1994,Madagascar,NA
+1998,Madagascar,NA
+2001,Madagascar,NA
+2002,Madagascar,NA
+2014,Madagascar,NA
+2015,Madagascar,NA
+2016,Madagascar,NA
+2017,Madagascar,NA
+2022,Mauritius,0.82
+2023,Mauritius,0.86
+1990,Mexico,0.1
+1994,Mexico,0.12
+1999,Mexico,0.13
+2001,Mexico,0.13
+2008,Mexico,0.15
+2009,Mexico,0.15
+2013,Mexico,0.17
+1990,Namibia,4.3
+1993,Namibia,10
+1999,Namibia,13
+2011,Namibia,5.8
+2023,Namibia,2.2
+1992,Nauru,NA
+2023,Niger,0.1
+1994,Nigeria,1.7
+2020,Yemen,0.1
+2004,Paraguay,0.19
+2005,Paraguay,0.19
+2008,Paraguay,0.19
+2015,Paraguay,0.2
+2019,Paraguay,0.2
+1991,Peru,0.3
+1992,Peru,0.29
+2003,Peru,0.17
+2012,Qatar,0.1
+2013,Qatar,0.1
+2016,Qatar,0.1
+2019,Qatar,0.1
+2021,Qatar,0.1
+2022,Qatar,0.1
+2023,Qatar,0.1
+1991,Romania,0.12
+2000,Romania,0.1
+2001,Romania,0.1
+2004,Romania,0.1
+2009,Romania,0.1
+2003,Senegal,0.42
+2006,Senegal,0.3
+2017,Senegal,0.1
+2022,Senegal,0.16
+2023,Senegal,0.16
+1991,Serbia,0.1
+1994,Serbia,0.1
+2004,Serbia,0.1
+2006,Serbia,0.1
+2001,Somalia,NA
+2006,Somalia,NA
+2008,Somalia,NA
+2011,Somalia,NA
+2018,Somalia,NA
+2019,Somalia,NA
+1993,South Africa,8.4
+2006,South Africa,11
+2011,Lesotho,11
+2012,Lesotho,11
+2016,Lesotho,7.8
+2017,Lesotho,6.7
+2018,Lesotho,5.5
+2019,Lesotho,5
+2008,Malawi,5
+2010,Malawi,4.2
+2017,Malawi,1.7
+2019,Malawi,1.1
+2023,Malawi,0.61
+1990,Malaysia,0.43
+1993,Malaysia,0.26
+1997,Malaysia,0.25
+1998,Malaysia,0.25
+2001,Malaysia,0.25
+2011,Mongolia,0.1
+2013,Mongolia,0.1
+2017,Mongolia,0.1
+2018,Mongolia,0.1
+2021,Mongolia,0.1
+1992,Republic of Moldova,0.1
+1997,Republic of Moldova,0.34
+2002,Nepal,0.19
+2005,Nepal,0.15
+2006,Nepal,0.13
+2014,Nepal,0.1
+2019,Nepal,0.1
+2022,Nepal,0.1
+1992,Netherlands (Kingdom of the),0.1
+1998,Netherlands (Kingdom of the),0.1
+2002,Netherlands (Kingdom of the),0.1
+2006,Netherlands (Kingdom of the),0.1
+2008,Netherlands (Kingdom of the),0.1
+2009,Netherlands (Kingdom of the),0.1
+2015,Norway,NA
+2016,Norway,NA
+2022,Norway,NA
+1998,Micronesia (Federated States of),NA
+2004,Micronesia (Federated States of),NA
+2009,Micronesia (Federated States of),NA
+2014,Micronesia (Federated States of),NA
+1990,Poland,NA
+1991,Poland,NA
+2014,Rwanda,0.71
+2016,Rwanda,0.51
+2021,Senegal,0.11
+1993,Serbia,0.1
+1995,Serbia,0.1
+1998,Serbia,0.1
+2012,Serbia,0.1
+2014,Serbia,0.1
+2016,Serbia,0.1
+2007,South Africa,10
+2015,South Africa,5.1
+2018,South Africa,3.9
+2019,South Africa,3.5
+2021,South Africa,3.1
+2018,Congo,1.8
+2018,Cook Islands,NA
+1993,Croatia,0.01
+2017,Croatia,0.1
+2022,Cyprus,NA
+2011,Senegal,0.16
+2003,Seychelles,NA
+2009,Singapore,0.1
+2019,Viet Nam,0.1
+1997,Slovenia,0.01
+1995,Somalia,NA
+2023,Sudan,0.11
+2006,Switzerland,0.1
+2023,Syrian Arab Republic,0.01
+2009,Niue,NA
+2018,Madagascar,NA
+2021,Madagascar,NA
+1991,Malawi,13
+1994,Malawi,14
+1995,Malawi,13
+2001,Malawi,8.6
+2002,Malawi,8
+2005,Malawi,6.3
+2006,Malawi,5.8
+2009,Malawi,4.4
+2014,Malawi,2.8
+2019,Mexico,0.16
+2020,Mexico,0.16
+2023,Mexico,0.15
+1995,Monaco,NA
+1999,Monaco,NA
+2000,Monaco,NA
+2004,Monaco,NA
+2008,Monaco,NA
+2010,Monaco,NA
+2014,Monaco,NA
+2015,Monaco,NA
+2016,Monaco,NA
+2020,Monaco,NA
+1991,Mongolia,0.01
+1993,Mongolia,0.01
+2002,Mongolia,0.1
+2003,Mongolia,0.1
+1994,Nauru,NA
+1998,Nauru,NA
+2001,Nauru,NA
+2002,Nauru,NA
+2007,Nauru,NA
+2008,Nauru,NA
+2009,Nauru,NA
+2011,Nauru,NA
+2013,Nauru,NA
+2022,Nauru,NA
+1990,Nepal,0.01
+1993,Nepal,0.1
+1996,Nepal,0.1
+1999,Nepal,0.22
+2004,Nepal,0.16
+1991,Niue,NA
+1996,United Republic of Tanzania,4.5
+2002,United Republic of Tanzania,3.1
+1999,Zambia,9
+2000,Zambia,8.6
+2006,Zambia,6.3
+2007,Zambia,5.9
+2010,Zambia,5.2
+2013,Zambia,5
+2014,Zambia,4.9
+2015,Zambia,4.7
+2016,Zambia,4.6
+2019,Zambia,3.5
+2022,Zambia,1.7
+2001,Western Pacific,0.1
+2005,Western Pacific,0.1
+2008,Western Pacific,0.1
+2009,Western Pacific,0.1
+2012,Western Pacific,0.1
+2015,Western Pacific,0.1
+2016,Western Pacific,0.1
+2021,Western Pacific,0.1
+2007,Peru,0.15
+2011,Peru,0.12
+2018,Peru,0.18
+2021,Peru,0.2
+1991,Philippines,0.01
+2013,Romania,0.1
+2015,Romania,0.1
+2022,Romania,0.1
+1991,Russian Federation,NA
+1993,Russian Federation,NA
+1995,Russian Federation,NA
+2002,Russian Federation,NA
+2015,Serbia,0.1
+1990,Seychelles,NA
+1993,Seychelles,NA
+1995,Seychelles,NA
+1997,Seychelles,NA
+1999,Seychelles,NA
+2011,Seychelles,NA
+1993,Sri Lanka,0.01
+2001,Sri Lanka,0.1
+2003,Sri Lanka,0.1
+2006,Sri Lanka,0.1
+2018,Comoros,0.1
+2020,Comoros,0.1
+2022,Comoros,0.1
+1999,Congo,2.5
+2002,Congo,2.2
+2005,Congo,2
+2013,Congo,1.9
+2017,Congo,1.9
+2020,Congo,1.8
+2012,Czechia,0.1
+2015,Czechia,0.1
+2018,Czechia,0.1
+2022,Czechia,0.1
+1995,Benin,1.4
+1998,Benin,1.2
+2007,Benin,0.68
+2012,Benin,0.42
+2013,Benin,0.39
+2017,Eritrea,0.11
+1993,Estonia,0.01
+1995,Estonia,0.01
+1997,Estonia,0.01
+1998,Estonia,0.01
+2000,Estonia,0.2
+2001,Estonia,0.86
+2004,Estonia,0.56
+2008,Estonia,0.31
+2010,Estonia,0.24
+2020,Gambia,0.68
+1997,Lebanon,0.1
+1998,Lebanon,0.1
+2002,Lebanon,0.1
+2014,Lebanon,0.1
+2016,Bahamas,0.27
+2010,Botswana,7.8
+2011,Botswana,8
+1995,Belize,0.66
+2010,Bulgaria,0.1
+1996,Myanmar,0.37
+2009,Myanmar,0.37
+2021,Myanmar,0.21
+2009,Belarus,0.25
+1990,World,0.48
+2020,Afghanistan,0.1
+1997,Antigua and Barbuda,NA
+2004,Egypt,0.01
+2019,Egypt,0.1
+2011,United States of America,NA
+2019,Uzbekistan,0.1
+2011,Samoa,NA
+2023,Madagascar,NA
+1996,Malawi,12
+1997,Malawi,12
+1998,Malawi,11
+1999,Malawi,9.7
+2003,Malawi,7.4
+2004,Malawi,6.8
+2013,Malawi,3.1
+2016,Malawi,2.1
+2018,Malawi,1.3
+2012,Monaco,NA
+2021,Monaco,NA
+2023,Monaco,NA
+2013,Myanmar,0.32
+2014,Myanmar,0.3
+2016,Myanmar,0.27
+2018,Myanmar,0.22
+2019,Myanmar,0.21
+1991,Burundi,4.4
+1996,Burundi,2
+2000,Burundi,1.2
+2001,Burundi,1.1
+2003,Burundi,0.91
+2005,Burundi,0.77
+2006,Burundi,0.69
+2007,Burundi,0.66
+2018,Niue,NA
+2012,Norway,NA
+1996,Micronesia (Federated States of),NA
+2010,Peru,0.12
+2013,Peru,0.13
+2003,Guinea-Bissau,3.2
+2007,Kyrgyzstan,0.11
+1994,Latvia,0.1
+1998,Morocco,0.1
+2021,Netherlands (Kingdom of the),0.1
+1995,Vanuatu,NA
+2001,Vanuatu,NA
+2002,Vanuatu,NA
+2006,Vanuatu,NA
+2010,Vanuatu,NA
+2011,Vanuatu,NA
+2014,Vanuatu,NA
+2016,Vanuatu,NA
+1998,Palau,NA
+2002,Palau,NA
+2009,Palau,NA
+2012,Zambia,5.1
+2002,Western Pacific,0.1
+2006,Western Pacific,0.1
+2007,Western Pacific,0.1
+2011,Western Pacific,0.1
+2014,Western Pacific,0.1
+1998,Central African Republic,NA
+2000,Central African Republic,NA
+2002,Central African Republic,NA
+2006,Central African Republic,NA
+2014,Central African Republic,NA
+2016,Colombia,0.26
+2019,Colombia,0.27
+2023,Colombia,0.25
+1992,Comoros,0.1
+1997,Comoros,0.1
+2011,Georgia,0.14
+2012,Georgia,0.15
+2017,Guatemala,0.1
+2018,Guatemala,0.1
+1994,Mongolia,0.01
+1998,Mongolia,0.01
+2005,Mongolia,0.1
+2006,Mongolia,0.1
+2007,Mongolia,0.1
